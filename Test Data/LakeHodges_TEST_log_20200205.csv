@@ -1,0 +1,76 @@
+Station Name,model and version,XL2 S/N
+LakeHodges_TEST,Sutron XLink 500 Version 8.28 Build  8:19:24 10/11/2019 revision 3127,1911371
+Label,Meas Type,Slope,Offset,Equation
+Level_950,Modbus,1.000000,0.000000,Off
+Flow_cfs,Meta,1.000000,0.000000,Off
+FlowVolume,Meta,1.000000,0.000000,Off
+Reset Powerup,02/04/2020,22:11:01,1,G
+Battery,02/04/2020,22:11:04,12.78,G
+Internal Temp,02/04/2020,22:11:04,21.90,G
+System Error: Cell SIM Error,02/04/2020,22:13:51,5582,G
+USB Cable,02/04/2020,22:17:27,1,G
+USB Cable,02/04/2020,22:19:16,0,G
+USB Cable,02/04/2020,22:19:19,1,G
+System Error: Cell SIM Error,02/04/2020,22:20:12,5582,G
+USB Cable,02/04/2020,22:24:27,0,G
+USB Cable,02/04/2020,22:25:25,1,G
+System Error: Cell SIM Error,02/04/2020,22:26:18,5582,G
+Log Download,02/04/2020,22:30:49,0,G
+Log Download,02/04/2020,22:31:02,0,G
+USB Cable,02/04/2020,22:32:10,0,G
+USB Cable,02/04/2020,23:08:12,1,G
+System Error: Cell SIM Error,02/04/2020,23:09:05,5582,G
+USB Cable,02/04/2020,23:12:25,0,G
+USB Cable,02/04/2020,23:14:59,1,G
+Setup Change,02/04/2020,23:15:38,0,G
+System Error: Cell SIM Error,02/04/2020,23:15:52,5582,G
+Setup Change,02/04/2020,23:17:41,0,G
+Recording,02/04/2020,23:35:30,1,G
+Level_950,02/04/2020,23:36:00,-3.42,G
+RS232 Connected,02/04/2020,23:36:02,0,G
+RS232 Disconnected,02/04/2020,23:36:02,0,G
+Flow_cfs,02/04/2020,23:36:00,0.00,G
+Setup Change,02/04/2020,23:36:03,0,G
+FlowVolume,02/04/2020,23:36:00,0.00,G
+Setup Change,02/04/2020,23:36:46,0,G
+System Error: Cell SIM Error,02/04/2020,23:36:55,5582,G
+USB Cable,02/04/2020,23:37:08,0,G
+USB Cable,02/04/2020,23:37:14,1,G
+Setup Change,02/04/2020,23:37:21,0,G
+Level_950,02/04/2020,23:37:00,-3.42,G
+RS232 Connected,02/04/2020,23:37:23,0,G
+RS232 Disconnected,02/04/2020,23:37:23,0,G
+Flow_cfs,02/04/2020,23:37:00,0.00,G
+FlowVolume,02/04/2020,23:37:00,0.00,G
+StatusClear,02/04/2020,23:37:56,0,G
+Level_950,02/04/2020,23:40:00,0.17,G
+RS232 Connected,02/04/2020,23:40:02,0,G
+RS232 Disconnected,02/04/2020,23:40:02,0,G
+Flow_cfs,02/04/2020,23:40:00,0.85,G
+FlowVolume,02/04/2020,23:40:00,0.00,G
+RS232 Connected,02/04/2020,23:41:02,0,G
+RS232 Disconnected,02/04/2020,23:41:02,0,G
+Level_950,02/04/2020,23:45:00,0.17,G
+RS232 Connected,02/04/2020,23:45:02,0,G
+RS232 Disconnected,02/04/2020,23:45:02,0,G
+Flow_cfs,02/04/2020,23:45:00,0.85,G
+FlowVolume,02/04/2020,23:45:00,0.00,G
+System Error: Cell SIM Error,02/04/2020,23:45:55,5582,G
+Level_950,02/04/2020,23:50:00,0.21,G
+RS232 Connected,02/04/2020,23:50:02,0,G
+RS232 Disconnected,02/04/2020,23:50:02,0,G
+Flow_cfs,02/04/2020,23:50:00,1.07,G
+FlowVolume,02/04/2020,23:50:00,0.00,G
+Level_950,02/04/2020,23:55:00,0.30,G
+RS232 Connected,02/04/2020,23:55:02,0,G
+RS232 Disconnected,02/04/2020,23:55:02,0,G
+Flow_cfs,02/04/2020,23:55:00,1.49,G
+FlowVolume,02/04/2020,23:55:00,0.00,G
+System Error: Cell SIM Error,02/04/2020,23:55:55,5582,G
+Log Download,02/04/2020,23:56:30,0,G
+Battery,02/04/2020,23:59:59,12.72,G
+Internal Temp,02/04/2020,23:59:59,23.08,G
+SMS Received Today,02/04/2020,23:59:59,0,G
+Cell Clients Today,02/04/2020,23:59:59,0,G
+Cell Bytes Tx Today,02/04/2020,23:59:59,0,G
+Cell Bytes Rx Today,02/04/2020,23:59:59,0,G
