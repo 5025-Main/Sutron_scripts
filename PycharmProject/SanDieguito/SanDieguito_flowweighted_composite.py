@@ -296,6 +296,111 @@ def trigger_sampler_master():
 #     utime.sleep(2.0)
 #     output_control('OUTPUT2', False)
 
+@MEASUREMENT
+def compute_volume_total(flow_cfs):
+    """
+    This function needs to be associated with the total volume measurement.
+    It will compute the total volume based on the current flow rate and past volume.
+    The script will trigger the sampler if appropriate.
+
+    :param flow: current flow rate
+    :return: the current volume reading
+
+    """
+    global sampling_on
+    global vol_pacing_cf
+    global g_volume_total
+    global aliquots_in_bottle
+    global bottle_capacity
+    global bottle_num
+    global aliquot_vol_mL
+
+    gp_sampling_on = gp_read_value_by_label("sampling_on")
+    sampling_on = sample_on_true_or_false(gp_sampling_on)
+
+
+    # Aliquot volume
+    aliquot_vol_mL = gp_read_value_by_label("aliquot_vol_mL")
+
+    # The container can hold a maximum number of aliquots
+    bottle_size_L = gp_read_value_by_label("bottle_size_L")
+    # aliquots; 19L / 250mL = 76
+    bottle_capacity = bottle_size_L / (aliquot_vol_mL/1000)
+
+    if sampling_on == False:
+        print ('Sampling is OFF')
+        print('Flow:' + "%.2f" % flow_cfs + 'cfs')
+        print ("Current bottle number: "+"%.0f"%bottle_num)
+        print ("Current pacing: "+"%.0f"%vol_pacing_cf)
+        print("Aliquots in bottle: " + "%.0f"%aliquots_in_bottle)
+        print("Bottle capacity: " + "%.0f"%bottle_capacity)
+
+
+    elif sampling_on == True:
+        print ('sampling is ON')
+        # Measurement is at 1 minute, flow in cfs * 60 sec = cfm
+        # flow = measure("Flow_cfs", READING_LAST).value  # what is the current flow rate?
+        incremental_vol = flow_cfs * 60. # cfs x 60 sec = cf per minute
+        # Add to running total volume
+        g_volume_total = g_volume_total + incremental_vol # cf per minute, at minute intervals just total up
+
+        print('Flow:' + "%.2f" % flow_cfs + 'cfs', '  IncrVol:' + "%.2f" % incremental_vol + 'cf',
+              '  TotalVol:' + "%.2f" % g_volume_total + 'cf')
+
+        # Pacing - check pacing, if it's different this function will update everything
+        pacing_vol, bottle_num = get_volume_pacing()
+
+
+        # update total volume and store it in a local variable
+        # in case we need to clear g_volume_total
+        #if is_scheduled():  # do not tally volume unless this is a scheduled measurement
+            #g_volume_total += incremental_vol  # update total volume
+
+        local_total = g_volume_total  # copy to a local variable
+
+        # if the running total volume is higher than pacing volume, trigger sampler
+        if local_total >= pacing_vol:
+            if trigger_sampler():
+                # sampler was triggered
+                # Write a log entry indicating why sampler was triggered.
+                reading = Reading(label="VolumeTrig", time=time_scheduled(),
+                                  etype='E', value=local_total, quality='G')
+                reading.write_log()
+
+                # get remaining volume and keep in running total
+                g_volume_total = g_volume_total - pacing_vol
+
+        #print ('Flow:'+"%.2f"%flow_cfs+'cfs', 'IncrVol:'+"%.2f"%incremental_vol+'cf', 'TotalVol:'+"%.2f"%g_volume_total+'cf')
+        # add diagnostic info to the script status
+        print ("Current bottle number: "+"%.0f"%bottle_num)
+        print ("Current pacing: "+"%.0f"%pacing_vol)
+        print("Aliquots in bottle: " + "%.0f"%aliquots_in_bottle)
+        print("Bottle capacity: " + "%.0f"%bottle_capacity)
+
+    if time_last_sample:
+        print("Last trigger: {}".format(ascii_time(time_last_sample)))
+    else:
+        print("Not triggered since bootup")
+
+    # Display log of samples taken
+    global sample_log
+    print ('Sample Log: ')
+    for k in sorted(sample_log):
+        print(sample_log[k])
+
+    return g_volume_total  # return the total volume (before clearing it)
+
+@MEASUREMENT
+def current_pacing(input):
+    vol_pacing_cf = gp_read_value_by_label("pacing_volume_cf")
+    print('Current flow pacing: ' + str(vol_pacing_cf))
+    return vol_pacing_cf
+
+@MEASUREMENT
+def number_of_aliquots(input):
+    global aliquots_in_bottle
+    print ('Number of aliquots in bottle: '+str(aliquots_in_bottle))
+    return aliquots_in_bottle
 
 @MEASUREMENT
 def rating_table(stage_in):
@@ -585,110 +690,7 @@ def rating_table(stage_in):
     print("")
     return flow_cfs
 
-@MEASUREMENT
-def compute_volume_total(flow_cfs):
-    """
-    This function needs to be associated with the total volume measurement.
-    It will compute the total volume based on the current flow rate and past volume.
-    The script will trigger the sampler if appropriate.
 
-    :param flow: current flow rate
-    :return: the current volume reading
-
-    """
-    global sampling_on
-    global vol_pacing_cf
-    global g_volume_total
-    global aliquots_in_bottle
-    global bottle_capacity
-    global bottle_num
-    global aliquot_vol_mL
-
-    gp_sampling_on = gp_read_value_by_label("sampling_on")
-    sampling_on = sample_on_true_or_false(gp_sampling_on)
-
-
-    # Aliquot volume
-    aliquot_vol_mL = gp_read_value_by_label("aliquot_vol_mL")
-
-    # The container can hold a maximum number of aliquots
-    bottle_size_L = gp_read_value_by_label("bottle_size_L")
-    # aliquots; 19L / 250mL = 76
-    bottle_capacity = bottle_size_L / (aliquot_vol_mL/1000)
-
-    if sampling_on == False:
-        print ('Sampling is OFF')
-        print('Flow:' + "%.2f" % flow_cfs + 'cfs')
-        print ("Current bottle number: "+"%.0f"%bottle_num)
-        print ("Current pacing: "+"%.0f"%vol_pacing_cf)
-        print("Aliquots in bottle: " + "%.0f"%aliquots_in_bottle)
-        print("Bottle capacity: " + "%.0f"%bottle_capacity)
-
-
-    elif sampling_on == True:
-        print ('sampling is ON')
-        # Measurement is at 1 minute, flow in cfs * 60 sec = cfm
-        # flow = measure("Flow_cfs", READING_LAST).value  # what is the current flow rate?
-        incremental_vol = flow_cfs * 60. # cfs x 60 sec = cf per minute
-        # Add to running total volume
-        g_volume_total = g_volume_total + incremental_vol # cf per minute, at minute intervals just total up
-
-        print('Flow:' + "%.2f" % flow_cfs + 'cfs', '  IncrVol:' + "%.2f" % incremental_vol + 'cf',
-              '  TotalVol:' + "%.2f" % g_volume_total + 'cf')
-
-        # Pacing - check pacing, if it's different this function will update everything
-        pacing_vol, bottle_num = get_volume_pacing()
-
-
-        # update total volume and store it in a local variable
-        # in case we need to clear g_volume_total
-        #if is_scheduled():  # do not tally volume unless this is a scheduled measurement
-            #g_volume_total += incremental_vol  # update total volume
-
-        local_total = g_volume_total  # copy to a local variable
-
-        # if the running total volume is higher than pacing volume, trigger sampler
-        if local_total >= pacing_vol:
-            if trigger_sampler():
-                # sampler was triggered
-                # Write a log entry indicating why sampler was triggered.
-                reading = Reading(label="VolumeTrig", time=time_scheduled(),
-                                  etype='E', value=local_total, quality='G')
-                reading.write_log()
-
-                # get remaining volume and keep in running total
-                g_volume_total = g_volume_total - pacing_vol
-        #print ('Flow:'+"%.2f"%flow_cfs+'cfs', 'IncrVol:'+"%.2f"%incremental_vol+'cf', 'TotalVol:'+"%.2f"%g_volume_total+'cf')
-        # add diagnostic info to the script status
-        print ("Current bottle number: "+"%.0f"%bottle_num)
-        print ("Current pacing: "+"%.0f"%pacing_vol)
-        print("Aliquots in bottle: " + "%.0f"%aliquots_in_bottle)
-        print("Bottle capacity: " + "%.0f"%bottle_capacity)
-
-    if time_last_sample:
-        print("Last trigger: {}".format(ascii_time(time_last_sample)))
-    else:
-        print("Not triggered since bootup")
-
-    # Display log of samples taken
-    global sample_log
-    print ('Sample Log: ')
-    for k in sorted(sample_log):
-        print(sample_log[k])
-
-    return g_volume_total  # return the total volume (before clearing it)
-
-@MEASUREMENT
-def current_pacing(input):
-    global vol_pacing_cf
-    print ('Current flow pacing: '+str(vol_pacing_cf))
-    return vol_pacing_cf
-
-@MEASUREMENT
-def number_of_aliquots(input):
-    global aliquots_in_bottle
-    print ('Number of aliquots in bottle: '+str(aliquots_in_bottle))
-    return aliquots_in_bottle
 @TASK
 def alarm_in_fast():
     # Up the sampling interval when in alarm

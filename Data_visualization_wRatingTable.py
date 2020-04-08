@@ -64,9 +64,6 @@ def rating_table(stage_in):
     #STAGETBL = ((0, 0), (18.33, 56.6), (28.60, 22), (36.22, 42), (44.77, 92), (51.04, 243), (57.09, 500),(63.16, 900), (70.13, 1317))
     
     STAGETBL = zip(rating_curve['Stage (in)'].values,rating_curve['Q Total (cfs)'].values)
-
-    
-    
     
     # Test for out of bounds stage values
     if stage_in < STAGETBL[0][0]:  # below
