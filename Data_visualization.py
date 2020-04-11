@@ -22,10 +22,10 @@ site_list = ['KITCARSON']
 site_list = ['DELDIOS']
 site_list = ['FELICITA']
 site_list = ['CLOVERDALE']
-site_list = ['GUEJITO']
-site_list = ['SYCAMORE']
-#site_list = ['MOONSONG']
-site_list = ['SDGCRK']
+#site_list = ['GUEJITO']
+#site_list = ['SYCAMORE']
+site_list = ['MOONSONG']
+#site_list = ['SDGCRK']
 #site_list = ['GREENVALLEY']
 use_recorded_flow = True
 #use_recorded_flow = False
@@ -94,12 +94,12 @@ for site in site_list:
     alarm_out['Datetime'] = pd.to_datetime(alarm_out['Datetime'])
     alarm_out = alarm_out.drop_duplicates(subset=['Datetime']).set_index('Datetime')
     
-    bottle_change = df_all[df_all['Param']=='BottleChang'][['Datetime','Result']]
-    bottle_change['Datetime'] = pd.to_datetime(bottle_change['Datetime'])
-    bottle_change = bottle_change.drop_duplicates(subset=['Datetime']).set_index('Datetime')
-    bottle_change = bottle_change.append(pd.DataFrame({'Result':1},index=[alarm_in.index[0]]))
-    bottle_change = bottle_change.sort()
-    
+#    bottle_change = df_all[df_all['Param']=='BottleChang'][['Datetime','Result']]
+#    bottle_change['Datetime'] = pd.to_datetime(bottle_change['Datetime'])
+#    bottle_change = bottle_change.drop_duplicates(subset=['Datetime']).set_index('Datetime')
+#    bottle_change = bottle_change.append(pd.DataFrame({'Result':1},index=[alarm_in.index[0]]))
+#    bottle_change = bottle_change.sort()
+#    
     #%%
     fig, ax1 = plt.subplots(1,1,figsize=(16,8))
     fig.suptitle(filename,fontsize=14,fontweight='bold')
