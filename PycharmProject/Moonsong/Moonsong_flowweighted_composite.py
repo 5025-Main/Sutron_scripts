@@ -475,6 +475,8 @@ def rating_table(stage_in):
                 (31.15, 660.0),
                 (31.29, 680.0),
                 (31.43, 693.0))
+
+
     # Test for out of bounds stage values
     if stage_in < STAGETBL[0][0]:  # below
         flow_cfs = STAGETBL[0][0]

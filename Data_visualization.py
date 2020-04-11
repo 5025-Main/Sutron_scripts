@@ -16,7 +16,7 @@ pd.set_option('display.max_rows', 40)
 pd.set_option('display.max_columns', 13)
 plt.ion()
 
-use_recorded_flow = True
+
 
 site_list = ['KITCARSON']
 site_list = ['DELDIOS']
@@ -24,16 +24,18 @@ site_list = ['FELICITA']
 site_list = ['CLOVERDALE']
 site_list = ['GUEJITO']
 site_list = ['SYCAMORE']
-site_list = ['MOONSONG']
+#site_list = ['MOONSONG']
 site_list = ['SDGCRK']
 #site_list = ['GREENVALLEY']
+use_recorded_flow = True
+#use_recorded_flow = False
 
-#site_list = ['DELDIOS', 'FELICITA', 'KITCARSON','GREENVALLEY', 'MOONSONG','CLOVERDALE','SYCAMORE','SDGCRK']
+#site_list = ['DELDIOS', 'FELICITA', 'KITCARSON','GREENVALLEY', 'MOONSONG','CLOVERDALE','GUEJITO','SYCAMORE','SDGCRK']
 
 for site in site_list:
     print site
     datadir = 'C:/Users/alex.messina/Documents/GitHub/Sutron_scripts/Data Download/Storm 3/'
-    filename = 'LakeHodges_'+site+'_log_20200408.csv'
+    filename = 'LakeHodges_'+site+'_log_20200410.csv'
     
     #%%
     
