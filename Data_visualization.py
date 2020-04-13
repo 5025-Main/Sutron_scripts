@@ -17,15 +17,15 @@ pd.set_option('display.max_columns', 13)
 plt.ion()
 
 
-
-site_list = ['KITCARSON']
-site_list = ['DELDIOS']
-site_list = ['FELICITA']
+#
+#site_list = ['KITCARSON']
+#site_list = ['DELDIOS']
+#site_list = ['FELICITA']
 site_list = ['CLOVERDALE']
-#site_list = ['GUEJITO']
-#site_list = ['SYCAMORE']
-site_list = ['MOONSONG']
-#site_list = ['SDGCRK']
+site_list = ['GUEJITO']
+site_list = ['SYCAMORE']
+#site_list = ['MOONSONG']
+site_list = ['SDGCRK']
 #site_list = ['GREENVALLEY']
 use_recorded_flow = True
 #use_recorded_flow = False
@@ -35,7 +35,7 @@ use_recorded_flow = True
 for site in site_list:
     print site
     datadir = 'C:/Users/alex.messina/Documents/GitHub/Sutron_scripts/Data Download/Storm 3/'
-    filename = 'LakeHodges_'+site+'_log_20200410.csv'
+    filename = 'LakeHodges_'+site+'_log_20200413.csv'
     
     #%%
     
@@ -136,15 +136,16 @@ for site in site_list:
     ax2.tick_params(axis='y',colors='b',labelsize=14)
     
     ## Plot Aliquots
-    ax2.plot_date(aliquots.index,aliquots['Flow'],ls='None',marker='o',c='k',label='Aliquots')
-    for al in aliquots.iterrows():
-        print al
-        al_num = "%.0f"%al[1]['Result']
-        ax2.annotate(al_num,xy=(pd.to_datetime(al[0]),al[1]['Flow']*1.05),ha='center')
+#    ax2.plot_date(aliquots.index,aliquots['Flow'],ls='None',marker='o',c='k',label='Aliquots')
+#    for al in aliquots.iterrows():
+#        print al
+#        al_num = "%.0f"%al[1]['Result']
+#        ax2.annotate(al_num,xy=(pd.to_datetime(al[0]),al[1]['Flow']*1.05),ha='center')
+        
     # Plot Bottle Changes
-    for b_chng in bottle_change.iterrows():
-        ax1.axvline(b_chng[0],label='Bottle: '+"%.0f"%b_chng[1]['Result'],c='grey',alpha=0.6)
-        ax1.annotate('^ Bottle '+"%.0f"%b_chng[1]['Result']+' ^',xy=(b_chng[0],5),ha='left',rotation=-90)
+#    for b_chng in bottle_change.iterrows():
+#        ax1.axvline(b_chng[0],label='Bottle: '+"%.0f"%b_chng[1]['Result'],c='grey',alpha=0.6)
+#        ax1.annotate('^ Bottle '+"%.0f"%b_chng[1]['Result']+' ^',xy=(b_chng[0],5),ha='left',rotation=-90)
 
     ## FMT
 
