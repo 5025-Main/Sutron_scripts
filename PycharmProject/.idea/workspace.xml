@@ -2,27 +2,221 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c56472f-f7b3-4832-8282-360ef77cab90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Hydrographs/Cloverdale 4_8_20 morning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Hydrographs/DelDios 4_8_20 morning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Hydrographs/Felicita 4_8_20 morning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Hydrographs/Guejito 4_8_20 morning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Hydrographs/Kit Carson 4_8_20 morning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Hydrographs/Moonsong 4_8_20 morning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Hydrographs/SDG_CRK 4_8_20 morning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Hydrographs/Sycamore 4_8_20 morning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/LakeHodges_CLOVERDALE_log_20200408.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/LakeHodges_DELDIOS_log_20200408.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/LakeHodges_FELICITA_log_20200408.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/LakeHodges_GREENVALLEY_log_20200408.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/LakeHodges_GUEJITO_log_20200407.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/LakeHodges_GUEJITO_log_20200408.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/LakeHodges_KITCARSON_log_20200408.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/LakeHodges_MOONSONG_log_20200408.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/LakeHodges_SDGCRK_log_20200408.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/LakeHodges_SYCAMORE_log_20200408.csv" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElKu_flowweighted_composite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lomica_flowweighted_composite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oceans11_flowweighted_composite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tazon_flowweighted_composite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8478.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8478.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8479.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8479.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8480.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8480.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8481.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8481.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8482.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8486.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8486.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8487.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8487.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8488.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8488.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8489.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8489.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8490.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8490.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8491.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8491.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8492.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8492.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8493.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8493.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8494.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8494.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8495.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8495.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8496.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8496.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8497.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8497.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8498.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8498.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8499.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8499.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8500.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8500.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8501.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8501.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8502.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8502.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8503.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8503.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8504.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8504.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8505.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8505.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8506.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8506.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8507.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8507.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8508.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8508.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8509.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8509.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8522.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8522.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8526.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8526.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8538.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8538.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8539.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8539.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8540.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8540.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8541.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8541.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8543.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8543.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8544.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8544.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8546.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8546.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8547.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8547.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8556.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8556.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8557.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8557.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8564.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8564.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8566.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8566.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8574.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8574.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8575.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8575.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8581.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8581.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8584.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8584.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8585.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8585.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8586.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8586.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8588.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8588.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8597.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8597.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8605.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8605.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8606.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8606.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8608.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8608.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8609.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8609.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8610.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8610.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8631.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8631.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8634.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8634.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8642.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8644.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8645.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8645.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8650.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8653.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8653.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8722.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8722.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8723.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8723.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8724.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8724.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8725.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8725.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8726.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8726.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8727.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8727.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8728.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8728.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8729.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Download/Storm 3/Pics/IMG_8729.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Data_visualization.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_visualization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Rating curves for Sutrons_Pacings worksheet.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Rating curves for Sutrons_Pacings worksheet.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moonsong/Moonsong_flowweighted_composite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moonsong/Moonsong_flowweighted_composite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Cloverdale/Cloverdale_flowweighted_composite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/DelDios/DelDios_flowweighted_composite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/FDS Flow Measurement Form.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../LakeHodges/FDS Flow Measurement Form.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Felicita/Felicita_flowweighted_composite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/GreenValley/GreenValley_flowweighted_composite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Guejito/Guejito_flowweighted_composite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/KitCarson/KitCarson_flowweighted_composite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Moonsong/Moonsong_flowweighted_composite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Cloverdale Cross Section Survey 1_21_2020.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Green Valley Cross Section Survey 1_21_2020.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Guejito Cross Section Survey 1_22_2020.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Kit Carson Cross Section Survey 1_20_2020.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Moonsong Cross Section Survey 1_21_2020.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Burns guessed the combo to this lock.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Cloverdale downstream bride face(2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Cloverdale downstream bridge face (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Cloverdale downstream bridge face (2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Cloverdale downstream bridge face.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Cloverdale upstream bridge face (2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Cloverdale upstream bridge face.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Del Dios downstream cross section.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Del Dios downstream of bridge.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Del Dios upstream cross section.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Del Dios upstream of bridge.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Felicita Cross Section A(1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Felicita cross section A(2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Felicita cross section A(3).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Felicita cross section A(4).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Felicita upstream cross section(1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Green Valley south culvert slope survey downstream.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Green Valley south culvert slope survey.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Green Valley south curlvert.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito bridge curves and slopes to the south.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito bridge looking upstream (north).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito downstream bridge east bank.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito downstream bridge face survey.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito downstream bridge section looking southeast (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito downstream bridge section looking southeast (2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito downstream bridge survey after turning point (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito downstream bridge survey after turning point (2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito downstream bridgeface survey.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito downstream floodplain survey.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito downstream plain.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito facing north.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito floodplain looking north upstream(1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito floodplain looking north upstream(2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito upstream bridge looking west.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Guejito upstream bridge section looking east (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/IMG_7441.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Kit Carson downstream face of bridge.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Moonsong benchmark and turning point.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Moonsong downstream bridge face (2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Moonsong downstream bridge face(1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Moonsong upstream bridge face.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/SanDieguito downstream side of bridge(1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/SanDieguito downstream side of bridge(2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/SanDieguito weird vegetation debris upstream.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore 22ft upstream cross section west bank.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore downstream GPS survey.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore downstream bridge face (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore downstream bridge face (2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore downstream bridge face survey.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore downstream looking south towards bridge.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore lateral MS4 flowing upstream.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore lateral MS4 inflow from that rockpile.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore lateral MS4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore upstream bridge survey of low flow box.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore upstream cross section 22ft.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore upstream lateral MS4 inflow.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore uptream bridge face (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Photos/Sycamore uptream bridge face low flow box (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Rating curves for Sutrons_MEE.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/SDG Creek Cross Section Survey 1_20_2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/SDG Creek Cross Section Survey 1_20_2020.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/SDG Creek Cross Section Survey 1_20_2020_zoom.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Felicia Monitoring Point(1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Felicita 1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Felicita Downstream cross section (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Felicita Monitoring Point (2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Felicita Upstream cross section (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Felicita Upstream cross section (2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Kit Carson downstream bridge face.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Kit Carson upstream bridge face.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg0-Felicita.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg1-KitCarson.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg10-GreenValley.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg11-GreenValley.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg12-Cloverdale.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg13-Cloverdale.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg14-Cloverdale.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg15-Sycamore.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg16-Sycamore.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg17-Sycamore.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg18-Sycamore.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg19-Guejito.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg2-KitCarson.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg20-Guejito.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg3-SanDieguito.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg4-KitCarson.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg5-Moonsong.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg6-Moonsong.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg7-Moonsong.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg8-Moonsong.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/LakeHodges-surveys-pg9-GreenValley.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Moonsong 44ft downstream.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Moonsong downstream face of bridge.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/Moonsong upstream cross section.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Scanned Field notes/San Dieguito Creek (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Cross Sections - Lake Hodges/Sycamore Cross Section Survey 1_22_2020.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/February 2019 Storm Summary.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Green Valley flow calcs.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/HDG102-Via Rancho Prkwy-FLOW.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Hodges Creeks pacing worksheet - Storm 1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Lake Hodges_Rating Curves_03052020.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Rating curves for Sutrons_Pacings worksheet.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/RatingCurves.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Storm 1 Hodges MS4 flow pacing calculator.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Stream Gaging Worksheet_MArch 2020 measurements.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/Sutrons_Pacings worksheet_Storm1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/~$HDG102-Via Rancho Prkwy-FLOW.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Rating Curve and Pacings Development/~$Hodges MS4 flow pacing calculator.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/SanDieguito/LakeHodges-surveys-pg3-SanDieguito.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/SanDieguito/SDG Creek Cross Section Survey 1_20_2020.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/SanDieguito/San Dieguito Creek (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/SanDieguito/SanDieguito_flowweighted_composite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 1/Equipment Settings - Storm 1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 1/NWS forecast Monday night 3-9-2020.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 2/Equipment Settings - Storm 2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 2/Hodges Creeks pacing worksheet - Storm 2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 2/Hodges Creeks pacing worksheet.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 2/Hodges MS4 flow pacing calculator - Storm 2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 3/Equipment Settings - Storm 3.2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 3/Equipment Settings - Storm 3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 3/Hodges Creeks pacing worksheet_WW3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 3/Hodges MS4 flow pacing calculator_ww3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 3/first draft/Hodges Creeks pacing worksheet-Storm 3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Storm 3/first draft/Hodges MS4 flow pacing calculator-Storm 3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LakeHodges/Sycamore/Sycamore_flowweighted_composite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,10 +227,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KitCarson/KitCarson_flowweighted_composite.py">
+        <entry file="file://$PROJECT_DIR$/viaRancho_flowweighted_composite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8757">
-              <caret line="418" column="20" selection-start-line="417" selection-start-column="4" selection-end-line="419" selection-end-column="24" />
+            <state relative-caret-position="208">
+              <caret line="958" selection-start-line="958" selection-end-line="963" selection-end-column="48" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -45,43 +239,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SanDieguito/SanDieguito_flowweighted_composite.py">
+        <entry file="file://$PROJECT_DIR$/Lomica_flowweighted_composite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="437" column="27" selection-start-line="437" selection-start-column="27" selection-end-line="437" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Moonsong/Moonsong_flowweighted_composite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="300" selection-start-line="300" selection-end-line="502" />
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Moonsong/flow.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="189" column="37" lean-forward="true" selection-start-line="189" selection-start-column="37" selection-end-line="189" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Felicita/Felicita_flowweighted_composite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6424">
-              <caret line="134" column="25" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="25" />
+            <state relative-caret-position="389">
+              <caret line="322" column="29" lean-forward="true" selection-start-line="322" selection-start-column="29" selection-end-line="322" selection-end-column="29" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -90,10 +251,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DelDios/DelDios_flowweighted_composite.py">
+        <entry file="file://$PROJECT_DIR$/Oceans11_flowweighted_composite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6895">
-              <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
+            <state relative-caret-position="3733">
+              <caret line="524" column="48" selection-start-line="524" selection-start-column="48" selection-end-line="524" selection-end-column="48" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -102,10 +263,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GreenValley/GreenValley_flowweighted_composite.py">
+        <entry file="file://$PROJECT_DIR$/Tazon_flowweighted_composite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7308">
-              <caret line="349" column="31" selection-start-line="349" selection-start-column="31" selection-end-line="349" selection-end-column="31" />
+            <state relative-caret-position="336">
+              <caret line="317" column="27" lean-forward="true" selection-start-line="317" selection-start-column="27" selection-end-line="317" selection-end-column="27" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -114,10 +275,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cloverdale/Cloverdale_flowweighted_composite.py">
+        <entry file="file://$PROJECT_DIR$/ElKu_flowweighted_composite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2982">
-              <caret line="143" column="7" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
+            <state relative-caret-position="609">
+              <caret line="316" column="23" lean-forward="true" selection-start-line="316" selection-start-column="23" selection-end-line="316" selection-end-column="23" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -157,14 +318,19 @@
         <option value="$PROJECT_DIR$/SanDieguito/SanDieguito_flowweighted_composite.py" />
         <option value="$PROJECT_DIR$/Moonsong/Moonsong_flowweighted_composite.py" />
         <option value="$PROJECT_DIR$/Moonsong/flow.py" />
+        <option value="$PROJECT_DIR$/Lomica_flowweighted_composite.py" />
+        <option value="$PROJECT_DIR$/Tazon_flowweighted_composite.py" />
+        <option value="$PROJECT_DIR$/ElKu_flowweighted_composite.py" />
+        <option value="$PROJECT_DIR$/viaRancho_flowweighted_composite.py" />
+        <option value="$PROJECT_DIR$/Oceans11_flowweighted_composite.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="129" />
-    <option name="width" value="1440" />
-    <option name="height" value="774" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -172,6 +338,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,29 +364,23 @@
             <path>
               <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProject" type="462c0819:PsiDirectoryNode" />
-              <item name="GreenValley" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Moonsong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProject" type="462c0819:PsiDirectoryNode" />
-              <item name="SanDieguito" type="462c0819:PsiDirectoryNode" />
+              <item name="Sycamore" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LakeHodges" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alex.messina\Documents\GitHub\Sutron_scripts\PycharmProject" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -298,8 +459,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2859408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2859408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -358,6 +520,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Moonsong/flow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="189" column="37" selection-start-line="189" selection-start-column="37" selection-end-line="189" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/KitCarson/KitCarson_flowweighted_composite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8757">
@@ -368,29 +537,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GreenValley/GreenValley_flowweighted_composite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7308">
-          <caret line="349" column="31" selection-start-line="349" selection-start-column="31" selection-end-line="349" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cloverdale/Cloverdale_flowweighted_composite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2982">
-          <caret line="143" column="7" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SanDieguito/SanDieguito_flowweighted_composite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
+        <state relative-caret-position="9156">
           <caret line="437" column="27" selection-start-line="437" selection-start-column="27" selection-end-line="437" selection-end-column="27" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
@@ -400,24 +549,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Moonsong/Moonsong_flowweighted_composite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="300" selection-start-line="300" selection-end-line="502" />
+        <state relative-caret-position="783">
+          <caret line="397" column="29" lean-forward="true" selection-start-line="397" selection-start-column="29" selection-end-line="397" selection-end-column="29" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Moonsong/flow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="189" column="37" lean-forward="true" selection-start-line="189" selection-start-column="37" selection-end-line="189" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Felicita/Felicita_flowweighted_composite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6424">
+        <state relative-caret-position="783">
           <caret line="134" column="25" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="25" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
@@ -427,8 +569,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DelDios/DelDios_flowweighted_composite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6895">
+        <state relative-caret-position="783">
           <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenValley/GreenValley_flowweighted_composite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="349" column="31" selection-start-line="349" selection-start-column="31" selection-end-line="349" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cloverdale/Cloverdale_flowweighted_composite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="143" column="7" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lomica_flowweighted_composite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="322" column="29" lean-forward="true" selection-start-line="322" selection-start-column="29" selection-end-line="322" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tazon_flowweighted_composite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="317" column="27" lean-forward="true" selection-start-line="317" selection-start-column="27" selection-end-line="317" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElKu_flowweighted_composite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="316" column="23" lean-forward="true" selection-start-line="316" selection-start-column="23" selection-end-line="316" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viaRancho_flowweighted_composite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="958" selection-start-line="958" selection-end-line="963" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oceans11_flowweighted_composite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3733">
+          <caret line="524" column="48" selection-start-line="524" selection-start-column="48" selection-end-line="524" selection-end-column="48" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
