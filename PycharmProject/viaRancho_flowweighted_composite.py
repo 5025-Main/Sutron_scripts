@@ -1,11 +1,9 @@
 from sl3 import *
 import utime
 
-
 """ code below is copied from general_purpose.py """
 
 gp_count = 32  # how many general purpose variable sets there are
-
 
 def gp_index_valid(gp_index):
     """ returns True if the provided general purpose variable index is valid"""
