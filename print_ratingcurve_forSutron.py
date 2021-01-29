@@ -15,7 +15,7 @@ pd.set_option('display.max_rows', 40)
 pd.set_option('display.max_columns', 13)
 plt.ion()
 
-#site = 'Del Dios'
+site = 'Del Dios'
 #site = 'Felicita'
 #site = 'Kit Carson'
 #site = 'Cloverdale'
@@ -28,7 +28,7 @@ plt.ion()
 #site = 'El Ku'
 #site = 'Via Rancho'
 #site = 'Tazon'
-site = 'Oceans11'
+#site = 'Oceans11'
 #site = 'Lomica'
 
 datadir = 'C:/Users/alex.messina/Documents/GitHub/Sutron_scripts/LakeHodges/Sutron_Scripts/Creeks/'

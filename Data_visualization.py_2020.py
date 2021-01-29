@@ -29,7 +29,7 @@ gpm = ['ElKu','Tazon','Oceans11','Lomica']
 #creeks
 #site_list = ['KITCARSON']
 #site_list = ['DELDIOS']
-#site_list = ['FELICITA']
+site_list = ['FELICITA']
 #site_list = ['CLOVERDALE']
 #site_list = ['GUEJITO']
 #site_list = ['SYCAMORE']
@@ -39,7 +39,7 @@ gpm = ['ElKu','Tazon','Oceans11','Lomica']
 
 #outfalls
 #site_list = ['ElKu']
-site_list = ['ViaRancho']
+#site_list = ['ViaRancho']
 #site_list = ['Tazon']
 #site_list = ['Oceans11']
 #site_list = ['Lomica']
@@ -129,7 +129,7 @@ for site in site_list:
     df = df.resample('5Min').mean()  
     
     
-    #%% RECALCULATE FLOWS
+##%% RECALCULATE FLOWS
     if use_recorded_flow == False:
         ## Rating Curve
         rating_curves = pd.ExcelFile(datadir+'Current_RatingCurves.xlsx')
@@ -145,7 +145,7 @@ for site in site_list:
             df['Flow_cfs'] = pd.DataFrame(level['Result'].apply(lambda x: rating_table(rating_curve,float(x))),columns=['Result'])
     
 
-    #%% PLOT
+##%% PLOT
     fig, ax1 = plt.subplots(1,1,figsize=(16,8))
     fig.suptitle(site,fontsize=14,fontweight='bold')
     
@@ -211,10 +211,12 @@ for site in site_list:
     
     plt.tight_layout()
     plt.subplots_adjust(top=0.95)
+    
+
 
 #%%
 import mpld3
-html_file= open('C:/Users/alex.messina/Documents/GitHub/Sutron_scripts/LakeHodges/InteractiveFiles/'+site+'-flow_data.html',"w")
+html_file= open('C:/Users/alex.messina/Documents/GitHub/Sutron_scripts/LakeHodges/Interactive Data Files/'+site+'-flow_data.html',"w")
 mpld3.save_html(fig,html_file)
 html_file.close()
 
