@@ -19,6 +19,10 @@ pd.set_option('display.max_rows', 40)
 pd.set_option('display.max_columns', 13)
 plt.ion()
 
+## Set Storm start and end
+storm_start = dt.datetime(2021,1,28,20,0)
+storm_end = dt.datetime(2021,1,31,12)
+
 use_recorded_flow = True
 #use_recorded_flow = False
 
@@ -27,20 +31,19 @@ gpm = ['ElKu','Tazon','Oceans11','Lomica']
 
 #### INDIVIDUAL SITES
 #creeks
-#site_list = ['KITCARSON']
 #site_list = ['DELDIOS']
-site_list = ['FELICITA']
+#site_list = ['FELICITA']
+#site_list = ['KITCARSON']
 #site_list = ['CLOVERDALE']
 #site_list = ['GUEJITO']
-#site_list = ['SYCAMORE']
-#site_list = ['MOONSONG']
 #site_list = ['SDGCRK']
+#site_list = ['MOONSONG']
 #site_list = ['GREENVALLEY']
-
+#site_list = ['SYCAMORE']
 #outfalls
 #site_list = ['ElKu']
 #site_list = ['ViaRancho']
-#site_list = ['Tazon']
+site_list = ['Tazon']
 #site_list = ['Oceans11']
 #site_list = ['Lomica']
 
@@ -63,14 +66,36 @@ for site in site_list:
     for fname in [f for f in os.listdir(datadir) if site in f and 'loggrp' in f]:
         print (fname)
         df_ind = pd.read_csv(datadir+fname,index_col=0,header=0,skiprows=[1])
+        
+        ## Rename flow data column
+        if site in gpm:
+            flow_units = 'gpm'
+            print ('Rename PT Flow to Flow_gpm')
+            df_ind = df_ind.rename(columns={'PT Flow':'Flow_gpm','Flow _PT':'Flow_gpm','Flow_PT':'Flow_gpm'})
+        if site in cfs:
+            flow_units = 'cfs'
+            print ('Rename PT Flow to Flow_cfs')
+            df_ind = df_ind.rename(columns={'PT Flow':'Flow_cfs','Flow _PT':'Flow_cfs','Flow_PT':'Flow_cfs'})     
+        ## Rename Level
+        df_ind = df_ind.rename(columns={'PT Level':'Level_PT'})     
+        
+        if site=='GREENVALLEY':
+            df_ind = df_ind.rename(columns={'PT North':'Level_PT_No', 'PT South':'Level_PT_So'}) 
+            
+        
+        ## Rename other stuff
+        df_ind = df_ind.rename(columns={'Aliquot_Num':'AliquotNum','Curr_pacing':'SamplePacin','FlowVolume':'Incr_Flow'})
+        
+        ## Combine date and time
         if 'Time' in df_ind.columns:
-            df_ind.index = pd.to_datetime(df_ind.index +' '+ df_ind['Time'])
+            df_ind.index = pd.to_datetime(df_ind.index +' '+ df_ind['Time'])  
         ## append to df
         df = df.append(df_ind,sort=True)
     
     ##format df
     # Replace error values == -99999
     df = df.replace(-99999,np.nan)
+    df = df.replace(-99,np.nan)
     # ensure datetime index and drop duplicates
     df.index = pd.to_datetime(df.index)
     df['Datetime'] = df.index
@@ -82,18 +107,12 @@ for site in site_list:
     # Interpolate data to fill gap
     for col in ['Level_950','Vel_950','Flow_950']:
         if col in df:
-            df[col] = df[col].interpolate('linear',axis=0,limit=2)
+            df[col] = df[col].interpolate('linear',axis=0,limit=3)
             
-    ## Rename flow data column
-    if site in gpm and 'PT Flow' in df.columns:
-        print ('Rename PT Flow to Flow_gpm')
-        df = df.rename(columns={'PT Flow':'Flow_gpm'})
-    if site in gpm and 'PT Flow' in df.columns:
-        print ('Rename PT Flow to Flow_cfs')
-        df = df.rename(columns={'PT Flow':'Flow_cfs'})        
-            
-      
-    
+    if site == 'Tazon':
+        df['Flow_gpm'] = df['Flow_950']
+        df['Level_PT'] = df['Level_950']
+
 #    df['PT Level'].plot()
             
     ## Alarm Data
@@ -113,11 +132,19 @@ for site in site_list:
     ## Event df's
     ## Aliquots
     aliquots = events[events['Label']=='Triggered S'][['Label','Value']]
+    manual_grabs = events[events['Label']=='Trigger Man'][['Label','Value']]
     if site in gpm:
         aliquots['Flow_gpm'] = df['Flow_gpm']
     if site in cfs:
         aliquots['Flow_cfs'] = df['Flow_cfs']
     aliquots = aliquots.dropna()
+    aliquots['Datetime'] = aliquots.index 
+    aliquots['Time between aliquots'] = aliquots['Datetime'].diff()
+    aliquots = aliquots.drop('Datetime',1)
+    aliquots = aliquots.rename(columns={'Value':'Aliquot#'}) 
+    aliquots['Aliquot#'] = aliquots['Aliquot#'].astype(int)
+                
+    
     ## Alarms
     alarm_in = events[events['Label']=='Alarm In'][['Label','Value']]
     alarm_out =  events[events['Label']=='Alarm Out'][['Label','Value']]
@@ -126,7 +153,7 @@ for site in site_list:
 
     ## 
     ## now resample to 5Min  
-    df = df.resample('5Min').mean()  
+#    df = df.resample('1Min')#.mean()  
     
     
 ##%% RECALCULATE FLOWS
@@ -138,25 +165,24 @@ for site in site_list:
         rating_curve.index = rating_curve['Stage (in)']
         ## From rating curve
         if site == 'GREENVALLEY':
-            df['Flow_north_cfs']  = pd.DataFrame(df['PT North'].apply(lambda x: rating_table(rating_curve,float(x))),columns=['PT North'])
-            df['Flow_south_cfs']  = pd.DataFrame(df['PT South'].apply(lambda x: rating_table(rating_curve,float(x))),columns=['PT South'])
+            df['Flow_north_cfs']  = pd.DataFrame(df['Level_PT_No'].apply(lambda x: rating_table(rating_curve,float(x))),columns=['Level_PT_No'])
+            df['Flow_south_cfs']  = pd.DataFrame(df['Level_PT_So'].apply(lambda x: rating_table(rating_curve,float(x))),columns=['Level_PT_So'])
             df['Flow_cfs'] = df['Flow_north_cfs'] + df['Flow_south_cfs']
         else:
             df['Flow_cfs'] = pd.DataFrame(level['Result'].apply(lambda x: rating_table(rating_curve,float(x))),columns=['Result'])
     
-
 ##%% PLOT
     fig, ax1 = plt.subplots(1,1,figsize=(16,8))
     fig.suptitle(site,fontsize=14,fontweight='bold')
     
     ## Water Level
-    if site=='GREENVALLEY' and use_recorded_flow==False:
-        ax1.plot_date(df.index,df['PT North'],ls='-',marker='None',c='r',label='Water Level from PT North')
-        ax1.plot_date(df.index,df['PT South'],ls='-',marker='None',c='g',label='Water Level from PT South')
-        ax1.set_ylim(0, df['PT North'].max()*1.25)
+    if site=='GREENVALLEY':
+        ax1.plot_date(df.index,df['Level_PT_No'],ls='-',marker='None',c='r',label='Water Level from PT North')
+        ax1.plot_date(df.index,df['Level_PT_So'],ls='-',marker='None',c='g',label='Water Level from PT South')
+        ax1.set_ylim(0, df['Level_PT_No'].max()*1.25)
     else:
-        ax1.plot_date(df.index,df['PT Level'],ls='-',marker='None',c='r',label='Water Level from PT')
-        ax1.set_ylim(0, df['PT Level'].max()*1.25)
+        ax1.plot_date(df.index,df['Level_PT'],ls='-',marker='None',c='r',label='Water Level from PT')
+        ax1.set_ylim(0, df['Level_PT'].max()*1.25)
     ax1.set_ylabel('Water Level (inches)',color='r',fontsize=14,fontweight='bold')
     ax1.spines['left'].set_color('r')
     ax1.tick_params(axis='y',colors='r',labelsize=14)
@@ -178,8 +204,8 @@ for site in site_list:
             if len(aliquots) >0:
                 ax2.plot_date(aliquots.index,aliquots['Flow_cfs'],ls='None',marker='o',c='k',label='Aliquots')
                 for al in aliquots.iterrows():
-                    print (al)
-                    al_num = "%.0f"%al[1]['Value']
+                    #print (al)
+                    al_num = "%.0f"%al[1]['Aliquot#']
                     ax2.annotate(al_num,xy=(pd.to_datetime(al[0]),al[1]['Flow_cfs']*1.05),ha='center')
             
         if site in gpm:
@@ -190,13 +216,10 @@ for site in site_list:
             if len(aliquots) >0:
                 ax2.plot_date(aliquots.index,aliquots['Flow_gpm'],ls='None',marker='o',c='k',label='Aliquots')
                 for al in aliquots.iterrows():
-                    print (al)
-                    al_num = "%.0f"%al[1]['Value']
+                    #print (al)
+                    al_num = "%.0f"%al[1]['Aliquot#']
                     ax2.annotate(al_num,xy=(pd.to_datetime(al[0]),al[1]['Flow_gpm']*1.05),ha='center')
-    
-    
-    
-        
+    ax2.xaxis.set_major_formatter(mpl.dates.DateFormatter('%A \n %m/%d/%y %H:%M'))  
     # Plot Bottle Changes
     for b_chng in bottle_change.iterrows():
         ax1.axvline(b_chng[0],label='Bottle: '+"%.0f"%b_chng[1]['Value'],c='grey',alpha=0.6)
@@ -212,6 +235,24 @@ for site in site_list:
     plt.tight_layout()
     plt.subplots_adjust(top=0.95)
     
+    ## Zoom to storm
+    ax1.set_xlim(storm_start,storm_end)
+    if site == 'GREENVALLEY':
+        ax1.set_ylim(0, df.loc[storm_start:storm_end,'Level_PT_No'].max()*1.25)
+    else:
+        ax1.set_ylim(0, df.loc[storm_start:storm_end,'Level_PT'].max()*1.25)
+    ax2.set_ylim(0, df.loc[storm_start:storm_end,'Flow_'+flow_units].max()*1.1)
+    
+    print (aliquots[storm_start:storm_end])
+    print ('Minimum time between aliquots: '+ str(aliquots.loc[storm_start:storm_end,'Time between aliquots'].min()))
+    
+    print ('Peak flow rate: ' + "%.2f"%df.loc[storm_start:storm_end,'Flow_'+flow_units].max() + flow_units)
+    if site == 'GREENVALLEY':
+        print ('Peak stage: ' + "%.2f"%df.loc[storm_start:storm_end,'Level_PT_No'].max() + 'inches')
+        print ('Peak stage: ' + "%.2f"%df.loc[storm_start:storm_end,'Level_PT_So'].max() + 'inches')
+        
+    else:
+        print ('Peak stage: ' + "%.2f"%df.loc[storm_start:storm_end,'Level_PT'].max() + 'inches')
 
 
 #%%
