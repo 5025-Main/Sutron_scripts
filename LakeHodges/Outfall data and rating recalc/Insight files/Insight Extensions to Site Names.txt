@@ -1,2 +1,3 @@
+EUJ = Kit Carson
 EUG = Felicita
 HXI = El Ku

@@ -20,7 +20,7 @@ pd.set_option('display.max_columns', 13)
 plt.ion()
 
 ## Set Storm start and end
-storm_start = dt.datetime(2021,1,28,20,0)
+storm_start = dt.datetime(2021,1,20,20,0)
 storm_end = dt.datetime(2021,1,31,12)
 
 use_recorded_flow = True
@@ -34,7 +34,7 @@ gpm = ['ElKu','Tazon','Oceans11','Lomica']
 #site_list = ['DELDIOS']
 #site_list = ['FELICITA']
 #site_list = ['KITCARSON']
-#site_list = ['CLOVERDALE']
+site_list = ['CLOVERDALE']
 #site_list = ['GUEJITO']
 #site_list = ['SDGCRK']
 #site_list = ['MOONSONG']
@@ -43,7 +43,7 @@ gpm = ['ElKu','Tazon','Oceans11','Lomica']
 #outfalls
 #site_list = ['ElKu']
 #site_list = ['ViaRancho']
-site_list = ['Tazon']
+#site_list = ['Tazon']
 #site_list = ['Oceans11']
 #site_list = ['Lomica']
 
@@ -171,7 +171,7 @@ for site in site_list:
         else:
             df['Flow_cfs'] = pd.DataFrame(level['Result'].apply(lambda x: rating_table(rating_curve,float(x))),columns=['Result'])
     
-##%% PLOT
+#%% PLOT
     fig, ax1 = plt.subplots(1,1,figsize=(16,8))
     fig.suptitle(site,fontsize=14,fontweight='bold')
     
@@ -255,7 +255,7 @@ for site in site_list:
         print ('Peak stage: ' + "%.2f"%df.loc[storm_start:storm_end,'Level_PT'].max() + 'inches')
 
 
-#%%
+##%%
 import mpld3
 html_file= open('C:/Users/alex.messina/Documents/GitHub/Sutron_scripts/LakeHodges/Interactive Data Files/'+site+'-flow_data.html',"w")
 mpld3.save_html(fig,html_file)
