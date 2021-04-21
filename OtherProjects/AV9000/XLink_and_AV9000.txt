@@ -1,0 +1,35 @@
+This document describes connecting the Sutron XLink 500 to the Hach AV9000.
+
+By adi.rustanbegovic@otthydromet.com
+March 2021
+
+
+The AV9000 may be connected to XLink 500 in order to provide water Velocity, Temperature, and Flow measurements.
+
+In order to connect the two devices together, please cut the cable of the AV9000.  Then connect 4 of the AV9000 wires identified by their color to the XLink:
+
+Wiring
+AV9000 wire/function	 	XLink connection
+Black RS485 				RS485-A  #5
+White RS485 				RS485-B  #6
+Green GND 					GND      #7         
+Red 12V+ 					SWD +12V #8
+
+DO NOT CONFUSE THE GREEN AND WHITE WIRE WITH THE PURE GREEN WIRE!  USE THE PURE GREEN
+
+Please load the provided XLink setup file and script file into XLink using LinkComm.   
+
+Provide 12V power to XLink.
+Use LinkComm to connect to XLink. 
+LinkComm Menu -> Import -> choose the setup file, then choose the script file.
+Send the setup to XLink and start recording.
+Note the measurement values update once a minute.
+
+
+Notes:
+* XLink script runs when XLink is recording (when it powers up with recording on, and when recording is turned on).
+* Xlink script will setup the AV9000
+* Once setup, the AV9000 will collect data once a minute.
+* Please note that without changing the script, it is not possible to get data more frequently than once a minute.  
+
+
