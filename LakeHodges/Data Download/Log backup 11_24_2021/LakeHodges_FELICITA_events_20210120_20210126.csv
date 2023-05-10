@@ -1,0 +1,32 @@
+DateTime,Label,Value,Units,Quality
+01/20/2021 09:54:59,SDI XDT,0,,G
+01/20/2021 10:37:03,System Error: Cell No Data Service,5585,,G
+01/20/2021 16:51:17,System Error: Cell No Network,5584,,G
+01/20/2021 17:00:05,System Error: Cell No Data Service,5585,,G
+01/20/2021 17:08:54,System Error: Cell No Data Service,5585,,G
+01/21/2021 09:48:45,System Error: Cell No Network,5584,,G
+01/21/2021 09:57:25,Time Before Change,-2061,ms,G
+01/21/2021 09:57:23,Time After Change,-2061,ms,G
+01/21/2021 09:57:23,Cell Set Time,0,,G
+01/21/2021 09:57:23,System Error: Cell No Data Service,5585,,G
+01/21/2021 09:57:28,SDI XDT,0,,G
+01/21/2021 10:06:10,System Error: Cell No Network,5584,,G
+01/22/2021 09:59:59,SDI XDT,0,,G
+01/22/2021 12:03:47,System Error: Cell No Data Service,5585,,G
+01/22/2021 12:19:26,System Error: Cell No Network,5584,,G
+01/22/2021 12:35:44,System Error: Cell No Data Service,5585,,G
+01/23/2021 09:59:59,SDI XDT,0,,G
+01/24/2021 10:04:59,SDI XDT,0,,G
+01/25/2021 10:04:59,SDI XDT,0,,G
+01/25/2021 14:30:17,SMS Receive,1,,G
+01/25/2021 14:54:51,SMS Receive,2,,G
+01/25/2021 15:24:23,SMS Receive,3,,G
+01/25/2021 15:53:51,SMS Receive,4,,G
+01/25/2021 15:58:08,SMS Receive,5,,G
+01/25/2021 16:06:37,SMS Receive,6,,G
+01/26/2021 09:24:50,System Error: Cell No Data Service,5585,,G
+01/26/2021 10:09:58,SDI XDT,0,,G
+01/26/2021 13:46:00,Wi-Fi Connected,0,,G
+01/26/2021 13:46:35,StatusClear,0,,G
+01/26/2021 13:48:16,Setup Change,0,,G
+01/26/2021 13:48:41,Trigger Man,1,,G

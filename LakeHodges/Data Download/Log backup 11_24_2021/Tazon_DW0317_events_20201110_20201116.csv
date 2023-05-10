@@ -1,0 +1,247 @@
+Date,Time,Label,Value,Units,Quality
+11/02/2020,12:38:57,Wi-Fi Connected,0,,G
+11/02/2020,12:39:41,Log Download,0,,G
+11/02/2020,12:40:39,SMS Receive,1,,G
+11/02/2020,12:45:26,Wi-Fi Disconnected,0,,G
+11/02/2020,12:46:49,Time Before Change,-61,ms,G
+11/02/2020,12:46:49,Time After Change,-61,ms,G
+11/02/2020,23:59:59,Battery,12.83,V,G
+11/02/2020,23:59:59,Internal Temp,23.93,C,G
+11/02/2020,23:59:59,SMS Received Today,1,,G
+11/02/2020,23:59:59,Cell Clients Today,0,,G
+11/02/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/02/2020,23:59:59,Cell Bytes Tx Today,0,,G
+11/02/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/03/2020,12:34:59,SDI XDT,0,,G
+11/03/2020,16:47:00,Client Conn,1,,G
+11/03/2020,23:59:59,Battery,12.80,V,G
+11/03/2020,23:59:59,Internal Temp,23.74,C,G
+11/03/2020,23:59:59,SMS Received Today,0,,G
+11/03/2020,23:59:59,Cell Clients Today,1,,G
+11/03/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/03/2020,23:59:59,Cell Bytes Tx Today,2848,,G
+11/03/2020,23:59:59,Cell Bytes Rx Today,112,,G
+11/04/2020,12:34:59,SDI XDT,0,,G
+11/04/2020,23:59:59,Battery,12.75,V,G
+11/04/2020,23:59:59,Internal Temp,23.41,C,G
+11/04/2020,23:59:59,SMS Received Today,0,,G
+11/04/2020,23:59:59,Cell Clients Today,0,,G
+11/04/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/04/2020,23:59:59,Cell Bytes Tx Today,0,,G
+11/04/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/05/2020,12:39:59,SDI XDT,0,,G
+11/05/2020,23:59:59,Battery,12.73,V,G
+11/05/2020,23:59:59,Internal Temp,23.56,C,G
+11/05/2020,23:59:59,SMS Received Today,0,,G
+11/05/2020,23:59:59,Cell Clients Today,0,,G
+11/05/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/05/2020,23:59:59,Cell Bytes Tx Today,0,,G
+11/05/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/06/2020,12:39:59,SDI XDT,0,,G
+11/06/2020,15:42:15,SMS Receive,2,,G
+11/06/2020,15:42:30,SMS Receive,3,,G
+11/06/2020,15:51:09,Time Before Change,-3600000,ms,G
+11/06/2020,14:51:09,Time After Change,-3600000,ms,G
+11/06/2020,14:51:09,Local Time Offset Change,0,,G
+11/06/2020,14:51:09,Setup Change,0,,G
+11/06/2020,14:51:11,SDI XDT,0,,G
+11/06/2020,14:51:31,Client Conn,2,,G
+11/06/2020,16:37:45,Wi-Fi Connected,0,,G
+11/06/2020,16:40:05,Setup Change,0,,G
+11/06/2020,16:40:22,System Error: Script Function Not Found,5599,,G
+11/06/2020,16:40:33,RS232 Connected,0,,G
+11/06/2020,16:40:50,RS232 Disconnected,0,,G
+11/06/2020,16:41:45,StatusClear,0,,G
+11/06/2020,16:42:25,Setup Change,0,,G
+11/06/2020,16:42:30,RS232 Connected,0,,G
+11/06/2020,16:42:30,RS232 Disconnected,0,,G
+11/06/2020,16:42:50,StatusClear,0,,G
+11/06/2020,16:43:54,RS232 Connected,0,,G
+11/06/2020,16:44:03,RS232 Disconnected,0,,G
+11/06/2020,16:44:19,Wi-Fi Disconnected,0,,G
+11/06/2020,16:45:04,RS232 Connected,0,,G
+11/06/2020,16:45:04,RS232 Disconnected,0,,G
+11/06/2020,16:50:04,RS232 Connected,0,,G
+11/06/2020,16:50:10,RS232 Disconnected,0,,G
+11/06/2020,16:55:04,RS232 Connected,0,,G
+11/06/2020,16:55:10,RS232 Disconnected,0,,G
+11/06/2020,17:00:04,RS232 Connected,0,,G
+11/06/2020,17:00:13,RS232 Disconnected,0,,G
+11/06/2020,17:05:04,RS232 Connected,0,,G
+11/06/2020,17:05:10,RS232 Disconnected,0,,G
+11/06/2020,17:10:04,RS232 Connected,0,,G
+11/06/2020,17:10:10,RS232 Disconnected,0,,G
+11/06/2020,17:15:04,RS232 Connected,0,,G
+11/06/2020,17:15:10,RS232 Disconnected,0,,G
+11/06/2020,17:20:04,RS232 Connected,0,,G
+11/06/2020,17:20:10,RS232 Disconnected,0,,G
+11/06/2020,17:25:04,RS232 Connected,0,,G
+11/06/2020,17:25:10,RS232 Disconnected,0,,G
+11/06/2020,17:30:04,RS232 Connected,0,,G
+11/06/2020,17:30:10,RS232 Disconnected,0,,G
+11/06/2020,17:35:04,RS232 Connected,0,,G
+11/06/2020,17:35:10,RS232 Disconnected,0,,G
+11/06/2020,17:40:04,RS232 Connected,0,,G
+11/06/2020,17:40:10,RS232 Disconnected,0,,G
+11/06/2020,17:45:04,RS232 Connected,0,,G
+11/06/2020,17:45:10,RS232 Disconnected,0,,G
+11/06/2020,17:50:04,RS232 Connected,0,,G
+11/06/2020,17:50:10,RS232 Disconnected,0,,G
+11/06/2020,17:55:04,RS232 Connected,0,,G
+11/06/2020,17:55:10,RS232 Disconnected,0,,G
+11/06/2020,18:00:04,RS232 Connected,0,,G
+11/06/2020,18:00:13,RS232 Disconnected,0,,G
+11/06/2020,18:05:04,RS232 Connected,0,,G
+11/06/2020,18:05:10,RS232 Disconnected,0,,G
+11/06/2020,18:10:04,RS232 Connected,0,,G
+11/06/2020,18:10:10,RS232 Disconnected,0,,G
+11/06/2020,18:15:04,RS232 Connected,0,,G
+11/06/2020,18:15:10,RS232 Disconnected,0,,G
+11/06/2020,18:20:04,RS232 Connected,0,,G
+11/06/2020,18:20:10,RS232 Disconnected,0,,G
+11/06/2020,18:25:04,RS232 Connected,0,,G
+11/06/2020,18:25:10,RS232 Disconnected,0,,G
+11/06/2020,18:30:04,RS232 Connected,0,,G
+11/06/2020,18:30:10,RS232 Disconnected,0,,G
+11/06/2020,18:35:04,RS232 Connected,0,,G
+11/06/2020,18:35:10,RS232 Disconnected,0,,G
+11/06/2020,18:40:04,RS232 Connected,0,,G
+11/06/2020,18:40:10,RS232 Disconnected,0,,G
+11/06/2020,18:45:04,RS232 Connected,0,,G
+11/06/2020,18:45:10,RS232 Disconnected,0,,G
+11/06/2020,18:50:04,RS232 Connected,0,,G
+11/06/2020,18:50:10,RS232 Disconnected,0,,G
+11/06/2020,18:55:04,RS232 Connected,0,,G
+11/06/2020,18:55:10,RS232 Disconnected,0,,G
+11/06/2020,19:00:04,RS232 Connected,0,,G
+11/06/2020,19:00:13,RS232 Disconnected,0,,G
+11/06/2020,19:05:04,RS232 Connected,0,,G
+11/06/2020,19:05:10,RS232 Disconnected,0,,G
+11/06/2020,19:10:04,RS232 Connected,0,,G
+11/06/2020,19:10:10,RS232 Disconnected,0,,G
+11/06/2020,19:15:04,RS232 Connected,0,,G
+11/06/2020,19:15:10,RS232 Disconnected,0,,G
+11/06/2020,19:20:04,RS232 Connected,0,,G
+11/06/2020,19:20:10,RS232 Disconnected,0,,G
+11/06/2020,19:25:04,RS232 Connected,0,,G
+11/06/2020,19:25:10,RS232 Disconnected,0,,G
+11/06/2020,19:30:04,RS232 Connected,0,,G
+11/06/2020,19:30:10,RS232 Disconnected,0,,G
+11/06/2020,19:35:04,RS232 Connected,0,,G
+11/06/2020,19:35:10,RS232 Disconnected,0,,G
+11/06/2020,19:40:04,RS232 Connected,0,,G
+11/06/2020,19:40:10,RS232 Disconnected,0,,G
+11/06/2020,19:45:04,RS232 Connected,0,,G
+11/06/2020,19:45:10,RS232 Disconnected,0,,G
+11/06/2020,19:50:04,RS232 Connected,0,,G
+11/06/2020,19:50:10,RS232 Disconnected,0,,G
+11/06/2020,19:55:04,RS232 Connected,0,,G
+11/06/2020,19:55:10,RS232 Disconnected,0,,G
+11/06/2020,20:00:04,RS232 Connected,0,,G
+11/06/2020,20:00:13,RS232 Disconnected,0,,G
+11/06/2020,20:05:04,RS232 Connected,0,,G
+11/06/2020,20:05:10,RS232 Disconnected,0,,G
+11/06/2020,20:10:04,RS232 Connected,0,,G
+11/06/2020,20:10:10,RS232 Disconnected,0,,G
+11/06/2020,20:15:04,RS232 Connected,0,,G
+11/06/2020,20:15:10,RS232 Disconnected,0,,G
+11/06/2020,20:20:04,RS232 Connected,0,,G
+11/06/2020,20:20:10,RS232 Disconnected,0,,G
+11/06/2020,20:25:04,RS232 Connected,0,,G
+11/06/2020,20:25:10,RS232 Disconnected,0,,G
+11/06/2020,20:30:04,RS232 Connected,0,,G
+11/06/2020,20:30:10,RS232 Disconnected,0,,G
+11/06/2020,20:35:04,RS232 Connected,0,,G
+11/06/2020,20:35:10,RS232 Disconnected,0,,G
+11/06/2020,20:40:04,RS232 Connected,0,,G
+11/06/2020,20:40:10,RS232 Disconnected,0,,G
+11/06/2020,20:45:04,RS232 Connected,0,,G
+11/06/2020,20:45:10,RS232 Disconnected,0,,G
+11/06/2020,20:50:04,RS232 Connected,0,,G
+11/06/2020,20:50:10,RS232 Disconnected,0,,G
+11/06/2020,20:55:00,Alarm In,2,,G
+11/06/2020,20:55:00,Setup Change,0,,G
+11/06/2020,20:55:04,RS232 Connected,0,,G
+11/06/2020,20:55:10,RS232 Disconnected,0,,G
+11/06/2020,20:56:04,RS232 Connected,0,,G
+11/06/2020,20:56:04,RS232 Disconnected,0,,G
+11/06/2020,20:57:04,RS232 Connected,0,,G
+11/06/2020,20:57:04,RS232 Disconnected,0,,G
+11/06/2020,20:58:04,RS232 Connected,0,,G
+11/06/2020,20:58:04,RS232 Disconnected,0,,G
+11/06/2020,20:59:04,RS232 Connected,0,,G
+11/06/2020,20:59:04,RS232 Disconnected,0,,G
+11/06/2020,21:00:04,RS232 Connected,0,,G
+11/06/2020,21:00:13,RS232 Disconnected,0,,G
+11/06/2020,21:01:04,RS232 Connected,0,,G
+11/06/2020,21:01:04,RS232 Disconnected,0,,G
+11/06/2020,21:02:04,RS232 Connected,0,,G
+11/06/2020,21:02:04,RS232 Disconnected,0,,G
+11/06/2020,21:03:04,RS232 Connected,0,,G
+11/06/2020,21:03:04,RS232 Disconnected,0,,G
+11/06/2020,21:04:04,RS232 Connected,0,,G
+11/06/2020,21:04:04,RS232 Disconnected,0,,G
+11/06/2020,21:05:04,RS232 Connected,0,,G
+11/06/2020,21:05:10,RS232 Disconnected,0,,G
+11/06/2020,21:06:04,RS232 Connected,0,,G
+11/06/2020,21:06:04,RS232 Disconnected,0,,G
+11/06/2020,21:07:04,RS232 Connected,0,,G
+11/06/2020,21:07:04,RS232 Disconnected,0,,G
+11/06/2020,21:08:04,RS232 Connected,0,,G
+11/06/2020,21:08:04,RS232 Disconnected,0,,G
+11/06/2020,21:09:04,RS232 Connected,0,,G
+11/06/2020,21:09:04,RS232 Disconnected,0,,G
+11/06/2020,21:10:04,RS232 Connected,0,,G
+11/06/2020,21:10:10,RS232 Disconnected,0,,G
+11/06/2020,21:11:04,RS232 Connected,0,,G
+11/06/2020,21:11:04,RS232 Disconnected,0,,G
+11/06/2020,21:12:04,RS232 Connected,0,,G
+11/06/2020,21:12:04,RS232 Disconnected,0,,G
+11/06/2020,21:13:04,RS232 Connected,0,,G
+11/06/2020,21:13:04,RS232 Disconnected,0,,G
+11/06/2020,21:14:04,RS232 Connected,0,,G
+11/06/2020,21:14:04,RS232 Disconnected,0,,G
+11/06/2020,21:15:04,RS232 Connected,0,,G
+11/06/2020,21:15:10,RS232 Disconnected,0,,G
+11/06/2020,21:16:04,RS232 Connected,0,,G
+11/06/2020,21:16:04,RS232 Disconnected,0,,G
+11/06/2020,21:17:04,RS232 Connected,0,,G
+11/06/2020,21:17:04,RS232 Disconnected,0,,G
+11/06/2020,21:18:04,RS232 Connected,0,,G
+11/06/2020,21:18:04,RS232 Disconnected,0,,G
+11/06/2020,21:19:04,RS232 Connected,0,,G
+11/06/2020,21:19:04,RS232 Disconnected,0,,G
+11/06/2020,21:20:04,RS232 Connected,0,,G
+11/06/2020,21:20:10,RS232 Disconnected,0,,G
+11/06/2020,21:21:04,RS232 Connected,0,,G
+11/06/2020,21:21:04,RS232 Disconnected,0,,G
+11/06/2020,21:22:04,RS232 Connected,0,,G
+11/06/2020,21:22:04,RS232 Disconnected,0,,G
+11/06/2020,21:23:04,RS232 Connected,0,,G
+11/06/2020,21:23:04,RS232 Disconnected,0,,G
+11/06/2020,21:24:04,RS232 Connected,0,,G
+11/06/2020,21:24:04,RS232 Disconnected,0,,G
+11/06/2020,21:25:04,RS232 Connected,0,,G
+11/06/2020,21:25:10,RS232 Disconnected,0,,G
+11/06/2020,21:26:04,RS232 Connected,0,,G
+11/06/2020,21:26:04,RS232 Disconnected,0,,G
+11/06/2020,21:27:04,RS232 Connected,0,,G
+11/06/2020,21:27:04,RS232 Disconnected,0,,G
+11/06/2020,21:28:04,RS232 Connected,0,,G
+11/06/2020,21:28:04,RS232 Disconnected,0,,G
+11/06/2020,21:29:04,RS232 Connected,0,,G
+11/06/2020,21:29:04,RS232 Disconnected,0,,G
+11/06/2020,21:30:04,RS232 Connected,0,,G
+11/06/2020,21:30:10,RS232 Disconnected,0,,G
+11/06/2020,21:31:04,RS232 Connected,0,,G
+11/06/2020,21:31:04,RS232 Disconnected,0,,G
+11/06/2020,21:32:04,RS232 Connected,0,,G
+11/06/2020,21:32:04,RS232 Disconnected,0,,G
+11/06/2020,21:33:04,RS232 Connected,0,,G
+11/06/2020,21:33:04,RS232 Disconnected,0,,G
+11/06/2020,21:34:04,RS232 Connected,0,,G
+11/06/2020,21:34:04,RS232 Disconnected,0,,G
+11/06/2020,21:35:04,RS232 Connected,0,,G
+11/06/2020,21:35:10,RS232 Disconnected,0,,G
+11/06/2020,21:36:04,RS232 Connected,0,,G
+11/06/2020,21:36:04,RS232 Disconnected,0,,G

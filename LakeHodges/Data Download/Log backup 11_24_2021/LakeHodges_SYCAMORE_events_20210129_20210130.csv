@@ -1,0 +1,194 @@
+DateTime,Label,Value,Units,Quality
+01/29/2021 02:10:00,Alarm In,12,,G
+01/29/2021 02:10:00,Setup Change,0,,G
+01/29/2021 03:17:23,Client Conn,8,,G
+01/29/2021 03:38:33,Log Download,0,,G
+01/29/2021 03:39:29,Client Conn,9,,G
+01/29/2021 04:01:32,Log Download,0,,G
+01/29/2021 04:02:22,Client Conn,10,,G
+01/29/2021 04:03:15,Setup Change,0,,G
+01/29/2021 04:03:31, NewPacing:,1,,G
+01/29/2021 04:03:27,Triggered S,1,,G
+01/29/2021 04:03:27,VolumeTrig,2396.97,,G
+01/29/2021 04:06:57,Log Download,0,,G
+01/29/2021 04:08:58,Setup Change,0,,G
+01/29/2021 04:09:04, NewPacing:,1,,G
+01/29/2021 04:09:00,Triggered S,1,,G
+01/29/2021 04:09:00,VolumeTrig,694.83,,G
+01/29/2021 04:11:41,Client Conn,11,,G
+01/29/2021 04:15:00,Triggered S,2,,G
+01/29/2021 04:15:00,VolumeTrig,545.95,,G
+01/29/2021 04:16:12,Client Conn,12,,G
+01/29/2021 04:23:00,Triggered S,3,,G
+01/29/2021 04:23:00,VolumeTrig,511.25,,G
+01/29/2021 04:31:00,Triggered S,4,,G
+01/29/2021 04:31:00,VolumeTrig,540.85,,G
+01/29/2021 04:34:03,Client Conn,13,,G
+01/29/2021 04:38:00,Triggered S,5,,G
+01/29/2021 04:38:00,VolumeTrig,548.40,,G
+01/29/2021 04:44:00,Triggered S,6,,G
+01/29/2021 04:44:00,VolumeTrig,543.40,,G
+01/29/2021 04:49:00,Triggered S,7,,G
+01/29/2021 04:49:00,VolumeTrig,510.54,,G
+01/29/2021 04:50:57,Client Conn,14,,G
+01/29/2021 04:55:00,Triggered S,8,,G
+01/29/2021 04:55:00,VolumeTrig,573.50,,G
+01/29/2021 05:00:00,Triggered S,9,,G
+01/29/2021 05:00:00,VolumeTrig,553.50,,G
+01/29/2021 05:05:00,Triggered S,10,,G
+01/29/2021 05:05:00,VolumeTrig,570.41,,G
+01/29/2021 05:05:08,Log Download,0,,G
+01/29/2021 05:05:45,Client Conn,15,,G
+01/29/2021 05:09:00,Triggered S,11,,G
+01/29/2021 05:09:00,VolumeTrig,516.59,,G
+01/29/2021 05:14:00,Triggered S,12,,G
+01/29/2021 05:14:00,VolumeTrig,616.50,,G
+01/29/2021 05:18:00,Triggered S,13,,G
+01/29/2021 05:18:00,VolumeTrig,630.32,,G
+01/29/2021 05:21:00,Triggered S,14,,G
+01/29/2021 05:21:00,VolumeTrig,540.22,,G
+01/29/2021 05:25:00,Triggered S,15,,G
+01/29/2021 05:25:00,VolumeTrig,615.50,,G
+01/29/2021 05:28:00,Triggered S,16,,G
+01/29/2021 05:28:00,VolumeTrig,566.13,,G
+01/29/2021 05:28:45,Client Conn,16,,G
+01/29/2021 05:31:00,Triggered S,17,,G
+01/29/2021 05:31:00,VolumeTrig,534.95,,G
+01/29/2021 05:34:00,Triggered S,18,,G
+01/29/2021 05:34:00,VolumeTrig,515.77,,G
+01/29/2021 05:35:14,Log Download,0,,G
+01/29/2021 05:36:08,Client Conn,17,,G
+01/29/2021 05:37:00,Triggered S,19,,G
+01/29/2021 05:37:00,VolumeTrig,512.65,,G
+01/29/2021 05:39:37,Client Conn,18,,G
+01/29/2021 05:40:00,Triggered S,20,,G
+01/29/2021 05:40:00,VolumeTrig,534.93,,G
+01/29/2021 05:43:00,Triggered S,21,,G
+01/29/2021 05:43:00,VolumeTrig,576.80,,G
+01/29/2021 05:45:37,Log Download,0,,G
+01/29/2021 05:46:00,Triggered S,22,,G
+01/29/2021 05:46:00,VolumeTrig,640.02,,G
+01/29/2021 05:46:43,Client Conn,19,,G
+01/29/2021 05:48:00,Triggered S,23,,G
+01/29/2021 05:48:00,VolumeTrig,524.00,,G
+01/29/2021 05:51:00,Triggered S,24,,G
+01/29/2021 05:51:00,VolumeTrig,613.32,,G
+01/29/2021 05:53:00,Triggered S,25,,G
+01/29/2021 05:53:00,VolumeTrig,516.29,,G
+01/29/2021 05:54:23,Client Conn,20,,G
+01/29/2021 05:54:47,SMS Receive,1,,G
+01/29/2021 05:55:23,Client Conn,21,,G
+01/29/2021 05:55:33,Wi-Fi Connected,0,,G
+01/29/2021 05:55:48,Log Download,0,,G
+01/29/2021 05:55:53,Log Download,0,,G
+01/29/2021 05:56:00,Triggered S,26,,G
+01/29/2021 05:56:00,VolumeTrig,631.12,,G
+01/29/2021 05:56:46,Setup Change,0,,G
+01/29/2021 05:57:04, NewPacing:,1,,G
+01/29/2021 05:57:09,Wi-Fi Disconnected,0,,G
+01/29/2021 06:00:22,Wi-Fi Connected,0,,G
+01/29/2021 06:01:15,Wi-Fi Disconnected,0,,G
+01/29/2021 06:08:00,Triggered S,1,,G
+01/29/2021 06:08:00,VolumeTrig,2698.41,,G
+01/29/2021 06:09:05,Log Download,0,,G
+01/29/2021 06:10:54,Client Conn,22,,G
+01/29/2021 06:16:43,Wi-Fi Connected,0,,G
+01/29/2021 06:17:05,Log Download,0,,G
+01/29/2021 06:17:22,Wi-Fi Disconnected,0,,G
+01/29/2021 06:18:24,Wi-Fi Connected,0,,G
+01/29/2021 06:19:00,Triggered S,2,,G
+01/29/2021 06:19:00,VolumeTrig,2635.70,,G
+01/29/2021 06:19:49,Wi-Fi Disconnected,0,,G
+01/29/2021 06:28:45,Log Download,0,,G
+01/29/2021 06:29:53,Client Conn,23,,G
+01/29/2021 06:30:00,Triggered S,3,,G
+01/29/2021 06:30:00,VolumeTrig,2594.34,,G
+01/29/2021 06:41:00,Triggered S,4,,G
+01/29/2021 06:41:00,VolumeTrig,2500.78,,G
+01/29/2021 06:53:00,Triggered S,5,,G
+01/29/2021 06:53:00,VolumeTrig,2509.93,,G
+01/29/2021 07:06:00,Triggered S,6,,G
+01/29/2021 07:06:00,VolumeTrig,2550.02,,G
+01/29/2021 07:20:00,Triggered S,7,,G
+01/29/2021 07:20:00,VolumeTrig,2565.27,,G
+01/29/2021 07:28:21,Log Download,0,,G
+01/29/2021 07:28:45,Client Conn,24,,G
+01/29/2021 07:35:00,Triggered S,8,,G
+01/29/2021 07:35:00,VolumeTrig,2521.57,,G
+01/29/2021 07:52:00,Triggered S,9,,G
+01/29/2021 07:52:00,VolumeTrig,2593.12,,G
+01/29/2021 08:10:00,Triggered S,10,,G
+01/29/2021 08:10:00,VolumeTrig,2584.94,,G
+01/29/2021 08:30:00,Triggered S,11,,G
+01/29/2021 08:30:00,VolumeTrig,2593.66,,G
+01/29/2021 08:52:00,Triggered S,12,,G
+01/29/2021 08:52:00,VolumeTrig,2560.75,,G
+01/29/2021 09:17:00,Triggered S,13,,G
+01/29/2021 09:17:00,VolumeTrig,2559.69,,G
+01/29/2021 09:45:00,Triggered S,14,,G
+01/29/2021 09:45:00,VolumeTrig,2545.71,,G
+01/29/2021 10:17:00,Triggered S,15,,G
+01/29/2021 10:17:00,VolumeTrig,2539.99,,G
+01/29/2021 10:41:50,Log Download,0,,G
+01/29/2021 10:42:13,Client Conn,25,,G
+01/29/2021 10:54:00,Triggered S,16,,G
+01/29/2021 10:54:00,VolumeTrig,2511.93,,G
+01/29/2021 11:39:00,Triggered S,17,,G
+01/29/2021 11:39:00,VolumeTrig,2550.61,,G
+01/29/2021 12:17:39,Log Download,0,,G
+01/29/2021 12:18:13,Client Conn,26,,G
+01/29/2021 12:38:00,Triggered S,18,,G
+01/29/2021 12:38:00,VolumeTrig,2521.19,,G
+01/29/2021 14:10:00,Triggered S,19,,G
+01/29/2021 14:10:00,VolumeTrig,2507.73,,G
+01/29/2021 14:52:27,Log Download,0,,G
+01/29/2021 14:56:07,Client Conn,27,,G
+01/29/2021 15:21:09,SDI XDT,0,,G
+01/29/2021 15:28:26,Setup Change,0,,G
+01/29/2021 15:28:43,Log Download,0,,G
+01/29/2021 15:29:30,Client Conn,28,,G
+01/29/2021 16:12:44,Log Download,0,,G
+01/29/2021 16:17:57,Client Conn,29,,G
+01/29/2021 16:33:00,Triggered S,20,,G
+01/29/2021 16:33:00,VolumeTrig,2534.43,,G
+01/29/2021 16:36:22,Log Download,0,,G
+01/29/2021 16:37:00,Client Conn,30,,G
+01/29/2021 17:16:32,Log Download,0,,G
+01/29/2021 17:16:51,Client Conn,31,,G
+01/29/2021 17:21:00,Triggered S,21,,G
+01/29/2021 17:21:00,VolumeTrig,2518.15,,G
+01/29/2021 17:31:54,Log Download,0,,G
+01/29/2021 17:32:59,Client Conn,32,,G
+01/29/2021 18:03:00,Triggered S,22,,G
+01/29/2021 18:03:00,VolumeTrig,2553.45,,G
+01/29/2021 18:46:00,Triggered S,23,,G
+01/29/2021 18:46:00,VolumeTrig,2500.60,,G
+01/29/2021 19:05:27,Log Download,0,,G
+01/29/2021 19:05:45,Client Conn,33,,G
+01/29/2021 19:38:00,Triggered S,24,,G
+01/29/2021 19:38:00,VolumeTrig,2514.59,,G
+01/29/2021 19:38:47,Log Download,0,,G
+01/29/2021 19:41:04,Client Conn,34,,G
+01/29/2021 20:43:00,Triggered S,25,,G
+01/29/2021 20:43:00,VolumeTrig,2507.36,,G
+01/29/2021 21:14:18,Log Download,0,,G
+01/29/2021 21:15:08,Client Conn,35,,G
+01/29/2021 21:41:16,Log Download,0,,G
+01/29/2021 21:42:06,Client Conn,36,,G
+01/29/2021 22:22:00,Triggered S,26,,G
+01/29/2021 22:22:00,VolumeTrig,2514.66,,G
+01/30/2021 01:25:00,Triggered S,27,,G
+01/30/2021 01:25:00,VolumeTrig,2505.95,,G
+01/30/2021 05:45:00,Triggered S,28,,G
+01/30/2021 05:45:00,VolumeTrig,2504.46,,G
+01/30/2021 06:53:56,Log Download,0,,G
+01/30/2021 06:54:34,Client Conn,37,,G
+01/30/2021 07:54:19,Log Download,0,,G
+01/30/2021 07:59:33,Client Conn,38,,G
+01/30/2021 15:12:00,Triggered S,29,,G
+01/30/2021 15:12:00,VolumeTrig,2501.05,,G
+01/30/2021 15:24:36,SDI XDT,0,,G
+01/30/2021 18:47:27,Client Conn,39,,G
+01/30/2021 18:48:03,Setup Change,0,,G
+01/30/2021 18:48:41,Setup Change,0,,G
+01/30/2021 18:48:55,Log Download,0,,G

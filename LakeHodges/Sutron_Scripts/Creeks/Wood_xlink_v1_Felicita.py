@@ -286,6 +286,8 @@ def HvF_table(stage_in):
     table stage values.
     """
     # stage, flow pairs
+    # SITE: Felicita Creek
+    # DATE: 1/8/2021
     STAGETBL = ((0.0, 0.074),
                 (1.98, 0.501),
                 (2.5, 0.72),

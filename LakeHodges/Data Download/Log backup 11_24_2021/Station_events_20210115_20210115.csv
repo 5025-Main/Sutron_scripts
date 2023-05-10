@@ -1,0 +1,24 @@
+DateTime,Label,Value,Units,Quality
+01/15/2021 12:16:46,Reset Powerup,4,,G
+01/15/2021 12:16:50,Battery,4.59,V,G
+01/15/2021 12:16:50,Internal Temp,27.18,C,G
+01/15/2021 12:16:50,System Error: Battery Low,5508,,G
+01/15/2021 12:16:50,Battery,4.5693,,G
+01/15/2021 12:16:59,USB Cable,1,,G
+01/15/2021 12:16:59,Battery,12.39,V,G
+01/15/2021 12:16:59,Battery,12.39,V,G
+01/15/2021 12:17:09,Setup Change,0,,G
+01/15/2021 12:17:35,RS232 Connected,0,,G
+01/15/2021 12:17:41,RS232 Disconnected,0,,G
+01/15/2021 12:19:59,System Error: Cell SIM Error,5582,,G
+01/15/2021 12:20:02,RS232 Connected,0,,G
+01/15/2021 12:20:02,RS232 Disconnected,0,,G
+01/15/2021 12:25:02,RS232 Connected,0,,G
+01/15/2021 12:25:08,RS232 Disconnected,0,,G
+01/15/2021 12:25:55,System Error: Cell SIM Error,5582,,G
+01/15/2021 12:30:02,RS232 Connected,0,,G
+01/15/2021 12:30:08,RS232 Disconnected,0,,G
+01/15/2021 12:35:02,RS232 Connected,0,,G
+01/15/2021 12:35:08,RS232 Disconnected,0,,G
+01/15/2021 12:35:55,System Error: Cell SIM Error,5582,,G
+01/15/2021 12:37:38,Log Download,0,,G

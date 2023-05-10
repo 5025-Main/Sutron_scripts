@@ -1,0 +1,513 @@
+Station Name,model and version,XL2 S/N
+LakeHodges_DELDIOS,Sutron XLink 500 Version 8.35 Build 17:45:51 09/23/2020 revision 3369,1911381
+Label,Meas Type,Slope,Offset,Equation
+SamplePacin,Manual Entry,1.000000,0.000000,Off
+BottleNum,Manual Entry,1.000000,0.000000,Off
+Incr_Flow,Meta,1.000000,0.000000,Off
+AliquotNum,Meta,1.000000,0.000000,Off
+Level_PT,SDI-12,1.000000,0.000000,Off
+Flow _PT,Meta,1.000000,0.000000,Off
+03/03/2021 22:07:00,Level_PT,4.59,in,G
+03/03/2021 22:07:00,Flow _PT,0.720,cfs,G
+03/03/2021 22:07:00,SamplePacin,500,cf,G
+03/03/2021 22:07:00,BottleNum,1,,G
+03/03/2021 22:07:00,AliquotNum,11,ali,G
+03/03/2021 22:07:00,Incr_Flow,387.27,cf,G
+03/03/2021 22:08:00,Level_PT,4.54,in,G
+03/03/2021 22:08:00,Flow _PT,0.705,cfs,G
+03/03/2021 22:08:00,SamplePacin,500,cf,G
+03/03/2021 22:08:00,BottleNum,1,,G
+03/03/2021 22:08:00,AliquotNum,11,ali,G
+03/03/2021 22:08:00,Incr_Flow,429.56,cf,G
+03/03/2021 22:09:00,Level_PT,4.56,in,G
+03/03/2021 22:09:00,Flow _PT,0.711,cfs,G
+03/03/2021 22:09:00,SamplePacin,500,cf,G
+03/03/2021 22:09:00,BottleNum,1,,G
+03/03/2021 22:09:00,AliquotNum,11,ali,G
+03/03/2021 22:09:00,Incr_Flow,472.21,cf,G
+03/03/2021 22:10:00,Level_PT,4.56,in,G
+03/03/2021 22:10:00,Flow _PT,0.711,cfs,G
+03/03/2021 22:10:00,SamplePacin,500,cf,G
+03/03/2021 22:10:00,BottleNum,1,,G
+03/03/2021 22:10:00,AliquotNum,11,ali,G
+03/03/2021 22:10:00,Incr_Flow,14.86,cf,G
+03/03/2021 22:11:00,Level_PT,4.48,in,G
+03/03/2021 22:11:00,Flow _PT,0.687,cfs,G
+03/03/2021 22:11:00,SamplePacin,500,cf,G
+03/03/2021 22:11:00,BottleNum,1,,G
+03/03/2021 22:11:00,AliquotNum,12,ali,G
+03/03/2021 22:11:00,Incr_Flow,56.07,cf,G
+03/03/2021 22:12:00,Level_PT,4.48,in,G
+03/03/2021 22:12:00,Flow _PT,0.687,cfs,G
+03/03/2021 22:12:00,SamplePacin,500,cf,G
+03/03/2021 22:12:00,BottleNum,1,,G
+03/03/2021 22:12:00,AliquotNum,12,ali,G
+03/03/2021 22:12:00,Incr_Flow,97.27,cf,G
+03/03/2021 22:13:00,Level_PT,4.54,in,G
+03/03/2021 22:13:00,Flow _PT,0.705,cfs,G
+03/03/2021 22:13:00,SamplePacin,500,cf,G
+03/03/2021 22:13:00,BottleNum,1,,G
+03/03/2021 22:13:00,AliquotNum,12,ali,G
+03/03/2021 22:13:00,Incr_Flow,139.56,cf,G
+03/03/2021 22:14:00,Level_PT,4.51,in,G
+03/03/2021 22:14:00,Flow _PT,0.696,cfs,G
+03/03/2021 22:14:00,SamplePacin,500,cf,G
+03/03/2021 22:14:00,BottleNum,1,,G
+03/03/2021 22:14:00,AliquotNum,12,ali,G
+03/03/2021 22:14:00,Incr_Flow,181.31,cf,G
+03/03/2021 22:15:00,Level_PT,4.51,in,G
+03/03/2021 22:15:00,Flow _PT,0.696,cfs,G
+03/03/2021 22:15:00,SamplePacin,500,cf,G
+03/03/2021 22:15:00,BottleNum,1,,G
+03/03/2021 22:15:00,AliquotNum,12,ali,G
+03/03/2021 22:15:00,Incr_Flow,223.06,cf,G
+03/03/2021 22:16:00,Level_PT,4.45,in,G
+03/03/2021 22:16:00,Flow _PT,0.678,cfs,G
+03/03/2021 22:16:00,SamplePacin,500,cf,G
+03/03/2021 22:16:00,BottleNum,1,,G
+03/03/2021 22:16:00,AliquotNum,12,ali,G
+03/03/2021 22:16:00,Incr_Flow,263.72,cf,G
+03/03/2021 22:17:00,Level_PT,4.40,in,G
+03/03/2021 22:17:00,Flow _PT,0.663,cfs,G
+03/03/2021 22:17:00,SamplePacin,500,cf,G
+03/03/2021 22:17:00,BottleNum,1,,G
+03/03/2021 22:17:00,AliquotNum,12,ali,G
+03/03/2021 22:17:00,Incr_Flow,303.48,cf,G
+03/03/2021 22:18:00,Level_PT,4.38,in,G
+03/03/2021 22:18:00,Flow _PT,0.657,cfs,G
+03/03/2021 22:18:00,SamplePacin,500,cf,G
+03/03/2021 22:18:00,BottleNum,1,,G
+03/03/2021 22:18:00,AliquotNum,12,ali,G
+03/03/2021 22:18:00,Incr_Flow,342.88,cf,G
+03/03/2021 22:19:00,Level_PT,4.40,in,G
+03/03/2021 22:19:00,Flow _PT,0.663,cfs,G
+03/03/2021 22:19:00,SamplePacin,500,cf,G
+03/03/2021 22:19:00,BottleNum,1,,G
+03/03/2021 22:19:00,AliquotNum,12,ali,G
+03/03/2021 22:19:00,Incr_Flow,382.63,cf,G
+03/03/2021 22:20:00,Level_PT,4.42,in,G
+03/03/2021 22:20:00,Flow _PT,0.669,cfs,G
+03/03/2021 22:20:00,SamplePacin,500,cf,G
+03/03/2021 22:20:00,BottleNum,1,,G
+03/03/2021 22:20:00,AliquotNum,12,ali,G
+03/03/2021 22:20:00,Incr_Flow,422.76,cf,G
+03/03/2021 22:21:00,Level_PT,4.39,in,G
+03/03/2021 22:21:00,Flow _PT,0.660,cfs,G
+03/03/2021 22:21:00,SamplePacin,500,cf,G
+03/03/2021 22:21:00,BottleNum,1,,G
+03/03/2021 22:21:00,AliquotNum,12,ali,G
+03/03/2021 22:21:00,Incr_Flow,462.33,cf,G
+03/03/2021 22:22:00,Level_PT,4.37,in,G
+03/03/2021 22:22:00,Flow _PT,0.654,cfs,G
+03/03/2021 22:22:00,SamplePacin,500,cf,G
+03/03/2021 22:22:00,BottleNum,1,,G
+03/03/2021 22:22:00,AliquotNum,12,ali,G
+03/03/2021 22:22:00,Incr_Flow,1.55,cf,G
+03/03/2021 22:23:00,Level_PT,4.41,in,G
+03/03/2021 22:23:00,Flow _PT,0.666,cfs,G
+03/03/2021 22:23:00,SamplePacin,500,cf,G
+03/03/2021 22:23:00,BottleNum,1,,G
+03/03/2021 22:23:00,AliquotNum,13,ali,G
+03/03/2021 22:23:00,Incr_Flow,41.49,cf,G
+03/03/2021 22:24:00,Level_PT,4.38,in,G
+03/03/2021 22:24:00,Flow _PT,0.657,cfs,G
+03/03/2021 22:24:00,SamplePacin,500,cf,G
+03/03/2021 22:24:00,BottleNum,1,,G
+03/03/2021 22:24:00,AliquotNum,13,ali,G
+03/03/2021 22:24:00,Incr_Flow,80.89,cf,G
+03/03/2021 22:25:00,Level_PT,4.37,in,G
+03/03/2021 22:25:00,Flow _PT,0.654,cfs,G
+03/03/2021 22:25:00,SamplePacin,500,cf,G
+03/03/2021 22:25:00,BottleNum,1,,G
+03/03/2021 22:25:00,AliquotNum,13,ali,G
+03/03/2021 22:25:00,Incr_Flow,120.10,cf,G
+03/03/2021 22:26:00,Level_PT,4.43,in,G
+03/03/2021 22:26:00,Flow _PT,0.672,cfs,G
+03/03/2021 22:26:00,SamplePacin,500,cf,G
+03/03/2021 22:26:00,BottleNum,1,,G
+03/03/2021 22:26:00,AliquotNum,13,ali,G
+03/03/2021 22:26:00,Incr_Flow,160.41,cf,G
+03/03/2021 22:27:00,Level_PT,4.35,in,G
+03/03/2021 22:27:00,Flow _PT,0.648,cfs,G
+03/03/2021 22:27:00,SamplePacin,500,cf,G
+03/03/2021 22:27:00,BottleNum,1,,G
+03/03/2021 22:27:00,AliquotNum,13,ali,G
+03/03/2021 22:27:00,Incr_Flow,199.26,cf,G
+03/03/2021 22:28:00,Level_PT,4.35,in,G
+03/03/2021 22:28:00,Flow _PT,0.648,cfs,G
+03/03/2021 22:28:00,SamplePacin,500,cf,G
+03/03/2021 22:28:00,BottleNum,1,,G
+03/03/2021 22:28:00,AliquotNum,13,ali,G
+03/03/2021 22:28:00,Incr_Flow,238.12,cf,G
+03/03/2021 22:29:00,Level_PT,4.34,in,G
+03/03/2021 22:29:00,Flow _PT,0.645,cfs,G
+03/03/2021 22:29:00,SamplePacin,500,cf,G
+03/03/2021 22:29:00,BottleNum,1,,G
+03/03/2021 22:29:00,AliquotNum,13,ali,G
+03/03/2021 22:29:00,Incr_Flow,276.79,cf,G
+03/03/2021 22:30:00,Level_PT,4.35,in,G
+03/03/2021 22:30:00,Flow _PT,0.648,cfs,G
+03/03/2021 22:30:00,SamplePacin,500,cf,G
+03/03/2021 22:30:00,BottleNum,1,,G
+03/03/2021 22:30:00,AliquotNum,13,ali,G
+03/03/2021 22:30:00,Incr_Flow,315.65,cf,G
+03/03/2021 22:31:00,Level_PT,4.30,in,G
+03/03/2021 22:31:00,Flow _PT,0.633,cfs,G
+03/03/2021 22:31:00,SamplePacin,500,cf,G
+03/03/2021 22:31:00,BottleNum,1,,G
+03/03/2021 22:31:00,AliquotNum,13,ali,G
+03/03/2021 22:31:00,Incr_Flow,353.60,cf,G
+03/03/2021 22:32:00,Level_PT,4.28,in,G
+03/03/2021 22:32:00,Flow _PT,0.627,cfs,G
+03/03/2021 22:32:00,SamplePacin,500,cf,G
+03/03/2021 22:32:00,BottleNum,1,,G
+03/03/2021 22:32:00,AliquotNum,13,ali,G
+03/03/2021 22:32:00,Incr_Flow,391.19,cf,G
+03/03/2021 22:33:00,Level_PT,4.27,in,G
+03/03/2021 22:33:00,Flow _PT,0.623,cfs,G
+03/03/2021 22:33:00,SamplePacin,500,cf,G
+03/03/2021 22:33:00,BottleNum,1,,G
+03/03/2021 22:33:00,AliquotNum,13,ali,G
+03/03/2021 22:33:00,Incr_Flow,428.60,cf,G
+03/03/2021 22:34:00,Level_PT,4.26,in,G
+03/03/2021 22:34:00,Flow _PT,0.620,cfs,G
+03/03/2021 22:34:00,SamplePacin,500,cf,G
+03/03/2021 22:34:00,BottleNum,1,,G
+03/03/2021 22:34:00,AliquotNum,13,ali,G
+03/03/2021 22:34:00,Incr_Flow,465.83,cf,G
+03/03/2021 22:35:00,Level_PT,4.23,in,G
+03/03/2021 22:35:00,Flow _PT,0.611,cfs,G
+03/03/2021 22:35:00,SamplePacin,500,cf,G
+03/03/2021 22:35:00,BottleNum,1,,G
+03/03/2021 22:35:00,AliquotNum,13,ali,G
+03/03/2021 22:35:00,Incr_Flow,2.51,cf,G
+03/03/2021 22:36:00,Level_PT,4.23,in,G
+03/03/2021 22:36:00,Flow _PT,0.611,cfs,G
+03/03/2021 22:36:00,SamplePacin,500,cf,G
+03/03/2021 22:36:00,BottleNum,1,,G
+03/03/2021 22:36:00,AliquotNum,14,ali,G
+03/03/2021 22:36:00,Incr_Flow,39.20,cf,G
+03/03/2021 22:37:00,Level_PT,4.23,in,G
+03/03/2021 22:37:00,Flow _PT,0.611,cfs,G
+03/03/2021 22:37:00,SamplePacin,500,cf,G
+03/03/2021 22:37:00,BottleNum,1,,G
+03/03/2021 22:37:00,AliquotNum,14,ali,G
+03/03/2021 22:37:00,Incr_Flow,75.89,cf,G
+03/03/2021 22:38:00,Level_PT,4.19,in,G
+03/03/2021 22:38:00,Flow _PT,0.599,cfs,G
+03/03/2021 22:38:00,SamplePacin,500,cf,G
+03/03/2021 22:38:00,BottleNum,1,,G
+03/03/2021 22:38:00,AliquotNum,14,ali,G
+03/03/2021 22:38:00,Incr_Flow,111.85,cf,G
+03/03/2021 22:39:00,Level_PT,4.24,in,G
+03/03/2021 22:39:00,Flow _PT,0.614,cfs,G
+03/03/2021 22:39:00,SamplePacin,500,cf,G
+03/03/2021 22:39:00,BottleNum,1,,G
+03/03/2021 22:39:00,AliquotNum,14,ali,G
+03/03/2021 22:39:00,Incr_Flow,148.72,cf,G
+03/03/2021 22:40:00,Level_PT,4.21,in,G
+03/03/2021 22:40:00,Flow _PT,0.605,cfs,G
+03/03/2021 22:40:00,SamplePacin,500,cf,G
+03/03/2021 22:40:00,BottleNum,1,,G
+03/03/2021 22:40:00,AliquotNum,14,ali,G
+03/03/2021 22:40:00,Incr_Flow,185.04,cf,G
+03/03/2021 22:41:00,Level_PT,4.19,in,G
+03/03/2021 22:41:00,Flow _PT,0.599,cfs,G
+03/03/2021 22:41:00,SamplePacin,500,cf,G
+03/03/2021 22:41:00,BottleNum,1,,G
+03/03/2021 22:41:00,AliquotNum,14,ali,G
+03/03/2021 22:41:00,Incr_Flow,221.01,cf,G
+03/03/2021 22:42:00,Level_PT,4.16,in,G
+03/03/2021 22:42:00,Flow _PT,0.590,cfs,G
+03/03/2021 22:42:00,SamplePacin,500,cf,G
+03/03/2021 22:42:00,BottleNum,1,,G
+03/03/2021 22:42:00,AliquotNum,14,ali,G
+03/03/2021 22:42:00,Incr_Flow,256.43,cf,G
+03/03/2021 22:43:00,Level_PT,4.20,in,G
+03/03/2021 22:43:00,Flow _PT,0.602,cfs,G
+03/03/2021 22:43:00,SamplePacin,500,cf,G
+03/03/2021 22:43:00,BottleNum,1,,G
+03/03/2021 22:43:00,AliquotNum,14,ali,G
+03/03/2021 22:43:00,Incr_Flow,292.57,cf,G
+03/03/2021 22:44:00,Level_PT,4.16,in,G
+03/03/2021 22:44:00,Flow _PT,0.590,cfs,G
+03/03/2021 22:44:00,SamplePacin,500,cf,G
+03/03/2021 22:44:00,BottleNum,1,,G
+03/03/2021 22:44:00,AliquotNum,14,ali,G
+03/03/2021 22:44:00,Incr_Flow,328.00,cf,G
+03/03/2021 22:45:00,Level_PT,4.16,in,G
+03/03/2021 22:45:00,Flow _PT,0.590,cfs,G
+03/03/2021 22:45:00,SamplePacin,500,cf,G
+03/03/2021 22:45:00,BottleNum,1,,G
+03/03/2021 22:45:00,AliquotNum,14,ali,G
+03/03/2021 22:45:00,Incr_Flow,363.42,cf,G
+03/03/2021 22:46:00,Level_PT,4.16,in,G
+03/03/2021 22:46:00,Flow _PT,0.590,cfs,G
+03/03/2021 22:46:00,SamplePacin,500,cf,G
+03/03/2021 22:46:00,BottleNum,1,,G
+03/03/2021 22:46:00,AliquotNum,14,ali,G
+03/03/2021 22:46:00,Incr_Flow,398.84,cf,G
+03/03/2021 22:47:00,Level_PT,4.13,in,G
+03/03/2021 22:47:00,Flow _PT,0.581,cfs,G
+03/03/2021 22:47:00,SamplePacin,500,cf,G
+03/03/2021 22:47:00,BottleNum,1,,G
+03/03/2021 22:47:00,AliquotNum,14,ali,G
+03/03/2021 22:47:00,Incr_Flow,433.72,cf,G
+03/03/2021 22:48:00,Level_PT,4.15,in,G
+03/03/2021 22:48:00,Flow _PT,0.587,cfs,G
+03/03/2021 22:48:00,SamplePacin,500,cf,G
+03/03/2021 22:48:00,BottleNum,1,,G
+03/03/2021 22:48:00,AliquotNum,14,ali,G
+03/03/2021 22:48:00,Incr_Flow,468.96,cf,G
+03/03/2021 22:49:00,Level_PT,4.18,in,G
+03/03/2021 22:49:00,Flow _PT,0.596,cfs,G
+03/03/2021 22:49:00,SamplePacin,500,cf,G
+03/03/2021 22:49:00,BottleNum,1,,G
+03/03/2021 22:49:00,AliquotNum,14,ali,G
+03/03/2021 22:49:00,Incr_Flow,4.74,cf,G
+03/03/2021 22:50:00,Level_PT,4.12,in,G
+03/03/2021 22:50:00,Flow _PT,0.578,cfs,G
+03/03/2021 22:50:00,SamplePacin,500,cf,G
+03/03/2021 22:50:00,BottleNum,1,,G
+03/03/2021 22:50:00,AliquotNum,15,ali,G
+03/03/2021 22:50:00,Incr_Flow,39.44,cf,G
+03/03/2021 22:51:00,Level_PT,4.12,in,G
+03/03/2021 22:51:00,Flow _PT,0.578,cfs,G
+03/03/2021 22:51:00,SamplePacin,500,cf,G
+03/03/2021 22:51:00,BottleNum,1,,G
+03/03/2021 22:51:00,AliquotNum,15,ali,G
+03/03/2021 22:51:00,Incr_Flow,74.14,cf,G
+03/03/2021 22:52:00,Level_PT,4.17,in,G
+03/03/2021 22:52:00,Flow _PT,0.593,cfs,G
+03/03/2021 22:52:00,SamplePacin,500,cf,G
+03/03/2021 22:52:00,BottleNum,1,,G
+03/03/2021 22:52:00,AliquotNum,15,ali,G
+03/03/2021 22:52:00,Incr_Flow,109.74,cf,G
+03/03/2021 22:53:00,Level_PT,4.07,in,G
+03/03/2021 22:53:00,Flow _PT,0.563,cfs,G
+03/03/2021 22:53:00,SamplePacin,500,cf,G
+03/03/2021 22:53:00,BottleNum,1,,G
+03/03/2021 22:53:00,AliquotNum,15,ali,G
+03/03/2021 22:53:00,Incr_Flow,143.54,cf,G
+03/03/2021 22:54:00,Level_PT,4.08,in,G
+03/03/2021 22:54:00,Flow _PT,0.566,cfs,G
+03/03/2021 22:54:00,SamplePacin,500,cf,G
+03/03/2021 22:54:00,BottleNum,1,,G
+03/03/2021 22:54:00,AliquotNum,15,ali,G
+03/03/2021 22:54:00,Incr_Flow,177.51,cf,G
+03/03/2021 22:55:00,Level_PT,4.07,in,G
+03/03/2021 22:55:00,Flow _PT,0.563,cfs,G
+03/03/2021 22:55:00,SamplePacin,500,cf,G
+03/03/2021 22:55:00,BottleNum,1,,G
+03/03/2021 22:55:00,AliquotNum,15,ali,G
+03/03/2021 22:55:00,Incr_Flow,211.31,cf,G
+03/03/2021 22:56:00,Level_PT,4.07,in,G
+03/03/2021 22:56:00,Flow _PT,0.563,cfs,G
+03/03/2021 22:56:00,SamplePacin,500,cf,G
+03/03/2021 22:56:00,BottleNum,1,,G
+03/03/2021 22:56:00,AliquotNum,15,ali,G
+03/03/2021 22:56:00,Incr_Flow,245.10,cf,G
+03/03/2021 22:57:00,Level_PT,4.10,in,G
+03/03/2021 22:57:00,Flow _PT,0.572,cfs,G
+03/03/2021 22:57:00,SamplePacin,500,cf,G
+03/03/2021 22:57:00,BottleNum,1,,G
+03/03/2021 22:57:00,AliquotNum,15,ali,G
+03/03/2021 22:57:00,Incr_Flow,279.44,cf,G
+03/03/2021 22:58:00,Level_PT,4.08,in,G
+03/03/2021 22:58:00,Flow _PT,0.566,cfs,G
+03/03/2021 22:58:00,SamplePacin,500,cf,G
+03/03/2021 22:58:00,BottleNum,1,,G
+03/03/2021 22:58:00,AliquotNum,15,ali,G
+03/03/2021 22:58:00,Incr_Flow,313.42,cf,G
+03/03/2021 22:59:00,Level_PT,4.10,in,G
+03/03/2021 22:59:00,Flow _PT,0.572,cfs,G
+03/03/2021 22:59:00,SamplePacin,500,cf,G
+03/03/2021 22:59:00,BottleNum,1,,G
+03/03/2021 22:59:00,AliquotNum,15,ali,G
+03/03/2021 22:59:00,Incr_Flow,347.76,cf,G
+03/03/2021 23:00:00,Level_PT,4.02,in,G
+03/03/2021 23:00:00,Flow _PT,0.548,cfs,G
+03/03/2021 23:00:00,SamplePacin,500,cf,G
+03/03/2021 23:00:00,BottleNum,1,,G
+03/03/2021 23:00:00,AliquotNum,15,ali,G
+03/03/2021 23:00:00,Incr_Flow,380.65,cf,G
+03/03/2021 23:01:00,Level_PT,4.05,in,G
+03/03/2021 23:01:00,Flow _PT,0.557,cfs,G
+03/03/2021 23:01:00,SamplePacin,500,cf,G
+03/03/2021 23:01:00,BottleNum,1,,G
+03/03/2021 23:01:00,AliquotNum,15,ali,G
+03/03/2021 23:01:00,Incr_Flow,414.08,cf,G
+03/03/2021 23:02:00,Level_PT,4.01,in,G
+03/03/2021 23:02:00,Flow _PT,0.545,cfs,G
+03/03/2021 23:02:00,SamplePacin,500,cf,G
+03/03/2021 23:02:00,BottleNum,1,,G
+03/03/2021 23:02:00,AliquotNum,15,ali,G
+03/03/2021 23:02:00,Incr_Flow,446.79,cf,G
+03/03/2021 23:03:00,Level_PT,4.05,in,G
+03/03/2021 23:03:00,Flow _PT,0.557,cfs,G
+03/03/2021 23:03:00,SamplePacin,500,cf,G
+03/03/2021 23:03:00,BottleNum,1,,G
+03/03/2021 23:03:00,AliquotNum,15,ali,G
+03/03/2021 23:03:00,Incr_Flow,480.23,cf,G
+03/03/2021 23:04:00,Level_PT,4.07,in,G
+03/03/2021 23:04:00,Flow _PT,0.563,cfs,G
+03/03/2021 23:04:00,SamplePacin,500,cf,G
+03/03/2021 23:04:00,BottleNum,1,,G
+03/03/2021 23:04:00,AliquotNum,15,ali,G
+03/03/2021 23:04:00,Incr_Flow,14.02,cf,G
+03/03/2021 23:05:00,Level_PT,4.05,in,G
+03/03/2021 23:05:00,Flow _PT,0.557,cfs,G
+03/03/2021 23:05:00,SamplePacin,500,cf,G
+03/03/2021 23:05:00,BottleNum,1,,G
+03/03/2021 23:05:00,AliquotNum,16,ali,G
+03/03/2021 23:05:00,Incr_Flow,47.45,cf,G
+03/03/2021 23:06:00,Level_PT,3.98,in,G
+03/03/2021 23:06:00,Flow _PT,0.536,cfs,G
+03/03/2021 23:06:00,SamplePacin,500,cf,G
+03/03/2021 23:06:00,BottleNum,1,,G
+03/03/2021 23:06:00,AliquotNum,16,ali,G
+03/03/2021 23:06:00,Incr_Flow,79.62,cf,G
+03/03/2021 23:07:00,Level_PT,3.98,in,G
+03/03/2021 23:07:00,Flow _PT,0.536,cfs,G
+03/03/2021 23:07:00,SamplePacin,500,cf,G
+03/03/2021 23:07:00,BottleNum,1,,G
+03/03/2021 23:07:00,AliquotNum,16,ali,G
+03/03/2021 23:07:00,Incr_Flow,111.79,cf,G
+03/03/2021 23:08:00,Level_PT,4.02,in,G
+03/03/2021 23:08:00,Flow _PT,0.548,cfs,G
+03/03/2021 23:08:00,SamplePacin,500,cf,G
+03/03/2021 23:08:00,BottleNum,1,,G
+03/03/2021 23:08:00,AliquotNum,16,ali,G
+03/03/2021 23:08:00,Incr_Flow,144.68,cf,G
+03/03/2021 23:09:00,Level_PT,3.94,in,G
+03/03/2021 23:09:00,Flow _PT,0.524,cfs,G
+03/03/2021 23:09:00,SamplePacin,500,cf,G
+03/03/2021 23:09:00,BottleNum,1,,G
+03/03/2021 23:09:00,AliquotNum,16,ali,G
+03/03/2021 23:09:00,Incr_Flow,176.13,cf,G
+03/03/2021 23:10:00,Level_PT,3.97,in,G
+03/03/2021 23:10:00,Flow _PT,0.533,cfs,G
+03/03/2021 23:10:00,SamplePacin,500,cf,G
+03/03/2021 23:10:00,BottleNum,1,,G
+03/03/2021 23:10:00,AliquotNum,16,ali,G
+03/03/2021 23:10:00,Incr_Flow,208.12,cf,G
+03/03/2021 23:11:00,Level_PT,3.99,in,G
+03/03/2021 23:11:00,Flow _PT,0.539,cfs,G
+03/03/2021 23:11:00,SamplePacin,500,cf,G
+03/03/2021 23:11:00,BottleNum,1,,G
+03/03/2021 23:11:00,AliquotNum,16,ali,G
+03/03/2021 23:11:00,Incr_Flow,240.47,cf,G
+03/03/2021 23:12:00,Level_PT,3.95,in,G
+03/03/2021 23:12:00,Flow _PT,0.527,cfs,G
+03/03/2021 23:12:00,SamplePacin,500,cf,G
+03/03/2021 23:12:00,BottleNum,1,,G
+03/03/2021 23:12:00,AliquotNum,16,ali,G
+03/03/2021 23:12:00,Incr_Flow,272.09,cf,G
+03/03/2021 23:13:00,Level_PT,3.95,in,G
+03/03/2021 23:13:00,Flow _PT,0.527,cfs,G
+03/03/2021 23:13:00,SamplePacin,500,cf,G
+03/03/2021 23:13:00,BottleNum,1,,G
+03/03/2021 23:13:00,AliquotNum,16,ali,G
+03/03/2021 23:13:00,Incr_Flow,303.72,cf,G
+03/03/2021 23:14:00,Level_PT,3.92,in,G
+03/03/2021 23:14:00,Flow _PT,0.518,cfs,G
+03/03/2021 23:14:00,SamplePacin,500,cf,G
+03/03/2021 23:14:00,BottleNum,1,,G
+03/03/2021 23:14:00,AliquotNum,16,ali,G
+03/03/2021 23:14:00,Incr_Flow,334.80,cf,G
+03/03/2021 23:15:00,Level_PT,3.95,in,G
+03/03/2021 23:15:00,Flow _PT,0.527,cfs,G
+03/03/2021 23:15:00,SamplePacin,500,cf,G
+03/03/2021 23:15:00,BottleNum,1,,G
+03/03/2021 23:15:00,AliquotNum,16,ali,G
+03/03/2021 23:15:00,Incr_Flow,366.43,cf,G
+03/03/2021 23:16:00,Level_PT,3.94,in,G
+03/03/2021 23:16:00,Flow _PT,0.524,cfs,G
+03/03/2021 23:16:00,SamplePacin,500,cf,G
+03/03/2021 23:16:00,BottleNum,1,,G
+03/03/2021 23:16:00,AliquotNum,16,ali,G
+03/03/2021 23:16:00,Incr_Flow,397.88,cf,G
+03/03/2021 23:17:00,Level_PT,3.92,in,G
+03/03/2021 23:17:00,Flow _PT,0.518,cfs,G
+03/03/2021 23:17:00,SamplePacin,500,cf,G
+03/03/2021 23:17:00,BottleNum,1,,G
+03/03/2021 23:17:00,AliquotNum,16,ali,G
+03/03/2021 23:17:00,Incr_Flow,428.96,cf,G
+03/03/2021 23:18:00,Level_PT,3.89,in,G
+03/03/2021 23:18:00,Flow _PT,0.509,cfs,G
+03/03/2021 23:18:00,SamplePacin,500,cf,G
+03/03/2021 23:18:00,BottleNum,1,,G
+03/03/2021 23:18:00,AliquotNum,16,ali,G
+03/03/2021 23:18:00,Incr_Flow,459.50,cf,G
+03/03/2021 23:19:00,Level_PT,3.90,in,G
+03/03/2021 23:19:00,Flow _PT,0.512,cfs,G
+03/03/2021 23:19:00,SamplePacin,500,cf,G
+03/03/2021 23:19:00,BottleNum,1,,G
+03/03/2021 23:19:00,AliquotNum,16,ali,G
+03/03/2021 23:19:00,Incr_Flow,490.23,cf,G
+03/03/2021 23:20:00,Level_PT,3.88,in,G
+03/03/2021 23:20:00,Flow _PT,0.506,cfs,G
+03/03/2021 23:20:00,SamplePacin,500,cf,G
+03/03/2021 23:20:00,BottleNum,1,,G
+03/03/2021 23:20:00,AliquotNum,16,ali,G
+03/03/2021 23:20:00,Incr_Flow,20.59,cf,G
+03/03/2021 23:21:00,Level_PT,3.86,in,G
+03/03/2021 23:21:00,Flow _PT,0.500,cfs,G
+03/03/2021 23:21:00,SamplePacin,500,cf,G
+03/03/2021 23:21:00,BottleNum,1,,G
+03/03/2021 23:21:00,AliquotNum,17,ali,G
+03/03/2021 23:21:00,Incr_Flow,50.59,cf,G
+03/03/2021 23:22:00,Level_PT,3.83,in,G
+03/03/2021 23:22:00,Flow _PT,0.493,cfs,G
+03/03/2021 23:22:00,SamplePacin,500,cf,G
+03/03/2021 23:22:00,BottleNum,1,,G
+03/03/2021 23:22:00,AliquotNum,17,ali,G
+03/03/2021 23:22:00,Incr_Flow,80.16,cf,G
+03/03/2021 23:23:00,Level_PT,3.91,in,G
+03/03/2021 23:23:00,Flow _PT,0.515,cfs,G
+03/03/2021 23:23:00,SamplePacin,500,cf,G
+03/03/2021 23:23:00,BottleNum,1,,G
+03/03/2021 23:23:00,AliquotNum,17,ali,G
+03/03/2021 23:23:00,Incr_Flow,111.06,cf,G
+03/03/2021 23:24:00,Level_PT,3.88,in,G
+03/03/2021 23:24:00,Flow _PT,0.506,cfs,G
+03/03/2021 23:24:00,SamplePacin,500,cf,G
+03/03/2021 23:24:00,BottleNum,1,,G
+03/03/2021 23:24:00,AliquotNum,17,ali,G
+03/03/2021 23:24:00,Incr_Flow,141.42,cf,G
+03/03/2021 23:25:00,Level_PT,3.84,in,G
+03/03/2021 23:25:00,Flow _PT,0.495,cfs,G
+03/03/2021 23:25:00,SamplePacin,500,cf,G
+03/03/2021 23:25:00,BottleNum,1,,G
+03/03/2021 23:25:00,AliquotNum,17,ali,G
+03/03/2021 23:25:00,Incr_Flow,171.14,cf,G
+03/03/2021 23:26:00,Level_PT,3.88,in,G
+03/03/2021 23:26:00,Flow _PT,0.506,cfs,G
+03/03/2021 23:26:00,SamplePacin,500,cf,G
+03/03/2021 23:26:00,BottleNum,1,,G
+03/03/2021 23:26:00,AliquotNum,17,ali,G
+03/03/2021 23:26:00,Incr_Flow,201.50,cf,G
+03/03/2021 23:27:00,Level_PT,3.82,in,G
+03/03/2021 23:27:00,Flow _PT,0.490,cfs,G
+03/03/2021 23:27:00,SamplePacin,500,cf,G
+03/03/2021 23:27:00,BottleNum,1,,G
+03/03/2021 23:27:00,AliquotNum,17,ali,G
+03/03/2021 23:27:00,Incr_Flow,230.93,cf,G
+03/03/2021 23:28:00,Level_PT,3.84,in,G
+03/03/2021 23:28:00,Flow _PT,0.495,cfs,G
+03/03/2021 23:28:00,SamplePacin,500,cf,G
+03/03/2021 23:28:00,BottleNum,1,,G
+03/03/2021 23:28:00,AliquotNum,17,ali,G
+03/03/2021 23:28:00,Incr_Flow,260.64,cf,G
+03/03/2021 23:29:00,Level_PT,3.82,in,G
+03/03/2021 23:29:00,Flow _PT,0.490,cfs,G
+03/03/2021 23:29:00,SamplePacin,500,cf,G
+03/03/2021 23:29:00,BottleNum,1,,G
+03/03/2021 23:29:00,AliquotNum,17,ali,G
+03/03/2021 23:29:00,Incr_Flow,290.07,cf,G
+03/03/2021 23:30:00,Level_PT,3.79,in,G
+03/03/2021 23:30:00,Flow _PT,0.483,cfs,G
+03/03/2021 23:30:00,BottleNum,1,,G
+03/03/2021 23:30:00,SamplePacin,500,cf,G
+03/03/2021 23:30:00,AliquotNum,17,ali,G
+03/03/2021 23:30:00,Incr_Flow,319.07,cf,G

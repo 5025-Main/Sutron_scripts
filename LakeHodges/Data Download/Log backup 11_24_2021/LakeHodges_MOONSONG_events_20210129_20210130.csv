@@ -1,0 +1,105 @@
+DateTime,Label,Value,Units,Quality
+01/29/2021 00:26:33,Setup Change,0,,G
+01/29/2021 00:26:42,Client Conn,8,,G
+01/29/2021 00:50:00,Alarm In,12,,G
+01/29/2021 00:50:00,Setup Change,0,,G
+01/29/2021 00:50:07,Log Download,0,,G
+01/29/2021 00:51:34,Client Conn,9,,G
+01/29/2021 01:50:54,Log Download,0,,G
+01/29/2021 01:55:57,Client Conn,10,,G
+01/29/2021 01:58:41,Wi-Fi Connected,0,,G
+01/29/2021 02:00:00,Triggered S,1,,G
+01/29/2021 02:00:00,VolumeTrig,48037.33,,G
+01/29/2021 02:00:20,Log Download,0,,G
+01/29/2021 02:01:10,Wi-Fi Disconnected,0,,G
+01/29/2021 02:01:23,Wi-Fi Connected,0,,G
+01/29/2021 02:02:01,Wi-Fi Disconnected,0,,G
+01/29/2021 02:02:12,Wi-Fi Connected,0,,G
+01/29/2021 02:05:21,Log Download,0,,G
+01/29/2021 02:09:00,Triggered S,2,,G
+01/29/2021 02:09:00,VolumeTrig,48444.32,,G
+01/29/2021 02:09:16,Wi-Fi Disconnected,0,,G
+01/29/2021 02:18:00,Triggered S,3,,G
+01/29/2021 02:18:00,VolumeTrig,48374.43,,G
+01/29/2021 02:26:00,Triggered S,4,,G
+01/29/2021 02:26:00,VolumeTrig,45060.08,,G
+01/29/2021 02:35:00,Triggered S,5,,G
+01/29/2021 02:35:00,VolumeTrig,49720.83,,G
+01/29/2021 02:43:00,Triggered S,6,,G
+01/29/2021 02:43:00,VolumeTrig,49342.75,,G
+01/29/2021 02:51:00,Triggered S,7,,G
+01/29/2021 02:51:00,VolumeTrig,45744.49,,G
+01/29/2021 02:54:27,SMS Receive,6,,G
+01/29/2021 03:00:00,Triggered S,8,,G
+01/29/2021 03:00:00,VolumeTrig,45292.90,,G
+01/29/2021 03:12:00,Triggered S,9,,G
+01/29/2021 03:12:00,VolumeTrig,45208.12,,G
+01/29/2021 03:16:15,Client Conn,11,,G
+01/29/2021 03:28:00,Triggered S,10,,G
+01/29/2021 03:28:00,VolumeTrig,46289.00,,G
+01/29/2021 03:45:17,Client Conn,12,,G
+01/29/2021 03:50:00,Triggered S,11,,G
+01/29/2021 03:50:00,VolumeTrig,46679.47,,G
+01/29/2021 04:17:00,Triggered S,12,,G
+01/29/2021 04:17:00,VolumeTrig,46040.42,,G
+01/29/2021 04:30:58,Client Conn,13,,G
+01/29/2021 04:42:00,Triggered S,13,,G
+01/29/2021 04:42:00,VolumeTrig,45541.86,,G
+01/29/2021 05:02:00,Triggered S,14,,G
+01/29/2021 05:02:00,VolumeTrig,46397.09,,G
+01/29/2021 05:19:00,Triggered S,15,,G
+01/29/2021 05:19:00,VolumeTrig,46493.20,,G
+01/29/2021 05:41:00,Triggered S,16,,G
+01/29/2021 05:41:00,VolumeTrig,46695.82,,G
+01/29/2021 06:03:41,Client Conn,14,,G
+01/29/2021 06:09:00,Triggered S,17,,G
+01/29/2021 06:09:00,VolumeTrig,45546.77,,G
+01/29/2021 06:41:00,Triggered S,18,,G
+01/29/2021 06:41:00,VolumeTrig,45905.48,,G
+01/29/2021 07:28:00,Triggered S,19,,G
+01/29/2021 07:28:00,VolumeTrig,45127.89,,G
+01/29/2021 09:29:00,Triggered S,20,,G
+01/29/2021 09:29:00,VolumeTrig,45122.29,,G
+01/29/2021 12:14:47,Log Download,0,,G
+01/29/2021 12:15:34,Client Conn,15,,G
+01/29/2021 12:59:00,Triggered S,21,,G
+01/29/2021 12:59:00,VolumeTrig,45101.58,,G
+01/29/2021 15:27:00,Triggered S,22,,G
+01/29/2021 15:27:00,VolumeTrig,45564.58,,G
+01/29/2021 15:28:04,Log Download,0,,G
+01/29/2021 15:28:59,Client Conn,16,,G
+01/29/2021 15:30:30,Log Download,0,,G
+01/29/2021 15:30:59,Client Conn,17,,G
+01/29/2021 15:56:02,SDI XDT,0,,G
+01/29/2021 16:32:13,Log Download,0,,G
+01/29/2021 16:32:45,Client Conn,18,,G
+01/29/2021 16:39:00,Triggered S,23,,G
+01/29/2021 16:39:00,VolumeTrig,45715.00,,G
+01/29/2021 17:13:00,Triggered S,24,,G
+01/29/2021 17:13:00,VolumeTrig,46023.17,,G
+01/29/2021 17:17:32,Log Download,0,,G
+01/29/2021 17:18:05,Client Conn,19,,G
+01/29/2021 17:27:43,Log Download,0,,G
+01/29/2021 17:30:24,Client Conn,20,,G
+01/29/2021 17:51:00,Triggered S,25,,G
+01/29/2021 17:51:00,VolumeTrig,45645.75,,G
+01/29/2021 19:32:00,Triggered S,26,,G
+01/29/2021 19:32:00,VolumeTrig,45075.72,,G
+01/29/2021 21:43:07,Log Download,0,,G
+01/29/2021 21:43:46,Client Conn,21,,G
+01/29/2021 23:12:00,Triggered S,27,,G
+01/29/2021 23:12:00,VolumeTrig,45121.95,,G
+01/30/2021 04:13:00,Triggered S,28,,G
+01/30/2021 04:13:00,VolumeTrig,45010.27,,G
+01/30/2021 06:55:09,Log Download,0,,G
+01/30/2021 06:55:56,Setup Change,0,,G
+01/30/2021 06:56:07,Client Conn,22,,G
+01/30/2021 07:37:59,Log Download,0,,G
+01/30/2021 07:40:56,Client Conn,23,,G
+01/30/2021 08:09:44,Log Download,0,,G
+01/30/2021 08:15:28,Client Conn,24,,G
+01/30/2021 15:41:30,Time Before Change,-3060,ms,G
+01/30/2021 15:41:27,Time After Change,-3060,ms,G
+01/30/2021 15:41:27,Cell Set Time,0,,G
+01/30/2021 15:41:27,SDI XDT,0,,G
+01/30/2021 18:30:41,Log Download,0,,G

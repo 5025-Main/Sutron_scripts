@@ -1,0 +1,24 @@
+DateTime,Label,Value,Units,Quality
+03/10/2021 03:54:33,Client Conn,97,,G
+03/10/2021 03:55:12,Client Conn,98,,G
+03/10/2021 04:30:00,Alarm In,12,,G
+03/10/2021 04:30:00,Setup Change,0,,G
+03/10/2021 05:11:34,Setup Change,0,,G
+03/10/2021 05:11:42,Client Conn,99,,G
+03/10/2021 05:12:04, NewPacing:,1,,G
+03/10/2021 05:29:39,Client Conn,100,,G
+03/10/2021 07:13:04,Client Conn,101,,G
+03/10/2021 07:33:27,Client Conn,102,,G
+03/10/2021 10:28:00,Triggered S,1,,G
+03/10/2021 10:28:00,VolumeTrig,30058.99,,G
+03/10/2021 11:23:09,Client Conn,103,,G
+03/10/2021 13:05:34,Setup Change,0,,G
+03/10/2021 13:06:04, NewPacing:,1,,G
+03/10/2021 13:06:40,Client Conn,104,,G
+03/10/2021 13:24:00,Triggered S,1,,G
+03/10/2021 13:24:00,VolumeTrig,15065.27,,G
+03/10/2021 14:09:31,Log Download,0,,G
+03/10/2021 14:14:38,Client Conn,105,,G
+03/10/2021 15:56:00,Triggered S,2,,G
+03/10/2021 15:56:00,VolumeTrig,15001.03,,G
+03/10/2021 16:27:05,Log Download,0,,G

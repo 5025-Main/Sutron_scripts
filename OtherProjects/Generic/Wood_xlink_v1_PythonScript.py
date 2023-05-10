@@ -270,6 +270,17 @@ def trigger_sampler():
     else:
         return False  # Sampler was NOT triggered.
 
+@MEASUREMENT
+def weir_90deg_gpm(stage_in):
+    flow_gpm = 1122. * ((stage_in/12.)**2.5)
+    return flow_gpm
+
+def weir_90deg_cfs(stage_in):
+    flow_cfs = 2.5 * ((stage_in/12.)**2.5)
+    return flow_cfs
+
+
+
 
 @MEASUREMENT
 def HvF_table(stage_in):
@@ -636,3 +647,5 @@ def trigger_sampler_manually():
     reading.write_log()
     print ('Sampler triggered manually ' + sample_time)
     return True
+
+

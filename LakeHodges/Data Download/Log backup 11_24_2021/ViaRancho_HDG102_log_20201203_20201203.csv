@@ -1,0 +1,60 @@
+Station Name,model and version,XL2 S/N
+ViaRancho_HDG102,Sutron XLink 500 Version 8.35 Build 17:45:51 09/23/2020 revision 3369,1911377
+Label,Meas Type,Slope,Offset,Equation
+PT Level,SDI-12,1.000000,0.000000,Off
+PT Flow cfs,Meta,1.000000,0.000000,Off
+Level_950,Modbus,1.000000,0.000000,Off
+Vel_950,Modbus,1.000000,0.000000,Off
+Flow_950,Modbus,1.000000,0.000000,Off
+Curr_pacing,Meta,1.000000,0.000000,Off
+FlowVolume,Meta,1.000000,0.000000,Off
+Aliquot_Num,Meta,1.000000,0.000000,Off
+Battery_950,Modbus,1.000000,0.000000,Off
+12/03/2020 09:20:00,PT Level,2.01,in,G
+12/03/2020 09:20:00,Aliquot_Num,0,ali,G
+12/03/2020 09:20:00,Curr_pacing,0.00,,G
+12/03/2020 09:20:00,PT Flow cfs,0.496,cfs,G
+12/03/2020 09:20:00,FlowVolume,0.00,,G
+12/03/2020 09:20:00,Flow_950,0.00,cfs,G
+12/03/2020 09:20:00,Level_950,0.99,in,G
+12/03/2020 09:20:00,Vel_950,0.00,fps,G
+12/03/2020 09:25:00,PT Level,1.99,in,G
+12/03/2020 09:25:00,Aliquot_Num,0,ali,G
+12/03/2020 09:25:00,Curr_pacing,0.00,,G
+12/03/2020 09:25:00,PT Flow cfs,0.485,cfs,G
+12/03/2020 09:25:00,FlowVolume,0.00,,G
+12/03/2020 09:25:00,Flow_950,0.00,cfs,G
+12/03/2020 09:25:00,Vel_950,0.00,fps,G
+12/03/2020 09:25:00,Level_950,0.99,in,G
+12/03/2020 09:30:00,PT Level,1.98,in,G
+12/03/2020 09:30:00,Curr_pacing,0.00,,G
+12/03/2020 09:30:00,Aliquot_Num,0,ali,G
+12/03/2020 09:30:00,PT Flow cfs,0.480,cfs,G
+12/03/2020 09:30:00,FlowVolume,0.00,,G
+12/03/2020 09:30:00,Flow_950,0.00,cfs,G
+12/03/2020 09:30:00,Vel_950,0.00,fps,G
+12/03/2020 09:30:00,Level_950,1.03,in,G
+12/03/2020 09:35:00,PT Level,1.98,in,G
+12/03/2020 09:35:00,Aliquot_Num,0,ali,G
+12/03/2020 09:35:00,Curr_pacing,0.00,,G
+12/03/2020 09:35:00,PT Flow cfs,0.480,cfs,G
+12/03/2020 09:35:00,FlowVolume,0.00,,G
+12/03/2020 09:35:00,Flow_950,0.00,cfs,G
+12/03/2020 09:35:00,Vel_950,0.00,fps,G
+12/03/2020 09:35:00,Level_950,0.99,in,G
+12/03/2020 09:40:00,PT Level,1.99,in,G
+12/03/2020 09:40:00,Aliquot_Num,0,ali,G
+12/03/2020 09:40:00,Curr_pacing,0.00,,G
+12/03/2020 09:40:00,PT Flow cfs,0.485,cfs,G
+12/03/2020 09:40:00,FlowVolume,0.00,,G
+12/03/2020 09:40:00,Flow_950,0.00,cfs,G
+12/03/2020 09:40:00,Level_950,0.99,in,G
+12/03/2020 09:40:00,Vel_950,0.00,fps,G
+12/03/2020 09:45:00,PT Level,1.98,in,G
+12/03/2020 09:45:00,Aliquot_Num,0,ali,G
+12/03/2020 09:45:00,Curr_pacing,0.00,,G
+12/03/2020 09:45:00,PT Flow cfs,0.480,cfs,G
+12/03/2020 09:45:00,FlowVolume,0.00,,G
+12/03/2020 09:45:00,Flow_950,0.00,cfs,G
+12/03/2020 09:45:00,Vel_950,0.00,fps,G
+12/03/2020 09:45:00,Level_950,0.99,in,G

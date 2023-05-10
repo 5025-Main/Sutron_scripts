@@ -1,0 +1,65 @@
+Station Name,model and version,XL2 S/N
+Lomica_DW0914,Sutron XLink 500 Version 8.35 Build 17:45:51 09/23/2020 revision 3369,1911379
+Label,Meas Type,Slope,Offset,Equation
+PT Level,SDI-12,1.000000,0.000000,Off
+PT Flow cfs,Meta,1.000000,0.000000,Off
+11/08/2020,14:50:00,PT Level,0.96,in,G
+11/08/2020,14:50:00,PT Flow cfs,58.840,gpm,G
+11/08/2020,14:55:00,PT Level,1.44,in,G
+11/08/2020,14:55:00,PT Flow cfs,150.980,gpm,G
+11/08/2020,15:00:00,PT Level,1.14,in,G
+11/08/2020,15:00:00,PT Flow cfs,88.090,gpm,G
+11/08/2020,15:05:00,PT Level,0.97,in,G
+11/08/2020,15:05:00,PT Flow cfs,60.750,gpm,G
+11/08/2020,15:10:00,PT Level,1.19,in,G
+11/08/2020,15:10:00,PT Flow cfs,97.670,gpm,G
+11/08/2020,15:15:00,PT Level,0.98,in,G
+11/08/2020,15:15:00,PT Flow cfs,62.700,gpm,G
+11/08/2020,15:20:00,PT Level,1.13,in,G
+11/08/2020,15:20:00,PT Flow cfs,86.640,gpm,G
+11/08/2020,15:25:00,PT Level,0.98,in,G
+11/08/2020,15:25:00,PT Flow cfs,62.700,gpm,G
+11/08/2020,15:30:00,PT Level,1.10,in,G
+11/08/2020,15:30:00,PT Flow cfs,81.520,gpm,G
+11/08/2020,15:35:00,PT Level,1.14,in,G
+11/08/2020,15:35:00,PT Flow cfs,88.090,gpm,G
+11/08/2020,15:40:00,PT Level,0.98,in,G
+11/08/2020,15:40:00,PT Flow cfs,62.700,gpm,G
+11/08/2020,15:45:00,PT Level,0.94,in,G
+11/08/2020,15:45:00,PT Flow cfs,55.540,gpm,G
+11/08/2020,15:50:00,PT Level,0.96,in,G
+11/08/2020,15:50:00,PT Flow cfs,58.840,gpm,G
+11/08/2020,15:55:00,PT Level,0.90,in,G
+11/08/2020,15:55:00,PT Flow cfs,50.040,gpm,G
+11/08/2020,16:00:00,PT Level,1.05,in,G
+11/08/2020,16:00:00,PT Flow cfs,72.590,gpm,G
+11/08/2020,16:05:00,PT Level,1.02,in,G
+11/08/2020,16:05:00,PT Flow cfs,68.100,gpm,G
+11/08/2020,16:10:00,PT Level,1.03,in,G
+11/08/2020,16:10:00,PT Flow cfs,69.850,gpm,G
+11/08/2020,16:15:00,PT Level,1.14,in,G
+11/08/2020,16:15:00,PT Flow cfs,88.090,gpm,G
+11/08/2020,16:20:00,PT Level,1.14,in,G
+11/08/2020,16:20:00,PT Flow cfs,88.090,gpm,G
+11/08/2020,16:25:00,PT Level,1.00,in,G
+11/08/2020,16:25:00,PT Flow cfs,64.680,gpm,G
+11/08/2020,16:30:00,PT Level,0.98,in,G
+11/08/2020,16:30:00,PT Flow cfs,62.700,gpm,G
+11/08/2020,16:35:00,PT Level,1.04,in,G
+11/08/2020,16:35:00,PT Flow cfs,71.220,gpm,G
+11/08/2020,16:40:00,PT Level,1.05,in,G
+11/08/2020,16:40:00,PT Flow cfs,72.590,gpm,G
+11/08/2020,16:45:00,PT Level,0.97,in,G
+11/08/2020,16:45:00,PT Flow cfs,60.750,gpm,G
+11/08/2020,16:50:00,PT Level,0.89,in,G
+11/08/2020,16:50:00,PT Flow cfs,49.245,gpm,G
+11/08/2020,16:55:00,PT Level,0.93,in,G
+11/08/2020,16:55:00,PT Flow cfs,54.630,gpm,G
+11/08/2020,17:00:00,PT Level,0.97,in,G
+11/08/2020,17:00:00,PT Flow cfs,60.750,gpm,G
+11/08/2020,17:05:00,PT Level,0.92,in,G
+11/08/2020,17:05:00,PT Flow cfs,53.720,gpm,G
+11/08/2020,17:10:00,PT Level,0.93,in,G
+11/08/2020,17:10:00,PT Flow cfs,54.630,gpm,G
+11/08/2020,17:15:00,PT Level,0.84,in,G
+11/08/2020,17:15:00,PT Flow cfs,42.500,gpm,G

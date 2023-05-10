@@ -1,0 +1,36 @@
+Date,Time,Label,Value,Units,Quality
+10/21/2020,12:49:59,SDI XDT,0,,G
+10/22/2020,12:49:59,SDI XDT,0,,G
+10/23/2020,12:54:59,SDI XDT,0,,G
+10/24/2020,12:59:59,SDI XDT,0,,G
+10/25/2020,13:04:59,SDI XDT,0,,G
+10/26/2020,09:27:51,Wi-Fi Connected,0,,G
+10/26/2020,09:29:21,Upgrade Start,8.28,,G
+10/26/2020,09:29:21,Rev Start,3127,,G
+10/26/2020,09:29:21,Wi-Fi Disconnected,0,,G
+10/26/2020,09:29:38,Reset Soft,1,,G
+10/26/2020,09:29:38,Upgrade Complete,8.35,,G
+10/26/2020,09:29:38,Rev Complet,3369,,G
+10/26/2020,09:29:41,SDI XDT,0,,G
+10/26/2020,09:29:41,Battery,13.67,V,G
+10/26/2020,09:29:41,Internal Temp,16.28,C,G
+10/26/2020,09:30:15,Time Before Change,-2057,ms,G
+10/26/2020,09:30:13,Time After Change,-2057,ms,G
+10/26/2020,09:30:13,Cell Set Time,0,,G
+10/26/2020,09:30:14,SDI XDT,0,,G
+10/26/2020,09:30:30,Wi-Fi Connected,0,,G
+10/26/2020,09:31:10,Log Download,0,,G
+10/26/2020,09:31:56,Wi-Fi Disconnected,0,,G
+10/26/2020,09:40:44,Wi-Fi Connected,0,,G
+10/26/2020,09:41:00,Wi-Fi Disconnected,0,,G
+10/26/2020,09:49:06,Wi-Fi Connected,0,,G
+10/26/2020,09:49:50,Wi-Fi Disconnected,0,,G
+10/26/2020,09:54:18,Wi-Fi Connected,0,,G
+10/26/2020,09:55:20,Wi-Fi Disconnected,0,,G
+10/26/2020,10:02:02,Client Conn,56,,G
+10/26/2020,12:31:36,Client Conn,57,,G
+10/27/2020,09:34:59,SDI XDT,0,,G
+10/27/2020,10:30:17,Log Download,0,,G
+10/27/2020,10:35:28,Setup Change,0,,G
+10/27/2020,10:39:30,Client Conn,58,,G
+10/27/2020,15:19:04,Log Download,0,,G

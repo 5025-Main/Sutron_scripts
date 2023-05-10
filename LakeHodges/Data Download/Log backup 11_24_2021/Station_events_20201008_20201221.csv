@@ -1,0 +1,306 @@
+DateTime,Label,Value,Units,Quality
+10/08/2020 19:25:26,Reset Powerup,1,,G
+10/08/2020 19:25:30,Battery,12.49,V,G
+10/08/2020 19:25:30,Internal Temp,26.29,C,G
+10/08/2020 19:26:16,USB Cable,1,,G
+10/08/2020 19:26:36,Upgrade Start,8.27,,G
+10/08/2020 19:26:36,Rev Start,3087,,G
+10/08/2020 19:26:52,Reset Soft,1,,G
+10/08/2020 19:26:52,Upgrade Complete,8.35,,G
+10/08/2020 19:26:52,Rev Complet,3369,,G
+10/08/2020 19:26:55,Battery,12.43,V,G
+10/08/2020 19:26:55,Internal Temp,26.43,C,G
+10/08/2020 19:27:01,USB Cable,1,,G
+10/08/2020 19:29:53,System Error: Cell SIM Error,5582,,G
+10/08/2020 19:35:33,Setup Change,0,,G
+10/08/2020 19:37:05,Setup Change,0,,G
+10/08/2020 19:37:45,Setup Change,0,,G
+10/08/2020 19:39:57,Setup Change,0,,G
+10/08/2020 19:41:27,Setup Change,0,,G
+10/08/2020 20:13:55,Setup Change,0,,G
+10/08/2020 20:22:48,Setup Change,0,,G
+10/08/2020 20:24:07,Setup Change,0,,G
+10/08/2020 20:27:57,USB Cable,0,,G
+10/08/2020 20:38:03,Reset Powerup,2,,G
+10/08/2020 20:38:06,Battery,4.34,V,G
+10/08/2020 20:38:06,Internal Temp,26.03,C,G
+10/08/2020 20:38:06,Battery,12.47,V,G
+10/08/2020 20:38:06,Battery,12.47,V,G
+10/08/2020 20:38:06,System Error: Battery Low,5508,,G
+10/08/2020 20:38:06,Battery,4.3163,,G
+10/08/2020 20:38:13,USB Cable,1,,G
+10/08/2020 20:38:54,Setup Change,0,,G
+10/08/2020 20:39:43,Setup Change,0,,G
+10/08/2020 20:41:12,System Error: Cell SIM Error,5582,,G
+10/08/2020 20:53:47,USB Cable,0,,G
+10/08/2020 21:02:21,Reset Powerup,3,,G
+10/08/2020 21:02:24,Battery,12.47,V,G
+10/08/2020 21:02:24,Internal Temp,25.96,C,G
+10/08/2020 21:02:35,USB Cable,1,,G
+10/08/2020 21:02:57,USB Cable,0,,G
+10/08/2020 21:03:24,USB Cable,1,,G
+10/08/2020 21:03:34,Setup Change,0,,G
+10/08/2020 21:04:44,Setup Change,0,,G
+10/08/2020 21:05:21,System Error: Cell SIM Error,5582,,G
+10/08/2020 21:06:03,USB Cable,0,,G
+10/08/2020 21:06:43,Reset Powerup,4,,G
+10/08/2020 21:06:46,Battery,12.42,V,G
+10/08/2020 21:06:46,Internal Temp,26.25,C,G
+10/08/2020 21:06:55,USB Cable,1,,G
+10/08/2020 21:09:43,System Error: Cell SIM Error,5582,,G
+10/08/2020 21:21:09,USB Cable,0,,G
+10/08/2020 21:41:17,Reset Powerup,5,,G
+10/08/2020 21:41:20,Battery,12.47,V,G
+10/08/2020 21:41:20,Internal Temp,25.64,C,G
+10/08/2020 21:41:25,USB Cable,1,,G
+10/08/2020 21:44:18,System Error: Cell SIM Error,5582,,G
+10/08/2020 21:54:02,USB Cable,0,,G
+10/08/2020 22:13:53,Reset Powerup,6,,G
+10/08/2020 22:13:56,Battery,4.34,V,G
+10/08/2020 22:13:56,Internal Temp,25.42,C,G
+10/08/2020 22:13:56,Battery,12.48,V,G
+10/08/2020 22:13:56,Battery,12.48,V,G
+10/08/2020 22:13:56,System Error: Battery Low,5508,,G
+10/08/2020 22:13:56,Battery,4.3163,,G
+10/08/2020 22:15:43,USB Cable,1,,G
+10/08/2020 22:17:18,Setup Change,0,,G
+10/08/2020 22:18:43,System Error: Cell SIM Error,5582,,G
+10/08/2020 22:18:57,Setup Change,0,,G
+10/08/2020 22:19:34,Setup Change,0,,G
+10/08/2020 22:22:31,USB Cable,0,,G
+10/09/2020 14:58:41,Reset Powerup,7,,G
+10/09/2020 14:58:44,Battery,4.34,V,G
+10/09/2020 14:58:44,Internal Temp,23.19,C,G
+10/09/2020 14:58:44,System Error: Battery Low,5508,,G
+10/09/2020 14:58:44,Battery,4.3163,,G
+10/09/2020 14:59:42,Battery,12.46,V,G
+10/09/2020 14:59:42,Battery,12.46,V,G
+10/09/2020 15:03:54,USB Cable,1,,G
+10/09/2020 15:05:25,Setup Change,0,,G
+10/09/2020 15:06:09,Setup Change,0,,G
+10/09/2020 15:06:53,System Error: Cell SIM Error,5582,,G
+10/09/2020 15:07:59,Setup Change,0,,G
+10/09/2020 15:10:27,USB Cable,0,,G
+10/09/2020 15:12:09,Reset Powerup,8,,G
+10/09/2020 15:12:12,Battery,12.44,V,G
+10/09/2020 15:12:12,Internal Temp,23.93,C,G
+10/09/2020 15:12:16,USB Cable,1,,G
+10/09/2020 15:15:10,System Error: Cell SIM Error,5582,,G
+10/09/2020 15:17:12,Setup Change,0,,G
+10/09/2020 15:19:47,Setup Change,0,,G
+10/09/2020 15:20:48,Setup Change,0,,G
+10/09/2020 15:21:25,Setup Change,0,,G
+10/09/2020 15:22:25,Setup Change,0,,G
+10/09/2020 15:23:21,USB Cable,0,,G
+10/12/2020 17:47:10,Reset Powerup,9,,G
+10/12/2020 17:47:13,Battery,12.50,V,G
+10/12/2020 17:47:13,Internal Temp,29.61,C,G
+10/12/2020 17:47:47,USB Cable,1,,G
+10/12/2020 17:48:50,Recording,1,,G
+10/12/2020 17:50:11,System Error: Cell SIM Error,5582,,G
+10/12/2020 18:09:11,Setup Change,0,,G
+10/12/2020 19:24:05,Log Download,0,,G
+10/12/2020 19:24:13,System Error: Cell SIM Error,5582,,G
+10/12/2020 19:47:11,Log Download,0,,G
+10/12/2020 19:47:57,USB Cable,0,,G
+11/04/2020 22:53:50,Reset Powerup,10,,G
+11/04/2020 22:53:53,Battery,4.51,V,G
+11/04/2020 22:53:53,Internal Temp,23.74,C,G
+11/04/2020 22:53:53,System Error: Battery Low,5508,,G
+11/04/2020 22:53:53,Battery,4.4850,,G
+11/04/2020 22:54:10,USB Cable,1,,G
+11/04/2020 22:54:32,USB Cable,0,,G
+11/04/2020 22:54:42,USB Cable,1,,G
+11/04/2020 22:57:40,Setup Change,0,,G
+11/04/2020 22:58:28,Setup Change,0,,G
+11/04/2020 23:08:36,Setup Change,0,,G
+11/04/2020 23:17:58,Setup Change,0,,G
+11/04/2020 23:33:10,Setup Change,0,,G
+11/04/2020 23:48:55,Setup Change,0,,G
+11/04/2020 23:55:29,Reset Powerup,11,,G
+11/04/2020 23:55:32,Battery,12.46,V,G
+11/04/2020 23:55:32,Internal Temp,24.25,C,G
+11/04/2020 23:55:56,Reset Watchdog,1,,G
+11/04/2020 23:55:59,Battery,12.46,V,G
+11/04/2020 23:55:59,Internal Temp,24.22,C,G
+11/04/2020 23:58:56,System Error: Cell SIM Error,5582,,G
+11/04/2020 23:59:59,Battery,12.44,V,G
+11/04/2020 23:59:59,Internal Temp,24.33,C,G
+11/04/2020 23:59:59,SMS Received Today,0,,G
+11/04/2020 23:59:59,Cell Clients Today,0,,G
+11/04/2020 23:59:59,Cell Clients Blocked Today,0,,G
+11/04/2020 23:59:59,Cell Bytes Tx Today,0,,G
+11/04/2020 23:59:59,Cell Bytes Rx Today,0,,G
+12/21/2020 16:07:45,Reset Powerup,12,,G
+12/21/2020 16:07:48,Battery,4.59,V,G
+12/21/2020 16:07:48,Internal Temp,16.36,C,G
+12/21/2020 16:07:48,System Error: Battery Low,5508,,G
+12/21/2020 16:07:48,Battery,4.5693,,G
+12/21/2020 16:11:19,USB Cable,1,,G
+12/21/2020 16:15:48,Setup Change,0,,G
+12/21/2020 16:15:50,Time Before Change,-28800000,ms,G
+12/21/2020 08:15:50,Time After Change,-28800000,ms,G
+12/21/2020 08:15:50,Local Time Offset Change,0,,G
+12/21/2020 08:22:30,Setup Change,0,,G
+12/21/2020 08:25:55,Setup Change,0,,G
+12/21/2020 08:29:36,Setup Change,0,,G
+12/21/2020 08:36:23,Setup Change,0,,G
+12/21/2020 08:37:07,Setup Change,0,,G
+12/21/2020 08:37:07,Recording,0,,G
+12/21/2020 08:37:07,Time Before Change,28800000,ms,G
+12/21/2020 16:37:07,Time After Change,28800000,ms,G
+12/21/2020 16:37:07,Local Time Offset Change,0,,G
+12/21/2020 16:37:10,Time Before Change,-28800000,ms,G
+12/21/2020 08:37:10,Time After Change,-28800000,ms,G
+12/21/2020 08:37:10,Local Time Offset Change,0,,G
+12/21/2020 08:37:22,Recording,1,,G
+12/21/2020 08:38:16,Setup Change,0,,G
+12/21/2020 08:41:11,Setup Change,0,,G
+12/21/2020 08:42:12,Setup Change,0,,G
+12/21/2020 08:43:13,Setup Change,0,,G
+12/21/2020 08:48:19,Setup Change,0,,G
+12/21/2020 08:58:56,Triggered S,1,,G
+12/21/2020 08:58:56,TimeTrig,19.00,,G
+12/21/2020 08:59:01,Setup Change,0,,G
+12/21/2020 10:31:16,USB Cable,0,,G
+12/21/2020 11:55:35,USB Cable,1,,G
+12/21/2020 11:55:37,USB Cable,0,,G
+12/21/2020 11:56:13,USB Cable,1,,G
+12/21/2020 11:56:15,Triggered S,1,,G
+12/21/2020 11:56:15,TimeTrig,19.00,,G
+12/21/2020 11:56:26,Setup Change,0,,G
+12/21/2020 11:56:29,USB Cable,0,,G
+12/21/2020 12:03:06,USB Cable,1,,G
+12/21/2020 12:03:19,Setup Change,0,,G
+12/21/2020 12:04:24,Setup Change,0,,G
+12/21/2020 12:04:31,Recording,0,,G
+12/21/2020 12:04:31,Time Before Change,28800000,ms,G
+12/21/2020 20:04:31,Time After Change,28800000,ms,G
+12/21/2020 20:04:31,Local Time Offset Change,0,,G
+12/21/2020 20:04:34,Time Before Change,-28800000,ms,G
+12/21/2020 12:04:34,Time After Change,-28800000,ms,G
+12/21/2020 12:04:34,Local Time Offset Change,0,,G
+12/21/2020 12:04:46,Recording,1,,G
+12/21/2020 12:06:01,Setup Change,0,,G
+12/21/2020 12:14:38,Triggered S,1,,G
+12/21/2020 12:14:38,TimeTrig,19.00,,G
+12/21/2020 12:14:46,Setup Change,0,,G
+12/21/2020 12:18:06,Setup Change,0,,G
+12/21/2020 12:18:47,USB Cable,0,,G
+12/21/2020 14:16:43,Reset Powerup,15,,G
+12/21/2020 14:16:46,SDI XDT,0,,G
+12/21/2020 14:16:46,Battery,12.44,V,G
+12/21/2020 14:16:46,Internal Temp,24.36,C,G
+12/21/2020 14:19:43,System Error: Cell SIM Error,5582,,G
+12/21/2020 14:20:00,System Error: SDI-12 no reply,5618,,G
+12/21/2020 14:20:01,System Error: Script Function Not Found,5599,,G
+12/21/2020 14:20:04,RS232 Connected,0,,G
+12/21/2020 14:20:14,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 14:20:16,RS232 Disconnected,0,,G
+12/21/2020 14:22:39,USB Cable,1,,G
+12/21/2020 14:25:01,System Error: SDI-12 no reply,5618,,G
+12/21/2020 14:25:04,RS232 Connected,0,,G
+12/21/2020 14:25:16,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 14:25:16,RS232 Disconnected,0,,G
+12/21/2020 14:25:39,Setup Change,0,,G
+12/21/2020 14:25:57,System Error: Cell SIM Error,5582,,G
+12/21/2020 14:26:45,System Error: Script Function Not Found,5599,,G
+12/21/2020 14:26:49,RS232 Connected,0,,G
+12/21/2020 14:27:02,RS232 Disconnected,0,,G
+12/21/2020 14:27:19,StatusClear,0,,G
+12/21/2020 14:29:40,Setup Change,0,,G
+12/21/2020 14:29:45,RS232 Connected,0,,G
+12/21/2020 14:29:46,RS232 Disconnected,0,,G
+12/21/2020 14:30:04,RS232 Connected,0,,G
+12/21/2020 14:30:04,RS232 Disconnected,0,,G
+12/21/2020 14:30:33,RS232 Connected,0,,G
+12/21/2020 14:30:33,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 14:30:33,RS232 Disconnected,0,,G
+12/21/2020 14:30:59,RS232 Connected,0,,G
+12/21/2020 14:30:59,RS232 Disconnected,0,,G
+12/21/2020 14:31:04,Setup Change,0,,G
+12/21/2020 14:31:52,System Error: Cell SIM Error,5582,,G
+12/21/2020 14:32:13,System Error: Script Function Not Found,5599,,G
+12/21/2020 14:32:39,Setup Change,0,,G
+12/21/2020 14:33:12,RS232 Connected,0,,G
+12/21/2020 14:33:25,RS232 Disconnected,0,,G
+12/21/2020 14:34:20,RS232 Connected,0,,G
+12/21/2020 14:34:20,RS232 Disconnected,0,,G
+12/21/2020 14:35:00,Alarm In,1,,G
+12/21/2020 14:35:00,Setup Change,0,,G
+12/21/2020 14:35:04,RS232 Connected,0,,G
+12/21/2020 14:35:17,RS232 Disconnected,0,,G
+12/21/2020 14:35:19,BottleChang,1,,G
+12/21/2020 14:35:31,RS232 Connected,0,,G
+12/21/2020 14:35:31,RS232 Disconnected,0,,G
+12/21/2020 14:35:33,Setup Change,0,,G
+12/21/2020 14:35:33,RS232 Connected,0,,G
+12/21/2020 14:35:33,Recording,0,,G
+12/21/2020 14:35:34,Time Before Change,28800000,ms,G
+12/21/2020 22:35:34,Time After Change,28800000,ms,G
+12/21/2020 22:35:34,Local Time Offset Change,0,,G
+12/21/2020 22:35:37,Time Before Change,-28800000,ms,G
+12/21/2020 14:35:37,Time After Change,-28800000,ms,G
+12/21/2020 14:35:37,Local Time Offset Change,0,,G
+12/21/2020 14:35:53,Recording,1,,G
+12/21/2020 14:35:55,SDI XDT,0,,G
+12/21/2020 14:36:44,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 14:37:09,System Error: Cell SIM Error,5582,,G
+12/21/2020 14:39:18,Setup Change,0,,G
+12/21/2020 14:39:23,StatusClear,0,,G
+12/21/2020 14:40:00,Alarm In,1,,G
+12/21/2020 14:40:00,Setup Change,0,,G
+12/21/2020 14:40:30,Setup Change,0,,G
+12/21/2020 14:41:06,Setup Change,0,,G
+12/21/2020 14:42:25,Setup Change,0,,G
+12/21/2020 14:43:34,Setup Change,0,,G
+12/21/2020 14:44:57,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 14:45:44,Setup Change,0,,G
+12/21/2020 14:46:18,Setup Change,0,,G
+12/21/2020 14:46:41,StatusClear,0,,G
+12/21/2020 14:47:12,Setup Change,0,,G
+12/21/2020 14:51:02,System Error: Cell SIM Error,5582,,G
+12/21/2020 14:53:35,Setup Change,0,,G
+12/21/2020 15:01:15,Log Download,0,,G
+12/21/2020 15:03:36,Setup Change,0,,G
+12/21/2020 15:06:59,System Error: Script Function Not Found,5599,,G
+12/21/2020 15:09:27,Setup Change,0,,G
+12/21/2020 15:09:27,Recording,0,,G
+12/21/2020 15:09:28,System Error: Script Exception,5595,,G
+12/21/2020 15:09:28,Time Before Change,28800000,ms,G
+12/21/2020 23:09:28,Time After Change,28800000,ms,G
+12/21/2020 23:09:28,Local Time Offset Change,0,,G
+12/21/2020 23:09:31,Time Before Change,-28800000,ms,G
+12/21/2020 15:09:31,Time After Change,-28800000,ms,G
+12/21/2020 15:09:31,Local Time Offset Change,0,,G
+12/21/2020 15:09:43,Recording,1,,G
+12/21/2020 15:09:46,SDI XDT,0,,G
+12/21/2020 15:10:02,Setup Change,0,,G
+12/21/2020 15:10:02,Recording,0,,G
+12/21/2020 15:10:03,Time Before Change,28800000,ms,G
+12/21/2020 23:10:03,Time After Change,28800000,ms,G
+12/21/2020 23:10:03,Local Time Offset Change,0,,G
+12/21/2020 23:10:03,System Error: Script Exception,5595,,G
+12/21/2020 23:10:03,System Error: Script Function Not Found,5599,,G
+12/21/2020 23:10:06,Time Before Change,-28800000,ms,G
+12/21/2020 15:10:06,Time After Change,-28800000,ms,G
+12/21/2020 15:10:06,Local Time Offset Change,0,,G
+12/21/2020 15:10:12,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 15:10:19,Recording,1,,G
+12/21/2020 15:10:21,SDI XDT,0,,G
+12/21/2020 15:11:07,Setup Change,0,,G
+12/21/2020 15:11:07,Recording,0,,G
+12/21/2020 15:11:07,Time Before Change,28800000,ms,G
+12/21/2020 23:11:07,Time After Change,28800000,ms,G
+12/21/2020 23:11:07,Local Time Offset Change,0,,G
+12/21/2020 23:11:10,Time Before Change,-28800000,ms,G
+12/21/2020 15:11:10,Time After Change,-28800000,ms,G
+12/21/2020 15:11:10,Local Time Offset Change,0,,G
+12/21/2020 15:11:23,Recording,1,,G
+12/21/2020 15:11:23,SDI XDT,0,,G
+12/21/2020 15:12:56,Setup Change,0,,G
+12/21/2020 15:15:45,Setup Change,0,,G
+12/21/2020 15:18:18,Triggered S,1,,G
+12/21/2020 15:18:19,Setup Change,0,,G
+12/21/2020 15:18:43,Triggered S,1,,G
+12/21/2020 15:19:06,Setup Change,0,,G

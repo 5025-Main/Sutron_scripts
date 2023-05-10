@@ -1,0 +1,20 @@
+DateTime,Label,Value,Units,Quality
+01/30/2021 12:32:00,Triggered S,62,,G
+01/30/2021 12:32:00,VolumeTrig,1005.65,,G
+01/30/2021 13:27:00,Triggered S,63,,G
+01/30/2021 13:27:00,VolumeTrig,1012.12,,G
+01/30/2021 14:25:00,Triggered S,64,,G
+01/30/2021 14:25:00,VolumeTrig,1013.47,,G
+01/30/2021 14:56:52,SDI XDT,0,,G
+01/30/2021 15:26:00,Triggered S,65,,G
+01/30/2021 15:26:00,VolumeTrig,1002.98,,G
+01/30/2021 16:32:00,Triggered S,66,,G
+01/30/2021 16:32:00,VolumeTrig,1004.09,,G
+01/30/2021 17:43:00,Triggered S,67,,G
+01/30/2021 17:43:00,VolumeTrig,1001.13,,G
+01/30/2021 18:05:37,Client Conn,38,,G
+01/30/2021 18:06:28,Log Download,0,,G
+01/30/2021 18:11:46,Client Conn,39,,G
+01/30/2021 18:19:28,Client Conn,40,,G
+01/30/2021 18:20:19,Log Download,0,,G
+01/30/2021 18:23:26,Log Download,0,,G

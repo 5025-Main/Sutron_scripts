@@ -1,0 +1,79 @@
+DateTime,Label,Value,Units,Quality
+03/03/2021 12:24:59,Client Conn,47,,G
+03/03/2021 12:29:01,Log Download,0,,G
+03/03/2021 12:29:49,Client Conn,48,,G
+03/03/2021 12:32:43,Client Conn,49,,G
+03/03/2021 14:10:00,Alarm In,12,,G
+03/03/2021 14:10:00,Setup Change,0,,G
+03/03/2021 14:26:30,Setup Change,0,,G
+03/03/2021 14:26:52,Log Download,0,,G
+03/03/2021 14:27:04, NewPacing:,1,,G
+03/03/2021 14:27:12,Client Conn,50,,G
+03/03/2021 15:12:45,Client Conn,51,,G
+03/03/2021 15:14:00,Triggered S,1,,G
+03/03/2021 15:14:00,VolumeTrig,5026.21,,G
+03/03/2021 15:45:34,Client Conn,52,,G
+03/03/2021 15:46:18,Log Download,0,,G
+03/03/2021 15:49:08,Client Conn,53,,G
+03/03/2021 15:50:24,Client Conn,54,,G
+03/03/2021 15:51:30,Client Conn,55,,G
+03/03/2021 15:51:39,SMS Receive,2,,G
+03/03/2021 15:53:27,Setup Change,0,,G
+03/03/2021 15:54:04, NewPacing:,1,,G
+03/03/2021 15:54:00,Triggered S,1,,G
+03/03/2021 15:54:00,VolumeTrig,3430.82,,G
+03/03/2021 15:54:32,Client Conn,56,,G
+03/03/2021 15:56:05,Client Conn,57,,G
+03/03/2021 16:14:00,Triggered S,2,,G
+03/03/2021 16:14:00,VolumeTrig,2558.04,,G
+03/03/2021 16:18:32,Log Download,0,,G
+03/03/2021 16:19:14,Client Conn,58,,G
+03/03/2021 16:42:51,Client Conn,59,,G
+03/03/2021 16:45:00,Triggered S,3,,G
+03/03/2021 16:45:00,VolumeTrig,2578.61,,G
+03/03/2021 16:53:50,Client Conn,60,,G
+03/03/2021 17:00:36,Log Download,0,,G
+03/03/2021 17:01:42,Client Conn,61,,G
+03/03/2021 17:16:00,Triggered S,4,,G
+03/03/2021 17:16:00,VolumeTrig,2514.58,,G
+03/03/2021 17:27:20,Client Conn,62,,G
+03/03/2021 17:32:22,SDI XDT,0,,G
+03/03/2021 17:50:00,Triggered S,5,,G
+03/03/2021 17:50:00,VolumeTrig,2573.57,,G
+03/03/2021 18:05:30,Client Conn,63,,G
+03/03/2021 18:06:14,Log Download,0,,G
+03/03/2021 18:07:24,Client Conn,64,,G
+03/03/2021 18:24:00,Triggered S,6,,G
+03/03/2021 18:24:00,VolumeTrig,2544.30,,G
+03/03/2021 18:53:58,Client Conn,65,,G
+03/03/2021 18:55:56,Log Download,0,,G
+03/03/2021 18:56:12,Client Conn,66,,G
+03/03/2021 18:59:00,Triggered S,7,,G
+03/03/2021 18:59:00,VolumeTrig,2515.46,,G
+03/03/2021 19:35:00,Triggered S,8,,G
+03/03/2021 19:35:00,VolumeTrig,2501.82,,G
+03/03/2021 19:53:50,Client Conn,67,,G
+03/03/2021 19:54:57,Client Conn,68,,G
+03/03/2021 19:55:33,Log Download,0,,G
+03/03/2021 19:56:07,Client Conn,69,,G
+03/03/2021 20:08:00,Triggered S,9,,G
+03/03/2021 20:08:00,VolumeTrig,2542.65,,G
+03/03/2021 20:40:00,Triggered S,10,,G
+03/03/2021 20:40:00,VolumeTrig,2535.21,,G
+03/03/2021 21:13:00,Triggered S,11,,G
+03/03/2021 21:13:00,VolumeTrig,2575.90,,G
+03/03/2021 21:14:55,Client Conn,70,,G
+03/03/2021 21:15:41,Log Download,0,,G
+03/03/2021 21:16:03,Client Conn,71,,G
+03/03/2021 21:45:00,Triggered S,12,,G
+03/03/2021 21:45:00,VolumeTrig,2550.15,,G
+03/03/2021 22:00:00,Log Download,0,,G
+03/03/2021 22:00:35,Client Conn,72,,G
+03/03/2021 22:16:00,Triggered S,13,,G
+03/03/2021 22:16:00,VolumeTrig,2503.16,,G
+03/03/2021 22:47:00,Triggered S,14,,G
+03/03/2021 22:47:00,VolumeTrig,2515.56,,G
+03/03/2021 23:17:00,Triggered S,15,,G
+03/03/2021 23:17:00,VolumeTrig,2529.93,,G
+03/03/2021 23:35:36,Client Conn,73,,G
+03/03/2021 23:36:39,Log Download,0,,G

@@ -1,0 +1,1737 @@
+Date,Time,Label,Value,Units,Quality
+11/06/2020,10:17:25,Log Download,0,,G
+11/06/2020,10:20:05,RS232 Connected,0,,G
+11/06/2020,10:20:10,RS232 Disconnected,0,,G
+11/06/2020,10:25:05,RS232 Connected,0,,G
+11/06/2020,10:25:05,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,10:25:09,RS232 Disconnected,0,,G
+11/06/2020,10:27:04,Client Conn,1,,G
+11/06/2020,10:30:05,RS232 Connected,0,,G
+11/06/2020,10:30:09,RS232 Disconnected,0,,G
+11/06/2020,10:32:50,Setup Change,0,,G
+11/06/2020,10:33:11,RS232 Connected,0,,G
+11/06/2020,10:33:11,RS232 Disconnected,0,,G
+11/06/2020,10:35:05,RS232 Connected,0,,G
+11/06/2020,10:35:05,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,10:35:10,RS232 Disconnected,0,,G
+11/06/2020,10:38:12,Client Conn,2,,G
+11/06/2020,10:39:44,Setup Change,0,,G
+11/06/2020,10:40:06,RS232 Connected,0,,G
+11/06/2020,10:40:12,RS232 Disconnected,0,,G
+11/06/2020,10:40:20,RS232 Connected,0,,G
+11/06/2020,10:40:20,RS232 Disconnected,0,,G
+11/06/2020,10:40:36,RS232 Connected,0,,G
+11/06/2020,10:40:44,RS232 Disconnected,0,,G
+11/06/2020,10:43:53,StatusClear,0,,G
+11/06/2020,10:43:53,StatusClear,0,,G
+11/06/2020,10:43:55,Client Conn,1,,G
+11/06/2020,10:45:06,RS232 Connected,0,,G
+11/06/2020,10:45:12,RS232 Disconnected,0,,G
+11/06/2020,10:50:07,RS232 Connected,0,,G
+11/06/2020,10:50:13,RS232 Disconnected,0,,G
+11/06/2020,10:55:06,RS232 Connected,0,,G
+11/06/2020,10:55:12,RS232 Disconnected,0,,G
+11/06/2020,11:00:06,RS232 Connected,0,,G
+11/06/2020,11:00:15,RS232 Disconnected,0,,G
+11/06/2020,11:05:07,RS232 Connected,0,,G
+11/06/2020,11:05:13,RS232 Disconnected,0,,G
+11/06/2020,11:10:06,RS232 Connected,0,,G
+11/06/2020,11:10:12,RS232 Disconnected,0,,G
+11/06/2020,11:15:06,RS232 Connected,0,,G
+11/06/2020,11:15:12,RS232 Disconnected,0,,G
+11/06/2020,11:20:07,RS232 Connected,0,,G
+11/06/2020,11:20:13,RS232 Disconnected,0,,G
+11/06/2020,11:25:06,RS232 Connected,0,,G
+11/06/2020,11:25:12,RS232 Disconnected,0,,G
+11/06/2020,11:30:06,RS232 Connected,0,,G
+11/06/2020,11:30:12,RS232 Disconnected,0,,G
+11/06/2020,11:35:07,RS232 Connected,0,,G
+11/06/2020,11:35:13,RS232 Disconnected,0,,G
+11/06/2020,11:40:06,RS232 Connected,0,,G
+11/06/2020,11:40:12,RS232 Disconnected,0,,G
+11/06/2020,11:45:06,RS232 Connected,0,,G
+11/06/2020,11:45:12,RS232 Disconnected,0,,G
+11/06/2020,11:50:07,RS232 Connected,0,,G
+11/06/2020,11:50:13,RS232 Disconnected,0,,G
+11/06/2020,11:55:06,RS232 Connected,0,,G
+11/06/2020,11:55:12,RS232 Disconnected,0,,G
+11/06/2020,12:00:06,RS232 Connected,0,,G
+11/06/2020,12:00:15,RS232 Disconnected,0,,G
+11/06/2020,12:05:07,RS232 Connected,0,,G
+11/06/2020,12:05:13,RS232 Disconnected,0,,G
+11/06/2020,12:10:06,RS232 Connected,0,,G
+11/06/2020,12:10:12,RS232 Disconnected,0,,G
+11/06/2020,12:15:06,RS232 Connected,0,,G
+11/06/2020,12:15:12,RS232 Disconnected,0,,G
+11/06/2020,12:20:07,RS232 Connected,0,,G
+11/06/2020,12:20:13,RS232 Disconnected,0,,G
+11/06/2020,12:25:06,RS232 Connected,0,,G
+11/06/2020,12:25:12,RS232 Disconnected,0,,G
+11/06/2020,12:30:06,RS232 Connected,0,,G
+11/06/2020,12:30:12,RS232 Disconnected,0,,G
+11/06/2020,12:35:07,RS232 Connected,0,,G
+11/06/2020,12:35:13,RS232 Disconnected,0,,G
+11/06/2020,12:40:06,RS232 Connected,0,,G
+11/06/2020,12:40:12,RS232 Disconnected,0,,G
+11/06/2020,12:45:06,RS232 Connected,0,,G
+11/06/2020,12:45:12,RS232 Disconnected,0,,G
+11/06/2020,12:50:07,RS232 Connected,0,,G
+11/06/2020,12:50:13,RS232 Disconnected,0,,G
+11/06/2020,12:55:06,RS232 Connected,0,,G
+11/06/2020,12:55:12,RS232 Disconnected,0,,G
+11/06/2020,13:00:06,RS232 Connected,0,,G
+11/06/2020,13:00:15,RS232 Disconnected,0,,G
+11/06/2020,13:05:06,RS232 Connected,0,,G
+11/06/2020,13:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,13:05:10,RS232 Disconnected,0,,G
+11/06/2020,13:10:06,RS232 Connected,0,,G
+11/06/2020,13:10:12,RS232 Disconnected,0,,G
+11/06/2020,13:15:06,RS232 Connected,0,,G
+11/06/2020,13:15:12,RS232 Disconnected,0,,G
+11/06/2020,13:20:06,RS232 Connected,0,,G
+11/06/2020,13:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,13:20:10,RS232 Disconnected,0,,G
+11/06/2020,13:25:06,RS232 Connected,0,,G
+11/06/2020,13:25:12,RS232 Disconnected,0,,G
+11/06/2020,13:30:06,RS232 Connected,0,,G
+11/06/2020,13:30:12,RS232 Disconnected,0,,G
+11/06/2020,13:35:06,RS232 Connected,0,,G
+11/06/2020,13:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,13:35:10,RS232 Disconnected,0,,G
+11/06/2020,13:40:06,RS232 Connected,0,,G
+11/06/2020,13:40:12,RS232 Disconnected,0,,G
+11/06/2020,13:45:06,RS232 Connected,0,,G
+11/06/2020,13:45:12,RS232 Disconnected,0,,G
+11/06/2020,13:50:06,RS232 Connected,0,,G
+11/06/2020,13:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,13:50:10,RS232 Disconnected,0,,G
+11/06/2020,13:55:06,RS232 Connected,0,,G
+11/06/2020,13:55:12,RS232 Disconnected,0,,G
+11/06/2020,14:00:06,RS232 Connected,0,,G
+11/06/2020,14:00:15,RS232 Disconnected,0,,G
+11/06/2020,14:05:07,RS232 Connected,0,,G
+11/06/2020,14:05:13,RS232 Disconnected,0,,G
+11/06/2020,14:10:06,RS232 Connected,0,,G
+11/06/2020,14:10:12,RS232 Disconnected,0,,G
+11/06/2020,14:15:06,RS232 Connected,0,,G
+11/06/2020,14:15:12,RS232 Disconnected,0,,G
+11/06/2020,14:20:07,RS232 Connected,0,,G
+11/06/2020,14:20:13,RS232 Disconnected,0,,G
+11/06/2020,14:25:06,RS232 Connected,0,,G
+11/06/2020,14:25:12,RS232 Disconnected,0,,G
+11/06/2020,14:30:06,RS232 Connected,0,,G
+11/06/2020,14:30:12,RS232 Disconnected,0,,G
+11/06/2020,14:35:07,RS232 Connected,0,,G
+11/06/2020,14:35:13,RS232 Disconnected,0,,G
+11/06/2020,14:40:06,RS232 Connected,0,,G
+11/06/2020,14:40:12,RS232 Disconnected,0,,G
+11/06/2020,14:45:06,RS232 Connected,0,,G
+11/06/2020,14:45:12,RS232 Disconnected,0,,G
+11/06/2020,14:50:08,RS232 Connected,0,,G
+11/06/2020,14:50:13,RS232 Disconnected,0,,G
+11/06/2020,14:53:13,Client Conn,2,,G
+11/06/2020,14:55:06,RS232 Connected,0,,G
+11/06/2020,14:55:12,RS232 Disconnected,0,,G
+11/06/2020,15:00:07,RS232 Connected,0,,G
+11/06/2020,15:00:15,RS232 Disconnected,0,,G
+11/06/2020,15:05:06,RS232 Connected,0,,G
+11/06/2020,15:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,15:05:11,RS232 Disconnected,0,,G
+11/06/2020,15:10:06,RS232 Connected,0,,G
+11/06/2020,15:10:12,RS232 Disconnected,0,,G
+11/06/2020,15:15:06,RS232 Connected,0,,G
+11/06/2020,15:15:12,RS232 Disconnected,0,,G
+11/06/2020,15:20:06,RS232 Connected,0,,G
+11/06/2020,15:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,15:20:10,RS232 Disconnected,0,,G
+11/06/2020,15:25:06,RS232 Connected,0,,G
+11/06/2020,15:25:12,RS232 Disconnected,0,,G
+11/06/2020,15:30:06,RS232 Connected,0,,G
+11/06/2020,15:30:12,RS232 Disconnected,0,,G
+11/06/2020,15:35:06,RS232 Connected,0,,G
+11/06/2020,15:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,15:35:10,RS232 Disconnected,0,,G
+11/06/2020,15:40:06,RS232 Connected,0,,G
+11/06/2020,15:40:12,RS232 Disconnected,0,,G
+11/06/2020,15:45:06,RS232 Connected,0,,G
+11/06/2020,15:45:12,RS232 Disconnected,0,,G
+11/06/2020,15:50:06,RS232 Connected,0,,G
+11/06/2020,15:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,15:50:10,RS232 Disconnected,0,,G
+11/06/2020,15:50:12,SDI XDT,0,,G
+11/06/2020,15:55:06,RS232 Connected,0,,G
+11/06/2020,15:55:12,RS232 Disconnected,0,,G
+11/06/2020,16:00:06,RS232 Connected,0,,G
+11/06/2020,16:00:15,RS232 Disconnected,0,,G
+11/06/2020,16:05:07,RS232 Connected,0,,G
+11/06/2020,16:05:13,RS232 Disconnected,0,,G
+11/06/2020,16:10:06,RS232 Connected,0,,G
+11/06/2020,16:10:12,RS232 Disconnected,0,,G
+11/06/2020,16:15:06,RS232 Connected,0,,G
+11/06/2020,16:15:12,RS232 Disconnected,0,,G
+11/06/2020,16:20:07,RS232 Connected,0,,G
+11/06/2020,16:20:13,RS232 Disconnected,0,,G
+11/06/2020,16:25:06,RS232 Connected,0,,G
+11/06/2020,16:25:12,RS232 Disconnected,0,,G
+11/06/2020,16:30:06,RS232 Connected,0,,G
+11/06/2020,16:30:12,RS232 Disconnected,0,,G
+11/06/2020,16:35:07,RS232 Connected,0,,G
+11/06/2020,16:35:13,RS232 Disconnected,0,,G
+11/06/2020,16:40:06,RS232 Connected,0,,G
+11/06/2020,16:40:12,RS232 Disconnected,0,,G
+11/06/2020,16:45:06,RS232 Connected,0,,G
+11/06/2020,16:45:12,RS232 Disconnected,0,,G
+11/06/2020,16:50:07,RS232 Connected,0,,G
+11/06/2020,16:50:13,RS232 Disconnected,0,,G
+11/06/2020,16:55:06,RS232 Connected,0,,G
+11/06/2020,16:55:12,RS232 Disconnected,0,,G
+11/06/2020,17:00:06,RS232 Connected,0,,G
+11/06/2020,17:00:15,RS232 Disconnected,0,,G
+11/06/2020,17:05:06,RS232 Connected,0,,G
+11/06/2020,17:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,17:05:10,RS232 Disconnected,0,,G
+11/06/2020,17:10:06,RS232 Connected,0,,G
+11/06/2020,17:10:12,RS232 Disconnected,0,,G
+11/06/2020,17:15:06,RS232 Connected,0,,G
+11/06/2020,17:15:12,RS232 Disconnected,0,,G
+11/06/2020,17:20:06,RS232 Connected,0,,G
+11/06/2020,17:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,17:20:10,RS232 Disconnected,0,,G
+11/06/2020,17:25:06,RS232 Connected,0,,G
+11/06/2020,17:25:12,RS232 Disconnected,0,,G
+11/06/2020,17:30:06,RS232 Connected,0,,G
+11/06/2020,17:30:12,RS232 Disconnected,0,,G
+11/06/2020,17:35:06,RS232 Connected,0,,G
+11/06/2020,17:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,17:35:10,RS232 Disconnected,0,,G
+11/06/2020,17:40:06,RS232 Connected,0,,G
+11/06/2020,17:40:12,RS232 Disconnected,0,,G
+11/06/2020,17:45:06,RS232 Connected,0,,G
+11/06/2020,17:45:12,RS232 Disconnected,0,,G
+11/06/2020,17:50:06,RS232 Connected,0,,G
+11/06/2020,17:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,17:50:10,RS232 Disconnected,0,,G
+11/06/2020,17:55:06,RS232 Connected,0,,G
+11/06/2020,17:55:12,RS232 Disconnected,0,,G
+11/06/2020,18:00:06,RS232 Connected,0,,G
+11/06/2020,18:00:15,RS232 Disconnected,0,,G
+11/06/2020,18:05:06,RS232 Connected,0,,G
+11/06/2020,18:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,18:05:10,RS232 Disconnected,0,,G
+11/06/2020,18:10:06,RS232 Connected,0,,G
+11/06/2020,18:10:12,RS232 Disconnected,0,,G
+11/06/2020,18:15:06,RS232 Connected,0,,G
+11/06/2020,18:15:12,RS232 Disconnected,0,,G
+11/06/2020,18:20:06,RS232 Connected,0,,G
+11/06/2020,18:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,18:20:10,RS232 Disconnected,0,,G
+11/06/2020,18:25:06,RS232 Connected,0,,G
+11/06/2020,18:25:12,RS232 Disconnected,0,,G
+11/06/2020,18:30:06,RS232 Connected,0,,G
+11/06/2020,18:30:12,RS232 Disconnected,0,,G
+11/06/2020,18:35:06,RS232 Connected,0,,G
+11/06/2020,18:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,18:35:10,RS232 Disconnected,0,,G
+11/06/2020,18:40:06,RS232 Connected,0,,G
+11/06/2020,18:40:12,RS232 Disconnected,0,,G
+11/06/2020,18:45:06,RS232 Connected,0,,G
+11/06/2020,18:45:12,RS232 Disconnected,0,,G
+11/06/2020,18:50:06,RS232 Connected,0,,G
+11/06/2020,18:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,18:50:10,RS232 Disconnected,0,,G
+11/06/2020,18:55:06,RS232 Connected,0,,G
+11/06/2020,18:55:12,RS232 Disconnected,0,,G
+11/06/2020,19:00:06,RS232 Connected,0,,G
+11/06/2020,19:00:15,RS232 Disconnected,0,,G
+11/06/2020,19:05:06,RS232 Connected,0,,G
+11/06/2020,19:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,19:05:10,RS232 Disconnected,0,,G
+11/06/2020,19:10:06,RS232 Connected,0,,G
+11/06/2020,19:10:12,RS232 Disconnected,0,,G
+11/06/2020,19:15:06,RS232 Connected,0,,G
+11/06/2020,19:15:12,RS232 Disconnected,0,,G
+11/06/2020,19:20:06,RS232 Connected,0,,G
+11/06/2020,19:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,19:20:10,RS232 Disconnected,0,,G
+11/06/2020,19:25:06,RS232 Connected,0,,G
+11/06/2020,19:25:12,RS232 Disconnected,0,,G
+11/06/2020,19:30:06,RS232 Connected,0,,G
+11/06/2020,19:30:12,RS232 Disconnected,0,,G
+11/06/2020,19:35:06,RS232 Connected,0,,G
+11/06/2020,19:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,19:35:10,RS232 Disconnected,0,,G
+11/06/2020,19:40:06,RS232 Connected,0,,G
+11/06/2020,19:40:12,RS232 Disconnected,0,,G
+11/06/2020,19:45:06,RS232 Connected,0,,G
+11/06/2020,19:45:12,RS232 Disconnected,0,,G
+11/06/2020,19:50:06,RS232 Connected,0,,G
+11/06/2020,19:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,19:50:10,RS232 Disconnected,0,,G
+11/06/2020,19:55:06,RS232 Connected,0,,G
+11/06/2020,19:55:12,RS232 Disconnected,0,,G
+11/06/2020,20:00:06,RS232 Connected,0,,G
+11/06/2020,20:00:15,RS232 Disconnected,0,,G
+11/06/2020,20:05:06,RS232 Connected,0,,G
+11/06/2020,20:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,20:05:10,RS232 Disconnected,0,,G
+11/06/2020,20:10:06,RS232 Connected,0,,G
+11/06/2020,20:10:12,RS232 Disconnected,0,,G
+11/06/2020,20:15:06,RS232 Connected,0,,G
+11/06/2020,20:15:12,RS232 Disconnected,0,,G
+11/06/2020,20:20:06,RS232 Connected,0,,G
+11/06/2020,20:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,20:20:10,RS232 Disconnected,0,,G
+11/06/2020,20:25:06,RS232 Connected,0,,G
+11/06/2020,20:25:12,RS232 Disconnected,0,,G
+11/06/2020,20:30:06,RS232 Connected,0,,G
+11/06/2020,20:30:12,RS232 Disconnected,0,,G
+11/06/2020,20:35:06,RS232 Connected,0,,G
+11/06/2020,20:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,20:35:10,RS232 Disconnected,0,,G
+11/06/2020,20:40:06,RS232 Connected,0,,G
+11/06/2020,20:40:12,RS232 Disconnected,0,,G
+11/06/2020,20:45:06,RS232 Connected,0,,G
+11/06/2020,20:45:12,RS232 Disconnected,0,,G
+11/06/2020,20:50:06,RS232 Connected,0,,G
+11/06/2020,20:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,20:50:10,RS232 Disconnected,0,,G
+11/06/2020,20:55:06,RS232 Connected,0,,G
+11/06/2020,20:55:09,RS232 Disconnected,0,,G
+11/06/2020,21:00:08,RS232 Connected,0,,G
+11/06/2020,21:00:08,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,21:00:18,RS232 Disconnected,0,,G
+11/06/2020,21:05:00,Alarm In,2,,G
+11/06/2020,21:05:01,Setup Change,0,,G
+11/06/2020,21:05:06,RS232 Connected,0,,G
+11/06/2020,21:05:10,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,21:05:13,RS232 Disconnected,0,,G
+11/06/2020,21:06:06,RS232 Connected,0,,G
+11/06/2020,21:06:14,RS232 Disconnected,0,,G
+11/06/2020,21:07:06,RS232 Connected,0,,G
+11/06/2020,21:07:12,RS232 Disconnected,0,,G
+11/06/2020,21:08:06,RS232 Connected,0,,G
+11/06/2020,21:08:14,RS232 Disconnected,0,,G
+11/06/2020,21:09:06,RS232 Connected,0,,G
+11/06/2020,21:09:17,RS232 Disconnected,0,,G
+11/06/2020,21:10:02,Setup Change,0,,G
+11/06/2020,21:10:00,Triggered S,1,,G
+11/06/2020,21:10:00,VolumeTrig,71.28,,G
+11/06/2020,21:10:06,RS232 Connected,0,,G
+11/06/2020,21:10:14,RS232 Disconnected,0,,G
+11/06/2020,21:11:00,Triggered S,2,,G
+11/06/2020,21:11:00,VolumeTrig,141.00,,G
+11/06/2020,21:11:06,RS232 Connected,0,,G
+11/06/2020,21:11:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,21:11:15,RS232 Disconnected,0,,G
+11/06/2020,21:12:00,Triggered S,3,,G
+11/06/2020,21:12:00,VolumeTrig,209.28,,G
+11/06/2020,21:12:06,RS232 Connected,0,,G
+11/06/2020,21:12:15,RS232 Disconnected,0,,G
+11/06/2020,21:13:00,Triggered S,4,,G
+11/06/2020,21:13:00,VolumeTrig,277.08,,G
+11/06/2020,21:13:06,RS232 Connected,0,,G
+11/06/2020,21:13:16,RS232 Disconnected,0,,G
+11/06/2020,21:14:00,Triggered S,5,,G
+11/06/2020,21:14:00,VolumeTrig,341.04,,G
+11/06/2020,21:14:06,RS232 Connected,0,,G
+11/06/2020,21:14:16,RS232 Disconnected,0,,G
+11/06/2020,21:15:00,Triggered S,6,,G
+11/06/2020,21:15:00,VolumeTrig,403.56,,G
+11/06/2020,21:15:06,RS232 Connected,0,,G
+11/06/2020,21:15:15,RS232 Disconnected,0,,G
+11/06/2020,21:16:00,Alarm Out,2,,G
+11/06/2020,21:16:00,Setup Change,0,,G
+11/06/2020,21:16:06,RS232 Connected,0,,G
+11/06/2020,21:16:14,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,21:16:16,RS232 Disconnected,0,,G
+11/06/2020,21:20:06,RS232 Connected,0,,G
+11/06/2020,21:20:17,RS232 Disconnected,0,,G
+11/06/2020,21:25:06,RS232 Connected,0,,G
+11/06/2020,21:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,21:25:16,RS232 Disconnected,0,,G
+11/06/2020,21:30:06,RS232 Connected,0,,G
+11/06/2020,21:30:15,RS232 Disconnected,0,,G
+11/06/2020,21:35:06,RS232 Connected,0,,G
+11/06/2020,21:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,21:35:13,RS232 Disconnected,0,,G
+11/06/2020,21:40:06,RS232 Connected,0,,G
+11/06/2020,21:40:14,RS232 Disconnected,0,,G
+11/06/2020,21:45:06,RS232 Connected,0,,G
+11/06/2020,21:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,21:45:15,RS232 Disconnected,0,,G
+11/06/2020,21:50:06,RS232 Connected,0,,G
+11/06/2020,21:50:10,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,21:50:14,RS232 Disconnected,0,,G
+11/06/2020,21:55:06,RS232 Connected,0,,G
+11/06/2020,21:55:14,RS232 Disconnected,0,,G
+11/06/2020,22:00:08,RS232 Connected,0,,G
+11/06/2020,22:00:08,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,22:00:00,Alarm In,3,,G
+11/06/2020,22:00:12,Setup Change,0,,G
+11/06/2020,22:00:18,RS232 Disconnected,0,,G
+11/06/2020,22:01:00,Triggered S,1,,G
+11/06/2020,22:01:00,VolumeTrig,31.56,,G
+11/06/2020,22:01:06,RS232 Connected,0,,G
+11/06/2020,22:01:16,RS232 Disconnected,0,,G
+11/06/2020,22:02:00,Triggered S,2,,G
+11/06/2020,22:02:00,VolumeTrig,63.12,,G
+11/06/2020,22:02:06,RS232 Connected,0,,G
+11/06/2020,22:02:15,RS232 Disconnected,0,,G
+11/06/2020,22:03:00,Triggered S,3,,G
+11/06/2020,22:03:00,VolumeTrig,94.68,,G
+11/06/2020,22:03:06,RS232 Connected,0,,G
+11/06/2020,22:03:16,RS232 Disconnected,0,,G
+11/06/2020,22:04:00,Triggered S,4,,G
+11/06/2020,22:04:00,VolumeTrig,125.16,,G
+11/06/2020,22:04:06,RS232 Connected,0,,G
+11/06/2020,22:04:16,RS232 Disconnected,0,,G
+11/06/2020,22:05:00,Triggered S,5,,G
+11/06/2020,22:05:00,VolumeTrig,155.64,,G
+11/06/2020,22:05:06,RS232 Connected,0,,G
+11/06/2020,22:05:16,RS232 Disconnected,0,,G
+11/06/2020,22:06:00,Triggered S,6,,G
+11/06/2020,22:06:00,VolumeTrig,185.76,,G
+11/06/2020,22:06:06,RS232 Connected,0,,G
+11/06/2020,22:06:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,22:06:12,RS232 Disconnected,0,,G
+11/06/2020,22:07:00,Triggered S,7,,G
+11/06/2020,22:07:00,VolumeTrig,215.52,,G
+11/06/2020,22:07:06,RS232 Connected,0,,G
+11/06/2020,22:07:14,RS232 Disconnected,0,,G
+11/06/2020,22:08:00,Triggered S,8,,G
+11/06/2020,22:08:00,VolumeTrig,244.92,,G
+11/06/2020,22:08:06,RS232 Connected,0,,G
+11/06/2020,22:08:13,RS232 Disconnected,0,,G
+11/06/2020,22:09:00,Triggered S,9,,G
+11/06/2020,22:09:00,VolumeTrig,274.68,,G
+11/06/2020,22:09:06,RS232 Connected,0,,G
+11/06/2020,22:09:17,RS232 Disconnected,0,,G
+11/06/2020,22:10:00,Triggered S,10,,G
+11/06/2020,22:10:00,VolumeTrig,304.08,,G
+11/06/2020,22:10:06,RS232 Connected,0,,G
+11/06/2020,22:10:15,RS232 Disconnected,0,,G
+11/06/2020,22:11:00,Triggered S,11,,G
+11/06/2020,22:11:00,VolumeTrig,333.84,,G
+11/06/2020,22:11:06,RS232 Connected,0,,G
+11/06/2020,22:11:10,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,22:11:14,RS232 Disconnected,0,,G
+11/06/2020,22:12:00,Triggered S,12,,G
+11/06/2020,22:12:00,VolumeTrig,362.94,,G
+11/06/2020,22:12:06,RS232 Connected,0,,G
+11/06/2020,22:12:13,RS232 Disconnected,0,,G
+11/06/2020,22:13:00,Triggered S,13,,G
+11/06/2020,22:13:00,VolumeTrig,391.44,,G
+11/06/2020,22:13:06,RS232 Connected,0,,G
+11/06/2020,22:13:13,RS232 Disconnected,0,,G
+11/06/2020,22:14:00,Triggered S,14,,G
+11/06/2020,22:14:00,VolumeTrig,420.24,,G
+11/06/2020,22:14:06,RS232 Connected,0,,G
+11/06/2020,22:14:16,RS232 Disconnected,0,,G
+11/06/2020,22:15:00,Triggered S,15,,G
+11/06/2020,22:15:00,VolumeTrig,448.74,,G
+11/06/2020,22:15:06,RS232 Connected,0,,G
+11/06/2020,22:15:12,RS232 Disconnected,0,,G
+11/06/2020,22:16:00,Triggered S,16,,G
+11/06/2020,22:16:00,VolumeTrig,477.54,,G
+11/06/2020,22:16:06,RS232 Connected,0,,G
+11/06/2020,22:16:14,RS232 Disconnected,0,,G
+11/06/2020,22:17:00,Triggered S,17,,G
+11/06/2020,22:17:00,VolumeTrig,506.04,,G
+11/06/2020,22:17:06,RS232 Connected,0,,G
+11/06/2020,22:17:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,22:17:17,RS232 Disconnected,0,,G
+11/06/2020,22:18:00,Triggered S,18,,G
+11/06/2020,22:18:00,VolumeTrig,533.04,,G
+11/06/2020,22:18:06,RS232 Connected,0,,G
+11/06/2020,22:18:16,RS232 Disconnected,0,,G
+11/06/2020,22:19:00,Triggered S,19,,G
+11/06/2020,22:19:00,VolumeTrig,560.64,,G
+11/06/2020,22:19:06,RS232 Connected,0,,G
+11/06/2020,22:19:16,RS232 Disconnected,0,,G
+11/06/2020,22:20:00,Triggered S,20,,G
+11/06/2020,22:20:00,VolumeTrig,588.54,,G
+11/06/2020,22:20:06,RS232 Connected,0,,G
+11/06/2020,22:20:16,RS232 Disconnected,0,,G
+11/06/2020,22:21:00,Triggered S,21,,G
+11/06/2020,22:21:00,VolumeTrig,616.44,,G
+11/06/2020,22:21:06,RS232 Connected,0,,G
+11/06/2020,22:21:15,RS232 Disconnected,0,,G
+11/06/2020,22:22:00,Triggered S,22,,G
+11/06/2020,22:22:00,VolumeTrig,643.74,,G
+11/06/2020,22:22:06,RS232 Connected,0,,G
+11/06/2020,22:22:17,RS232 Disconnected,0,,G
+11/06/2020,22:23:00,Triggered S,23,,G
+11/06/2020,22:23:00,VolumeTrig,671.34,,G
+11/06/2020,22:23:06,RS232 Connected,0,,G
+11/06/2020,22:23:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,22:23:16,RS232 Disconnected,0,,G
+11/06/2020,22:24:00,Triggered S,24,,G
+11/06/2020,22:24:00,VolumeTrig,698.94,,G
+11/06/2020,22:24:06,RS232 Connected,0,,G
+11/06/2020,22:24:17,RS232 Disconnected,0,,G
+11/06/2020,22:25:00,Triggered S,25,,G
+11/06/2020,22:25:00,VolumeTrig,725.64,,G
+11/06/2020,22:25:06,RS232 Connected,0,,G
+11/06/2020,22:25:00,Alarm Out,3,,G
+11/06/2020,22:25:06,Setup Change,0,,G
+11/06/2020,22:25:12,RS232 Disconnected,0,,G
+11/06/2020,22:30:06,RS232 Connected,0,,G
+11/06/2020,22:30:12,RS232 Disconnected,0,,G
+11/06/2020,22:35:06,RS232 Connected,0,,G
+11/06/2020,22:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,22:35:10,RS232 Disconnected,0,,G
+11/06/2020,22:40:06,RS232 Connected,0,,G
+11/06/2020,22:40:15,RS232 Disconnected,0,,G
+11/06/2020,22:45:06,RS232 Connected,0,,G
+11/06/2020,22:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,22:45:11,RS232 Disconnected,0,,G
+11/06/2020,22:48:41,Setup Change,0,,G
+11/06/2020,22:49:10,StatusClear,0,,G
+11/06/2020,22:49:21,Client Conn,1,,G
+11/06/2020,22:50:09,RS232 Connected,0,,G
+11/06/2020,22:50:12,RS232 Disconnected,0,,G
+11/06/2020,22:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,22:55:09,RS232 Connected,0,,G
+11/06/2020,22:55:12,RS232 Disconnected,0,,G
+11/06/2020,23:00:08,RS232 Connected,0,,G
+11/06/2020,23:00:17,RS232 Disconnected,0,,G
+11/06/2020,23:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,23:05:09,RS232 Connected,0,,G
+11/06/2020,23:05:12,RS232 Disconnected,0,,G
+11/06/2020,23:10:08,RS232 Connected,0,,G
+11/06/2020,23:10:11,RS232 Disconnected,0,,G
+11/06/2020,23:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,23:15:08,RS232 Connected,0,,G
+11/06/2020,23:15:11,RS232 Disconnected,0,,G
+11/06/2020,23:20:09,RS232 Connected,0,,G
+11/06/2020,23:20:12,RS232 Disconnected,0,,G
+11/06/2020,23:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,23:25:08,RS232 Connected,0,,G
+11/06/2020,23:25:11,RS232 Disconnected,0,,G
+11/06/2020,23:30:08,RS232 Connected,0,,G
+11/06/2020,23:30:11,RS232 Disconnected,0,,G
+11/06/2020,23:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,23:35:15,RS232 Connected,0,,G
+11/06/2020,23:35:15,RS232 Disconnected,0,,G
+11/06/2020,23:40:10,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,23:40:15,RS232 Connected,0,,G
+11/06/2020,23:40:15,RS232 Disconnected,0,,G
+11/06/2020,23:45:14,RS232 Connected,0,,G
+11/06/2020,23:45:14,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,23:45:17,RS232 Disconnected,0,,G
+11/06/2020,23:50:10,RS232 Connected,0,,G
+11/06/2020,23:50:12,RS232 Disconnected,0,,G
+11/06/2020,23:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/06/2020,23:55:09,RS232 Connected,0,,G
+11/06/2020,23:55:12,RS232 Disconnected,0,,G
+11/07/2020,00:00:09,RS232 Connected,0,,G
+11/07/2020,00:00:18,RS232 Disconnected,0,,G
+11/07/2020,00:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,00:05:09,RS232 Connected,0,,G
+11/07/2020,00:05:12,RS232 Disconnected,0,,G
+11/07/2020,00:10:08,RS232 Connected,0,,G
+11/07/2020,00:10:11,RS232 Disconnected,0,,G
+11/07/2020,00:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,00:15:08,RS232 Connected,0,,G
+11/07/2020,00:15:11,RS232 Disconnected,0,,G
+11/07/2020,00:20:10,RS232 Connected,0,,G
+11/07/2020,00:20:13,RS232 Disconnected,0,,G
+11/07/2020,00:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,00:25:08,RS232 Connected,0,,G
+11/07/2020,00:25:11,RS232 Disconnected,0,,G
+11/07/2020,00:30:08,RS232 Connected,0,,G
+11/07/2020,00:30:11,RS232 Disconnected,0,,G
+11/07/2020,00:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,00:35:09,RS232 Connected,0,,G
+11/07/2020,00:35:12,RS232 Disconnected,0,,G
+11/07/2020,00:40:08,RS232 Connected,0,,G
+11/07/2020,00:40:11,RS232 Disconnected,0,,G
+11/07/2020,00:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,00:45:08,RS232 Connected,0,,G
+11/07/2020,00:45:11,RS232 Disconnected,0,,G
+11/07/2020,00:50:09,RS232 Connected,0,,G
+11/07/2020,00:50:12,RS232 Disconnected,0,,G
+11/07/2020,00:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,00:55:08,RS232 Connected,0,,G
+11/07/2020,00:55:11,RS232 Disconnected,0,,G
+11/07/2020,01:00:09,RS232 Connected,0,,G
+11/07/2020,01:00:18,RS232 Disconnected,0,,G
+11/07/2020,01:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,01:05:09,RS232 Connected,0,,G
+11/07/2020,01:05:12,RS232 Disconnected,0,,G
+11/07/2020,01:10:08,RS232 Connected,0,,G
+11/07/2020,01:10:11,RS232 Disconnected,0,,G
+11/07/2020,01:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,01:15:08,RS232 Connected,0,,G
+11/07/2020,01:15:11,RS232 Disconnected,0,,G
+11/07/2020,01:20:09,RS232 Connected,0,,G
+11/07/2020,01:20:12,RS232 Disconnected,0,,G
+11/07/2020,01:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,01:25:08,RS232 Connected,0,,G
+11/07/2020,01:25:11,RS232 Disconnected,0,,G
+11/07/2020,01:30:08,RS232 Connected,0,,G
+11/07/2020,01:30:11,RS232 Disconnected,0,,G
+11/07/2020,01:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,01:35:09,RS232 Connected,0,,G
+11/07/2020,01:35:12,RS232 Disconnected,0,,G
+11/07/2020,01:40:08,RS232 Connected,0,,G
+11/07/2020,01:40:11,RS232 Disconnected,0,,G
+11/07/2020,01:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,01:45:08,RS232 Connected,0,,G
+11/07/2020,01:45:11,RS232 Disconnected,0,,G
+11/07/2020,01:50:09,RS232 Connected,0,,G
+11/07/2020,01:50:12,RS232 Disconnected,0,,G
+11/07/2020,01:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,01:55:08,RS232 Connected,0,,G
+11/07/2020,01:55:11,RS232 Disconnected,0,,G
+11/07/2020,02:00:08,RS232 Connected,0,,G
+11/07/2020,02:00:17,RS232 Disconnected,0,,G
+11/07/2020,02:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,02:05:09,RS232 Connected,0,,G
+11/07/2020,02:05:12,RS232 Disconnected,0,,G
+11/07/2020,02:10:08,RS232 Connected,0,,G
+11/07/2020,02:10:11,RS232 Disconnected,0,,G
+11/07/2020,02:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,02:15:08,RS232 Connected,0,,G
+11/07/2020,02:15:11,RS232 Disconnected,0,,G
+11/07/2020,02:20:09,RS232 Connected,0,,G
+11/07/2020,02:20:12,RS232 Disconnected,0,,G
+11/07/2020,02:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,02:25:08,RS232 Connected,0,,G
+11/07/2020,02:25:11,RS232 Disconnected,0,,G
+11/07/2020,02:30:08,RS232 Connected,0,,G
+11/07/2020,02:30:11,RS232 Disconnected,0,,G
+11/07/2020,02:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,02:35:09,RS232 Connected,0,,G
+11/07/2020,02:35:12,RS232 Disconnected,0,,G
+11/07/2020,02:40:08,RS232 Connected,0,,G
+11/07/2020,02:40:11,RS232 Disconnected,0,,G
+11/07/2020,02:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,02:45:08,RS232 Connected,0,,G
+11/07/2020,02:45:11,RS232 Disconnected,0,,G
+11/07/2020,02:50:09,RS232 Connected,0,,G
+11/07/2020,02:50:12,RS232 Disconnected,0,,G
+11/07/2020,02:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,02:55:09,RS232 Connected,0,,G
+11/07/2020,02:55:12,RS232 Disconnected,0,,G
+11/07/2020,03:00:08,RS232 Connected,0,,G
+11/07/2020,03:00:17,RS232 Disconnected,0,,G
+11/07/2020,03:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,03:05:09,RS232 Connected,0,,G
+11/07/2020,03:05:12,RS232 Disconnected,0,,G
+11/07/2020,03:10:14,RS232 Connected,0,,G
+11/07/2020,03:10:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,03:10:17,RS232 Disconnected,0,,G
+11/07/2020,03:15:08,RS232 Connected,0,,G
+11/07/2020,03:15:11,RS232 Disconnected,0,,G
+11/07/2020,03:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,03:20:09,RS232 Connected,0,,G
+11/07/2020,03:20:12,RS232 Disconnected,0,,G
+11/07/2020,03:25:08,RS232 Connected,0,,G
+11/07/2020,03:25:11,RS232 Disconnected,0,,G
+11/07/2020,03:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,03:30:08,RS232 Connected,0,,G
+11/07/2020,03:30:11,RS232 Disconnected,0,,G
+11/07/2020,03:35:09,RS232 Connected,0,,G
+11/07/2020,03:35:12,RS232 Disconnected,0,,G
+11/07/2020,03:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,03:40:08,RS232 Connected,0,,G
+11/07/2020,03:40:11,RS232 Disconnected,0,,G
+11/07/2020,03:45:08,RS232 Connected,0,,G
+11/07/2020,03:45:11,RS232 Disconnected,0,,G
+11/07/2020,03:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,03:50:09,RS232 Connected,0,,G
+11/07/2020,03:50:12,RS232 Disconnected,0,,G
+11/07/2020,03:55:09,RS232 Connected,0,,G
+11/07/2020,03:55:12,RS232 Disconnected,0,,G
+11/07/2020,04:00:08,RS232 Connected,0,,G
+11/07/2020,04:00:17,RS232 Disconnected,0,,G
+11/07/2020,04:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,04:05:10,RS232 Connected,0,,G
+11/07/2020,04:05:13,RS232 Disconnected,0,,G
+11/07/2020,04:10:08,RS232 Connected,0,,G
+11/07/2020,04:10:11,RS232 Disconnected,0,,G
+11/07/2020,04:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,04:15:09,RS232 Connected,0,,G
+11/07/2020,04:15:12,RS232 Disconnected,0,,G
+11/07/2020,04:20:09,RS232 Connected,0,,G
+11/07/2020,04:20:12,RS232 Disconnected,0,,G
+11/07/2020,04:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,04:25:08,RS232 Connected,0,,G
+11/07/2020,04:25:11,RS232 Disconnected,0,,G
+11/07/2020,04:30:08,RS232 Connected,0,,G
+11/07/2020,04:30:11,RS232 Disconnected,0,,G
+11/07/2020,04:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,04:35:09,RS232 Connected,0,,G
+11/07/2020,04:35:12,RS232 Disconnected,0,,G
+11/07/2020,04:40:09,RS232 Connected,0,,G
+11/07/2020,04:40:12,RS232 Disconnected,0,,G
+11/07/2020,04:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,04:45:09,RS232 Connected,0,,G
+11/07/2020,04:45:12,RS232 Disconnected,0,,G
+11/07/2020,04:50:15,RS232 Connected,0,,G
+11/07/2020,04:50:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,04:50:18,RS232 Disconnected,0,,G
+11/07/2020,04:55:08,RS232 Connected,0,,G
+11/07/2020,04:55:11,RS232 Disconnected,0,,G
+11/07/2020,05:00:09,RS232 Connected,0,,G
+11/07/2020,05:00:18,RS232 Disconnected,0,,G
+11/07/2020,05:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,05:05:15,RS232 Connected,0,,G
+11/07/2020,05:05:18,RS232 Disconnected,0,,G
+11/07/2020,05:10:13,RS232 Connected,0,,G
+11/07/2020,05:10:16,RS232 Disconnected,0,,G
+11/07/2020,05:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,05:15:13,RS232 Connected,0,,G
+11/07/2020,05:15:16,RS232 Disconnected,0,,G
+11/07/2020,05:20:14,RS232 Connected,0,,G
+11/07/2020,05:20:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,05:20:17,RS232 Disconnected,0,,G
+11/07/2020,05:25:14,RS232 Connected,0,,G
+11/07/2020,05:25:17,RS232 Disconnected,0,,G
+11/07/2020,05:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,05:30:13,RS232 Connected,0,,G
+11/07/2020,05:30:16,RS232 Disconnected,0,,G
+11/07/2020,05:35:13,RS232 Connected,0,,G
+11/07/2020,05:35:16,RS232 Disconnected,0,,G
+11/07/2020,05:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,05:40:13,RS232 Connected,0,,G
+11/07/2020,05:40:16,RS232 Disconnected,0,,G
+11/07/2020,05:45:13,RS232 Connected,0,,G
+11/07/2020,05:45:16,RS232 Disconnected,0,,G
+11/07/2020,05:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,05:50:12,RS232 Connected,0,,G
+11/07/2020,05:50:15,RS232 Disconnected,0,,G
+11/07/2020,05:55:14,RS232 Connected,0,,G
+11/07/2020,05:55:17,RS232 Disconnected,0,,G
+11/07/2020,06:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,06:00:12,RS232 Connected,0,,G
+11/07/2020,06:00:18,RS232 Disconnected,0,,G
+11/07/2020,06:05:12,RS232 Connected,0,,G
+11/07/2020,06:05:15,RS232 Disconnected,0,,G
+11/07/2020,06:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,06:10:13,RS232 Connected,0,,G
+11/07/2020,06:10:16,RS232 Disconnected,0,,G
+11/07/2020,06:15:12,RS232 Connected,0,,G
+11/07/2020,06:15:15,RS232 Disconnected,0,,G
+11/07/2020,06:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,06:20:12,RS232 Connected,0,,G
+11/07/2020,06:20:15,RS232 Disconnected,0,,G
+11/07/2020,06:25:14,RS232 Connected,0,,G
+11/07/2020,06:25:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,06:25:17,RS232 Disconnected,0,,G
+11/07/2020,06:30:14,RS232 Connected,0,,G
+11/07/2020,06:30:17,RS232 Disconnected,0,,G
+11/07/2020,06:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,06:35:13,RS232 Connected,0,,G
+11/07/2020,06:35:16,RS232 Disconnected,0,,G
+11/07/2020,06:40:13,RS232 Connected,0,,G
+11/07/2020,06:40:16,RS232 Disconnected,0,,G
+11/07/2020,06:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,06:45:12,RS232 Connected,0,,G
+11/07/2020,06:45:15,RS232 Disconnected,0,,G
+11/07/2020,06:50:12,RS232 Connected,0,,G
+11/07/2020,06:50:15,RS232 Disconnected,0,,G
+11/07/2020,06:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,06:55:12,RS232 Connected,0,,G
+11/07/2020,06:55:15,RS232 Disconnected,0,,G
+11/07/2020,07:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,07:00:13,RS232 Connected,0,,G
+11/07/2020,07:00:19,RS232 Disconnected,0,,G
+11/07/2020,07:05:13,RS232 Connected,0,,G
+11/07/2020,07:05:16,RS232 Disconnected,0,,G
+11/07/2020,07:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,07:10:13,RS232 Connected,0,,G
+11/07/2020,07:10:16,RS232 Disconnected,0,,G
+11/07/2020,07:15:12,RS232 Connected,0,,G
+11/07/2020,07:15:15,RS232 Disconnected,0,,G
+11/07/2020,07:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,07:20:13,RS232 Connected,0,,G
+11/07/2020,07:20:16,RS232 Disconnected,0,,G
+11/07/2020,07:25:12,RS232 Connected,0,,G
+11/07/2020,07:25:15,RS232 Disconnected,0,,G
+11/07/2020,07:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,07:30:12,RS232 Connected,0,,G
+11/07/2020,07:30:15,RS232 Disconnected,0,,G
+11/07/2020,07:35:13,RS232 Connected,0,,G
+11/07/2020,07:35:16,RS232 Disconnected,0,,G
+11/07/2020,07:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,07:40:12,RS232 Connected,0,,G
+11/07/2020,07:40:15,RS232 Disconnected,0,,G
+11/07/2020,07:45:12,RS232 Connected,0,,G
+11/07/2020,07:45:15,RS232 Disconnected,0,,G
+11/07/2020,07:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,07:50:12,RS232 Connected,0,,G
+11/07/2020,07:50:15,RS232 Disconnected,0,,G
+11/07/2020,07:55:13,RS232 Connected,0,,G
+11/07/2020,07:55:16,RS232 Disconnected,0,,G
+11/07/2020,08:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,08:00:13,RS232 Connected,0,,G
+11/07/2020,08:00:19,RS232 Disconnected,0,,G
+11/07/2020,08:05:15,RS232 Connected,0,,G
+11/07/2020,08:05:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,08:05:18,RS232 Disconnected,0,,G
+11/07/2020,08:10:13,RS232 Connected,0,,G
+11/07/2020,08:10:16,RS232 Disconnected,0,,G
+11/07/2020,08:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,08:15:13,RS232 Connected,0,,G
+11/07/2020,08:15:16,RS232 Disconnected,0,,G
+11/07/2020,08:20:13,RS232 Connected,0,,G
+11/07/2020,08:20:16,RS232 Disconnected,0,,G
+11/07/2020,08:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,08:25:13,RS232 Connected,0,,G
+11/07/2020,08:25:16,RS232 Disconnected,0,,G
+11/07/2020,08:30:12,RS232 Connected,0,,G
+11/07/2020,08:30:15,RS232 Disconnected,0,,G
+11/07/2020,08:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,08:35:13,RS232 Connected,0,,G
+11/07/2020,08:35:16,RS232 Disconnected,0,,G
+11/07/2020,08:40:12,RS232 Connected,0,,G
+11/07/2020,08:40:15,RS232 Disconnected,0,,G
+11/07/2020,08:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,08:45:12,RS232 Connected,0,,G
+11/07/2020,08:45:15,RS232 Disconnected,0,,G
+11/07/2020,08:50:13,RS232 Connected,0,,G
+11/07/2020,08:50:16,RS232 Disconnected,0,,G
+11/07/2020,08:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,08:55:12,RS232 Connected,0,,G
+11/07/2020,08:55:15,RS232 Disconnected,0,,G
+11/07/2020,09:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,09:00:12,RS232 Connected,0,,G
+11/07/2020,09:00:18,RS232 Disconnected,0,,G
+11/07/2020,09:05:13,RS232 Connected,0,,G
+11/07/2020,09:05:16,RS232 Disconnected,0,,G
+11/07/2020,09:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,09:10:13,RS232 Connected,0,,G
+11/07/2020,09:10:16,RS232 Disconnected,0,,G
+11/07/2020,09:15:14,RS232 Connected,0,,G
+11/07/2020,09:15:17,RS232 Disconnected,0,,G
+11/07/2020,09:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,09:20:14,RS232 Connected,0,,G
+11/07/2020,09:20:17,RS232 Disconnected,0,,G
+11/07/2020,09:25:13,RS232 Connected,0,,G
+11/07/2020,09:25:15,RS232 Disconnected,0,,G
+11/07/2020,09:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,09:30:12,RS232 Connected,0,,G
+11/07/2020,09:30:15,RS232 Disconnected,0,,G
+11/07/2020,09:35:14,RS232 Connected,0,,G
+11/07/2020,09:35:16,RS232 Disconnected,0,,G
+11/07/2020,09:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,09:40:12,RS232 Connected,0,,G
+11/07/2020,09:40:15,RS232 Disconnected,0,,G
+11/07/2020,09:45:12,RS232 Connected,0,,G
+11/07/2020,09:45:15,RS232 Disconnected,0,,G
+11/07/2020,09:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,09:50:13,RS232 Connected,0,,G
+11/07/2020,09:50:16,RS232 Disconnected,0,,G
+11/07/2020,09:55:13,RS232 Connected,0,,G
+11/07/2020,09:55:16,RS232 Disconnected,0,,G
+11/07/2020,10:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,10:00:13,RS232 Connected,0,,G
+11/07/2020,10:00:18,RS232 Disconnected,0,,G
+11/07/2020,10:05:12,RS232 Connected,0,,G
+11/07/2020,10:05:15,RS232 Disconnected,0,,G
+11/07/2020,10:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,10:10:12,RS232 Connected,0,,G
+11/07/2020,10:10:15,RS232 Disconnected,0,,G
+11/07/2020,10:15:13,RS232 Connected,0,,G
+11/07/2020,10:15:16,RS232 Disconnected,0,,G
+11/07/2020,10:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,10:20:12,RS232 Connected,0,,G
+11/07/2020,10:20:15,RS232 Disconnected,0,,G
+11/07/2020,10:25:12,RS232 Connected,0,,G
+11/07/2020,10:25:15,RS232 Disconnected,0,,G
+11/07/2020,10:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,10:30:13,RS232 Connected,0,,G
+11/07/2020,10:30:16,RS232 Disconnected,0,,G
+11/07/2020,10:35:11,RS232 Connected,0,,G
+11/07/2020,10:35:14,RS232 Disconnected,0,,G
+11/07/2020,10:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,10:40:13,RS232 Connected,0,,G
+11/07/2020,10:40:16,RS232 Disconnected,0,,G
+11/07/2020,10:45:14,RS232 Connected,0,,G
+11/07/2020,10:45:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,10:45:17,RS232 Disconnected,0,,G
+11/07/2020,10:50:14,RS232 Connected,0,,G
+11/07/2020,10:50:16,RS232 Disconnected,0,,G
+11/07/2020,10:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,10:55:13,RS232 Connected,0,,G
+11/07/2020,10:55:16,RS232 Disconnected,0,,G
+11/07/2020,11:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,11:00:15,RS232 Connected,0,,G
+11/07/2020,11:00:20,RS232 Disconnected,0,,G
+11/07/2020,11:05:13,RS232 Connected,0,,G
+11/07/2020,11:05:16,RS232 Disconnected,0,,G
+11/07/2020,11:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,11:10:14,RS232 Connected,0,,G
+11/07/2020,11:10:17,RS232 Disconnected,0,,G
+11/07/2020,11:15:15,RS232 Connected,0,,G
+11/07/2020,11:15:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,11:15:18,RS232 Disconnected,0,,G
+11/07/2020,11:20:14,RS232 Connected,0,,G
+11/07/2020,11:20:17,RS232 Disconnected,0,,G
+11/07/2020,11:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,11:25:14,RS232 Connected,0,,G
+11/07/2020,11:25:17,RS232 Disconnected,0,,G
+11/07/2020,11:30:15,RS232 Connected,0,,G
+11/07/2020,11:30:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,11:30:18,RS232 Disconnected,0,,G
+11/07/2020,11:35:09,RS232 Connected,0,,G
+11/07/2020,11:35:12,RS232 Disconnected,0,,G
+11/07/2020,11:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,11:40:13,RS232 Connected,0,,G
+11/07/2020,11:40:16,RS232 Disconnected,0,,G
+11/07/2020,11:45:15,RS232 Connected,0,,G
+11/07/2020,11:45:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,11:45:18,RS232 Disconnected,0,,G
+11/07/2020,11:50:14,RS232 Connected,0,,G
+11/07/2020,11:50:17,RS232 Disconnected,0,,G
+11/07/2020,11:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,11:55:14,RS232 Connected,0,,G
+11/07/2020,11:55:17,RS232 Disconnected,0,,G
+11/07/2020,12:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,12:00:15,RS232 Connected,0,,G
+11/07/2020,12:00:21,RS232 Disconnected,0,,G
+11/07/2020,12:05:14,RS232 Connected,0,,G
+11/07/2020,12:05:17,RS232 Disconnected,0,,G
+11/07/2020,12:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,12:10:14,RS232 Connected,0,,G
+11/07/2020,12:10:17,RS232 Disconnected,0,,G
+11/07/2020,12:15:15,RS232 Connected,0,,G
+11/07/2020,12:15:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,12:15:18,RS232 Disconnected,0,,G
+11/07/2020,12:20:14,RS232 Connected,0,,G
+11/07/2020,12:20:17,RS232 Disconnected,0,,G
+11/07/2020,12:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,12:25:14,RS232 Connected,0,,G
+11/07/2020,12:25:17,RS232 Disconnected,0,,G
+11/07/2020,12:30:15,RS232 Connected,0,,G
+11/07/2020,12:30:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,12:30:18,RS232 Disconnected,0,,G
+11/07/2020,12:35:14,RS232 Connected,0,,G
+11/07/2020,12:35:17,RS232 Disconnected,0,,G
+11/07/2020,12:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,12:40:14,RS232 Connected,0,,G
+11/07/2020,12:40:17,RS232 Disconnected,0,,G
+11/07/2020,12:45:10,RS232 Connected,0,,G
+11/07/2020,12:45:13,RS232 Disconnected,0,,G
+11/07/2020,12:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,12:50:14,RS232 Connected,0,,G
+11/07/2020,12:50:17,RS232 Disconnected,0,,G
+11/07/2020,12:55:14,RS232 Connected,0,,G
+11/07/2020,12:55:17,RS232 Disconnected,0,,G
+11/07/2020,13:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,13:00:15,RS232 Connected,0,,G
+11/07/2020,13:00:21,RS232 Disconnected,0,,G
+11/07/2020,13:05:09,RS232 Connected,0,,G
+11/07/2020,13:05:12,RS232 Disconnected,0,,G
+11/07/2020,13:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,13:10:08,RS232 Connected,0,,G
+11/07/2020,13:10:11,RS232 Disconnected,0,,G
+11/07/2020,13:15:14,RS232 Connected,0,,G
+11/07/2020,13:15:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,13:15:17,RS232 Disconnected,0,,G
+11/07/2020,13:20:08,RS232 Connected,0,,G
+11/07/2020,13:20:11,RS232 Disconnected,0,,G
+11/07/2020,13:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,13:25:08,RS232 Connected,0,,G
+11/07/2020,13:25:11,RS232 Disconnected,0,,G
+11/07/2020,13:30:10,RS232 Connected,0,,G
+11/07/2020,13:30:13,RS232 Disconnected,0,,G
+11/07/2020,13:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,13:35:08,RS232 Connected,0,,G
+11/07/2020,13:35:11,RS232 Disconnected,0,,G
+11/07/2020,13:40:09,RS232 Connected,0,,G
+11/07/2020,13:40:12,RS232 Disconnected,0,,G
+11/07/2020,13:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,13:45:13,RS232 Connected,0,,G
+11/07/2020,13:45:16,RS232 Disconnected,0,,G
+11/07/2020,13:50:08,RS232 Connected,0,,G
+11/07/2020,13:50:11,RS232 Disconnected,0,,G
+11/07/2020,13:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,13:55:08,RS232 Connected,0,,G
+11/07/2020,13:55:11,RS232 Disconnected,0,,G
+11/07/2020,14:00:10,RS232 Connected,0,,G
+11/07/2020,14:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,14:00:18,RS232 Disconnected,0,,G
+11/07/2020,14:05:08,RS232 Connected,0,,G
+11/07/2020,14:05:11,RS232 Disconnected,0,,G
+11/07/2020,14:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,14:10:08,RS232 Connected,0,,G
+11/07/2020,14:10:11,RS232 Disconnected,0,,G
+11/07/2020,14:15:09,RS232 Connected,0,,G
+11/07/2020,14:15:12,RS232 Disconnected,0,,G
+11/07/2020,14:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,14:20:08,RS232 Connected,0,,G
+11/07/2020,14:20:11,RS232 Disconnected,0,,G
+11/07/2020,14:25:08,RS232 Connected,0,,G
+11/07/2020,14:25:11,RS232 Disconnected,0,,G
+11/07/2020,14:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,14:30:13,RS232 Connected,0,,G
+11/07/2020,14:30:16,RS232 Disconnected,0,,G
+11/07/2020,14:35:12,RS232 Connected,0,,G
+11/07/2020,14:35:15,RS232 Disconnected,0,,G
+11/07/2020,14:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,14:40:14,RS232 Connected,0,,G
+11/07/2020,14:40:17,RS232 Disconnected,0,,G
+11/07/2020,14:45:15,RS232 Connected,0,,G
+11/07/2020,14:45:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,14:45:18,RS232 Disconnected,0,,G
+11/07/2020,14:50:15,RS232 Connected,0,,G
+11/07/2020,14:50:18,RS232 Disconnected,0,,G
+11/07/2020,14:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,14:55:15,RS232 Connected,0,,G
+11/07/2020,14:55:18,RS232 Disconnected,0,,G
+11/07/2020,15:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,15:00:15,RS232 Connected,0,,G
+11/07/2020,15:00:21,RS232 Disconnected,0,,G
+11/07/2020,15:05:15,RS232 Connected,0,,G
+11/07/2020,15:05:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,15:05:18,RS232 Disconnected,0,,G
+11/07/2020,15:10:14,RS232 Connected,0,,G
+11/07/2020,15:10:17,RS232 Disconnected,0,,G
+11/07/2020,15:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,15:15:15,RS232 Connected,0,,G
+11/07/2020,15:15:18,RS232 Disconnected,0,,G
+11/07/2020,15:20:14,RS232 Connected,0,,G
+11/07/2020,15:20:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,15:20:17,RS232 Disconnected,0,,G
+11/07/2020,15:25:14,RS232 Connected,0,,G
+11/07/2020,15:25:17,RS232 Disconnected,0,,G
+11/07/2020,15:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,15:30:16,RS232 Connected,0,,G
+11/07/2020,15:30:19,RS232 Disconnected,0,,G
+11/07/2020,15:35:15,RS232 Connected,0,,G
+11/07/2020,15:35:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,15:35:18,RS232 Disconnected,0,,G
+11/07/2020,15:40:12,RS232 Connected,0,,G
+11/07/2020,15:40:15,RS232 Disconnected,0,,G
+11/07/2020,15:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,15:45:13,RS232 Connected,0,,G
+11/07/2020,15:45:16,RS232 Disconnected,0,,G
+11/07/2020,15:50:13,RS232 Connected,0,,G
+11/07/2020,15:50:16,RS232 Disconnected,0,,G
+11/07/2020,15:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,15:55:11,SDI XDT,0,,G
+11/07/2020,15:55:13,RS232 Connected,0,,G
+11/07/2020,15:55:16,RS232 Disconnected,0,,G
+11/07/2020,16:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,16:00:12,RS232 Connected,0,,G
+11/07/2020,16:00:18,RS232 Disconnected,0,,G
+11/07/2020,16:05:13,RS232 Connected,0,,G
+11/07/2020,16:05:16,RS232 Disconnected,0,,G
+11/07/2020,16:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,16:10:12,RS232 Connected,0,,G
+11/07/2020,16:10:15,RS232 Disconnected,0,,G
+11/07/2020,16:15:12,RS232 Connected,0,,G
+11/07/2020,16:15:15,RS232 Disconnected,0,,G
+11/07/2020,16:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,16:20:13,RS232 Connected,0,,G
+11/07/2020,16:20:16,RS232 Disconnected,0,,G
+11/07/2020,16:25:12,RS232 Connected,0,,G
+11/07/2020,16:25:15,RS232 Disconnected,0,,G
+11/07/2020,16:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,16:30:12,RS232 Connected,0,,G
+11/07/2020,16:30:15,RS232 Disconnected,0,,G
+11/07/2020,16:35:13,RS232 Connected,0,,G
+11/07/2020,16:35:16,RS232 Disconnected,0,,G
+11/07/2020,16:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,16:40:12,RS232 Connected,0,,G
+11/07/2020,16:40:15,RS232 Disconnected,0,,G
+11/07/2020,16:45:12,RS232 Connected,0,,G
+11/07/2020,16:45:15,RS232 Disconnected,0,,G
+11/07/2020,16:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,16:50:14,RS232 Connected,0,,G
+11/07/2020,16:50:17,RS232 Disconnected,0,,G
+11/07/2020,16:55:13,RS232 Connected,0,,G
+11/07/2020,16:55:16,RS232 Disconnected,0,,G
+11/07/2020,17:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,17:00:13,RS232 Connected,0,,G
+11/07/2020,17:00:19,RS232 Disconnected,0,,G
+11/07/2020,17:05:13,RS232 Connected,0,,G
+11/07/2020,17:05:16,RS232 Disconnected,0,,G
+11/07/2020,17:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,17:10:13,RS232 Connected,0,,G
+11/07/2020,17:10:16,RS232 Disconnected,0,,G
+11/07/2020,17:15:12,RS232 Connected,0,,G
+11/07/2020,17:15:15,RS232 Disconnected,0,,G
+11/07/2020,17:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,17:20:12,RS232 Connected,0,,G
+11/07/2020,17:20:15,RS232 Disconnected,0,,G
+11/07/2020,17:25:13,RS232 Connected,0,,G
+11/07/2020,17:25:16,RS232 Disconnected,0,,G
+11/07/2020,17:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,17:30:12,RS232 Connected,0,,G
+11/07/2020,17:30:15,RS232 Disconnected,0,,G
+11/07/2020,17:35:12,RS232 Connected,0,,G
+11/07/2020,17:35:15,RS232 Disconnected,0,,G
+11/07/2020,17:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,17:40:13,RS232 Connected,0,,G
+11/07/2020,17:40:16,RS232 Disconnected,0,,G
+11/07/2020,17:45:12,RS232 Connected,0,,G
+11/07/2020,17:45:15,RS232 Disconnected,0,,G
+11/07/2020,17:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,17:50:12,RS232 Connected,0,,G
+11/07/2020,17:50:15,RS232 Disconnected,0,,G
+11/07/2020,17:55:13,RS232 Connected,0,,G
+11/07/2020,17:55:16,RS232 Disconnected,0,,G
+11/07/2020,18:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,18:00:12,RS232 Connected,0,,G
+11/07/2020,18:00:18,RS232 Disconnected,0,,G
+11/07/2020,18:05:12,RS232 Connected,0,,G
+11/07/2020,18:05:15,RS232 Disconnected,0,,G
+11/07/2020,18:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,18:10:13,RS232 Connected,0,,G
+11/07/2020,18:10:16,RS232 Disconnected,0,,G
+11/07/2020,18:15:13,RS232 Connected,0,,G
+11/07/2020,18:15:16,RS232 Disconnected,0,,G
+11/07/2020,18:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,18:20:14,RS232 Connected,0,,G
+11/07/2020,18:20:17,RS232 Disconnected,0,,G
+11/07/2020,18:25:13,RS232 Connected,0,,G
+11/07/2020,18:25:16,RS232 Disconnected,0,,G
+11/07/2020,18:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,18:30:12,RS232 Connected,0,,G
+11/07/2020,18:30:15,RS232 Disconnected,0,,G
+11/07/2020,18:35:12,RS232 Connected,0,,G
+11/07/2020,18:35:15,RS232 Disconnected,0,,G
+11/07/2020,18:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,18:40:14,RS232 Connected,0,,G
+11/07/2020,18:40:17,RS232 Disconnected,0,,G
+11/07/2020,18:45:13,RS232 Connected,0,,G
+11/07/2020,18:45:16,RS232 Disconnected,0,,G
+11/07/2020,18:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,18:50:13,RS232 Connected,0,,G
+11/07/2020,18:50:16,RS232 Disconnected,0,,G
+11/07/2020,18:55:14,RS232 Connected,0,,G
+11/07/2020,18:55:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,18:55:17,RS232 Disconnected,0,,G
+11/07/2020,19:00:13,RS232 Connected,0,,G
+11/07/2020,19:00:19,RS232 Disconnected,0,,G
+11/07/2020,19:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,19:05:13,RS232 Connected,0,,G
+11/07/2020,19:05:16,RS232 Disconnected,0,,G
+11/07/2020,19:10:14,RS232 Connected,0,,G
+11/07/2020,19:10:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,19:10:17,RS232 Disconnected,0,,G
+11/07/2020,19:15:14,RS232 Connected,0,,G
+11/07/2020,19:15:17,RS232 Disconnected,0,,G
+11/07/2020,19:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,19:20:13,RS232 Connected,0,,G
+11/07/2020,19:20:16,RS232 Disconnected,0,,G
+11/07/2020,19:25:14,RS232 Connected,0,,G
+11/07/2020,19:25:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,19:25:17,RS232 Disconnected,0,,G
+11/07/2020,19:30:13,RS232 Connected,0,,G
+11/07/2020,19:30:16,RS232 Disconnected,0,,G
+11/07/2020,19:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,19:35:13,RS232 Connected,0,,G
+11/07/2020,19:35:16,RS232 Disconnected,0,,G
+11/07/2020,19:40:13,RS232 Connected,0,,G
+11/07/2020,19:40:16,RS232 Disconnected,0,,G
+11/07/2020,19:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,19:45:13,RS232 Connected,0,,G
+11/07/2020,19:45:16,RS232 Disconnected,0,,G
+11/07/2020,19:50:12,RS232 Connected,0,,G
+11/07/2020,19:50:15,RS232 Disconnected,0,,G
+11/07/2020,19:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,19:55:13,RS232 Connected,0,,G
+11/07/2020,19:55:16,RS232 Disconnected,0,,G
+11/07/2020,20:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,20:00:12,RS232 Connected,0,,G
+11/07/2020,20:00:18,RS232 Disconnected,0,,G
+11/07/2020,20:05:12,RS232 Connected,0,,G
+11/07/2020,20:05:15,RS232 Disconnected,0,,G
+11/07/2020,20:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,20:10:13,RS232 Connected,0,,G
+11/07/2020,20:10:16,RS232 Disconnected,0,,G
+11/07/2020,20:15:12,RS232 Connected,0,,G
+11/07/2020,20:15:15,RS232 Disconnected,0,,G
+11/07/2020,20:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,20:20:12,RS232 Connected,0,,G
+11/07/2020,20:20:15,RS232 Disconnected,0,,G
+11/07/2020,20:25:13,RS232 Connected,0,,G
+11/07/2020,20:25:16,RS232 Disconnected,0,,G
+11/07/2020,20:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,20:30:11,RS232 Connected,0,,G
+11/07/2020,20:30:14,RS232 Disconnected,0,,G
+11/07/2020,20:35:13,RS232 Connected,0,,G
+11/07/2020,20:35:16,RS232 Disconnected,0,,G
+11/07/2020,20:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,20:40:12,RS232 Connected,0,,G
+11/07/2020,20:40:15,RS232 Disconnected,0,,G
+11/07/2020,20:45:11,RS232 Connected,0,,G
+11/07/2020,20:45:14,RS232 Disconnected,0,,G
+11/07/2020,20:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,20:50:13,RS232 Connected,0,,G
+11/07/2020,20:50:16,RS232 Disconnected,0,,G
+11/07/2020,20:55:14,RS232 Connected,0,,G
+11/07/2020,20:55:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,20:55:17,RS232 Disconnected,0,,G
+11/07/2020,21:00:13,RS232 Connected,0,,G
+11/07/2020,21:00:19,RS232 Disconnected,0,,G
+11/07/2020,21:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,21:05:13,RS232 Connected,0,,G
+11/07/2020,21:05:16,RS232 Disconnected,0,,G
+11/07/2020,21:10:14,RS232 Connected,0,,G
+11/07/2020,21:10:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,21:10:17,RS232 Disconnected,0,,G
+11/07/2020,21:15:11,RS232 Connected,0,,G
+11/07/2020,21:15:14,RS232 Disconnected,0,,G
+11/07/2020,21:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,21:20:14,RS232 Connected,0,,G
+11/07/2020,21:20:17,RS232 Disconnected,0,,G
+11/07/2020,21:25:15,RS232 Connected,0,,G
+11/07/2020,21:25:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,21:25:17,RS232 Disconnected,0,,G
+11/07/2020,21:30:13,RS232 Connected,0,,G
+11/07/2020,21:30:16,RS232 Disconnected,0,,G
+11/07/2020,21:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,21:35:13,RS232 Connected,0,,G
+11/07/2020,21:35:16,RS232 Disconnected,0,,G
+11/07/2020,21:40:14,RS232 Connected,0,,G
+11/07/2020,21:40:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,21:40:17,RS232 Disconnected,0,,G
+11/07/2020,21:45:14,RS232 Connected,0,,G
+11/07/2020,21:45:17,RS232 Disconnected,0,,G
+11/07/2020,21:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,21:50:14,RS232 Connected,0,,G
+11/07/2020,21:50:17,RS232 Disconnected,0,,G
+11/07/2020,21:55:14,RS232 Connected,0,,G
+11/07/2020,21:55:14,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,21:55:17,RS232 Disconnected,0,,G
+11/07/2020,22:00:13,RS232 Connected,0,,G
+11/07/2020,22:00:19,RS232 Disconnected,0,,G
+11/07/2020,22:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,22:05:14,RS232 Connected,0,,G
+11/07/2020,22:05:17,RS232 Disconnected,0,,G
+11/07/2020,22:10:10,RS232 Connected,0,,G
+11/07/2020,22:10:13,RS232 Disconnected,0,,G
+11/07/2020,22:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,22:15:13,RS232 Connected,0,,G
+11/07/2020,22:15:16,RS232 Disconnected,0,,G
+11/07/2020,22:20:13,RS232 Connected,0,,G
+11/07/2020,22:20:16,RS232 Disconnected,0,,G
+11/07/2020,22:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,22:25:10,RS232 Connected,0,,G
+11/07/2020,22:25:13,RS232 Disconnected,0,,G
+11/07/2020,22:30:14,RS232 Connected,0,,G
+11/07/2020,22:30:17,RS232 Disconnected,0,,G
+11/07/2020,22:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,22:35:09,RS232 Connected,0,,G
+11/07/2020,22:35:12,RS232 Disconnected,0,,G
+11/07/2020,22:40:10,RS232 Connected,0,,G
+11/07/2020,22:40:13,RS232 Disconnected,0,,G
+11/07/2020,22:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,22:45:08,RS232 Connected,0,,G
+11/07/2020,22:45:11,RS232 Disconnected,0,,G
+11/07/2020,22:50:09,RS232 Connected,0,,G
+11/07/2020,22:50:11,RS232 Disconnected,0,,G
+11/07/2020,22:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,22:55:13,RS232 Connected,0,,G
+11/07/2020,22:55:16,RS232 Disconnected,0,,G
+11/07/2020,23:00:08,RS232 Connected,0,,G
+11/07/2020,23:00:17,RS232 Disconnected,0,,G
+11/07/2020,23:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,23:05:08,RS232 Connected,0,,G
+11/07/2020,23:05:11,RS232 Disconnected,0,,G
+11/07/2020,23:10:10,RS232 Connected,0,,G
+11/07/2020,23:10:13,RS232 Disconnected,0,,G
+11/07/2020,23:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,23:15:08,RS232 Connected,0,,G
+11/07/2020,23:15:11,RS232 Disconnected,0,,G
+11/07/2020,23:20:08,RS232 Connected,0,,G
+11/07/2020,23:20:11,RS232 Disconnected,0,,G
+11/07/2020,23:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,23:25:15,RS232 Connected,0,,G
+11/07/2020,23:25:18,RS232 Disconnected,0,,G
+11/07/2020,23:30:09,RS232 Connected,0,,G
+11/07/2020,23:30:12,RS232 Disconnected,0,,G
+11/07/2020,23:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,23:35:14,RS232 Connected,0,,G
+11/07/2020,23:35:17,RS232 Disconnected,0,,G
+11/07/2020,23:40:15,RS232 Connected,0,,G
+11/07/2020,23:40:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,23:40:18,RS232 Disconnected,0,,G
+11/07/2020,23:45:09,RS232 Connected,0,,G
+11/07/2020,23:45:12,RS232 Disconnected,0,,G
+11/07/2020,23:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,23:50:14,RS232 Connected,0,,G
+11/07/2020,23:50:17,RS232 Disconnected,0,,G
+11/07/2020,23:55:15,RS232 Connected,0,,G
+11/07/2020,23:55:15,System Error: Modbus Sensor Failure,5593,,G
+11/07/2020,23:55:18,RS232 Disconnected,0,,G
+11/08/2020,00:00:08,RS232 Connected,0,,G
+11/08/2020,00:00:17,RS232 Disconnected,0,,G
+11/08/2020,00:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,00:05:08,RS232 Connected,0,,G
+11/08/2020,00:05:11,RS232 Disconnected,0,,G
+11/08/2020,00:10:10,RS232 Connected,0,,G
+11/08/2020,00:10:13,RS232 Disconnected,0,,G
+11/08/2020,00:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,00:15:08,RS232 Connected,0,,G
+11/08/2020,00:15:11,RS232 Disconnected,0,,G
+11/08/2020,00:20:08,RS232 Connected,0,,G
+11/08/2020,00:20:11,RS232 Disconnected,0,,G
+11/08/2020,00:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,00:25:15,RS232 Connected,0,,G
+11/08/2020,00:25:18,RS232 Disconnected,0,,G
+11/08/2020,00:30:14,RS232 Connected,0,,G
+11/08/2020,00:30:14,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,00:30:17,RS232 Disconnected,0,,G
+11/08/2020,00:35:09,RS232 Connected,0,,G
+11/08/2020,00:35:11,RS232 Disconnected,0,,G
+11/08/2020,00:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,00:40:10,RS232 Connected,0,,G
+11/08/2020,00:40:13,RS232 Disconnected,0,,G
+11/08/2020,00:45:14,RS232 Connected,0,,G
+11/08/2020,00:45:17,RS232 Disconnected,0,,G
+11/08/2020,00:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,00:50:14,RS232 Connected,0,,G
+11/08/2020,00:50:17,RS232 Disconnected,0,,G
+11/08/2020,00:55:15,RS232 Connected,0,,G
+11/08/2020,00:55:15,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,00:55:18,RS232 Disconnected,0,,G
+11/08/2020,01:00:14,RS232 Connected,0,,G
+11/08/2020,01:00:20,RS232 Disconnected,0,,G
+11/08/2020,01:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,01:05:14,RS232 Connected,0,,G
+11/08/2020,01:05:17,RS232 Disconnected,0,,G
+11/08/2020,01:10:10,RS232 Connected,0,,G
+11/08/2020,01:10:13,RS232 Disconnected,0,,G
+11/08/2020,01:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,01:15:09,RS232 Connected,0,,G
+11/08/2020,01:15:12,RS232 Disconnected,0,,G
+11/08/2020,01:20:08,RS232 Connected,0,,G
+11/08/2020,01:20:11,RS232 Disconnected,0,,G
+11/08/2020,01:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,01:25:15,RS232 Connected,0,,G
+11/08/2020,01:25:18,RS232 Disconnected,0,,G
+11/08/2020,01:30:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,01:30:15,RS232 Connected,0,,G
+11/08/2020,01:30:15,RS232 Disconnected,0,,G
+11/08/2020,01:35:08,RS232 Connected,0,,G
+11/08/2020,01:35:12,RS232 Disconnected,0,,G
+11/08/2020,01:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,01:40:14,RS232 Connected,0,,G
+11/08/2020,01:40:14,RS232 Disconnected,0,,G
+11/08/2020,01:45:09,RS232 Connected,0,,G
+11/08/2020,01:45:12,RS232 Disconnected,0,,G
+11/08/2020,01:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,01:50:14,RS232 Connected,0,,G
+11/08/2020,01:50:14,RS232 Disconnected,0,,G
+11/08/2020,01:55:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,01:55:15,RS232 Connected,0,,G
+11/08/2020,01:55:15,RS232 Disconnected,0,,G
+11/08/2020,02:00:13,RS232 Connected,0,,G
+11/08/2020,02:00:19,RS232 Disconnected,0,,G
+11/08/2020,02:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,02:05:09,RS232 Connected,0,,G
+11/08/2020,02:05:12,RS232 Disconnected,0,,G
+11/08/2020,02:10:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,02:10:15,RS232 Connected,0,,G
+11/08/2020,02:10:15,RS232 Disconnected,0,,G
+11/08/2020,02:15:14,RS232 Connected,0,,G
+11/08/2020,02:15:15,RS232 Disconnected,0,,G
+11/08/2020,02:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,02:20:14,RS232 Connected,0,,G
+11/08/2020,02:20:15,RS232 Disconnected,0,,G
+11/08/2020,02:25:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,02:25:15,RS232 Connected,0,,G
+11/08/2020,02:25:15,RS232 Disconnected,0,,G
+11/08/2020,02:30:14,RS232 Connected,0,,G
+11/08/2020,02:30:14,RS232 Disconnected,0,,G
+11/08/2020,02:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,02:35:14,RS232 Connected,0,,G
+11/08/2020,02:35:14,RS232 Disconnected,0,,G
+11/08/2020,02:40:10,RS232 Connected,0,,G
+11/08/2020,02:40:13,RS232 Disconnected,0,,G
+11/08/2020,02:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,02:45:15,RS232 Connected,0,,G
+11/08/2020,02:45:15,RS232 Disconnected,0,,G
+11/08/2020,02:50:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,02:50:14,RS232 Connected,0,,G
+11/08/2020,02:50:14,RS232 Disconnected,0,,G
+11/08/2020,02:55:15,RS232 Connected,0,,G
+11/08/2020,02:55:16,RS232 Disconnected,0,,G
+11/08/2020,03:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,03:00:14,RS232 Connected,0,,G
+11/08/2020,03:00:20,RS232 Disconnected,0,,G
+11/08/2020,03:05:14,RS232 Connected,0,,G
+11/08/2020,03:05:14,RS232 Disconnected,0,,G
+11/08/2020,03:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,03:10:15,RS232 Connected,0,,G
+11/08/2020,03:10:16,RS232 Disconnected,0,,G
+11/08/2020,03:15:09,RS232 Connected,0,,G
+11/08/2020,03:15:12,RS232 Disconnected,0,,G
+11/08/2020,03:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,03:20:14,RS232 Connected,0,,G
+11/08/2020,03:20:14,RS232 Disconnected,0,,G
+11/08/2020,03:25:09,RS232 Connected,0,,G
+11/08/2020,03:25:13,RS232 Disconnected,0,,G
+11/08/2020,03:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,03:30:08,RS232 Connected,0,,G
+11/08/2020,03:30:11,RS232 Disconnected,0,,G
+11/08/2020,03:35:09,RS232 Connected,0,,G
+11/08/2020,03:35:12,RS232 Disconnected,0,,G
+11/08/2020,03:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,03:40:10,RS232 Connected,0,,G
+11/08/2020,03:40:13,RS232 Disconnected,0,,G
+11/08/2020,03:45:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,03:45:12,RS232 Connected,0,,G
+11/08/2020,03:45:12,RS232 Disconnected,0,,G
+11/08/2020,03:50:12,RS232 Connected,0,,G
+11/08/2020,03:50:12,RS232 Disconnected,0,,G
+11/08/2020,03:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,03:55:14,RS232 Connected,0,,G
+11/08/2020,03:55:14,RS232 Disconnected,0,,G
+11/08/2020,04:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,04:00:12,RS232 Connected,0,,G
+11/08/2020,04:00:18,RS232 Disconnected,0,,G
+11/08/2020,04:05:12,RS232 Connected,0,,G
+11/08/2020,04:05:12,RS232 Disconnected,0,,G
+11/08/2020,04:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,04:10:13,RS232 Connected,0,,G
+11/08/2020,04:10:14,RS232 Disconnected,0,,G
+11/08/2020,04:15:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,04:15:12,RS232 Connected,0,,G
+11/08/2020,04:15:12,RS232 Disconnected,0,,G
+11/08/2020,04:20:12,RS232 Connected,0,,G
+11/08/2020,04:20:12,RS232 Disconnected,0,,G
+11/08/2020,04:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,04:25:13,RS232 Connected,0,,G
+11/08/2020,04:25:13,RS232 Disconnected,0,,G
+11/08/2020,04:30:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,04:30:13,RS232 Connected,0,,G
+11/08/2020,04:30:13,RS232 Disconnected,0,,G
+11/08/2020,04:35:12,RS232 Connected,0,,G
+11/08/2020,04:35:12,RS232 Disconnected,0,,G
+11/08/2020,04:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,04:40:12,RS232 Connected,0,,G
+11/08/2020,04:40:13,RS232 Disconnected,0,,G
+11/08/2020,04:45:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,04:45:13,RS232 Connected,0,,G
+11/08/2020,04:45:13,RS232 Disconnected,0,,G
+11/08/2020,04:50:12,RS232 Connected,0,,G
+11/08/2020,04:50:12,RS232 Disconnected,0,,G
+11/08/2020,04:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,04:55:12,RS232 Connected,0,,G
+11/08/2020,04:55:12,RS232 Disconnected,0,,G
+11/08/2020,05:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,05:00:13,RS232 Connected,0,,G
+11/08/2020,05:00:19,RS232 Disconnected,0,,G
+11/08/2020,05:05:12,RS232 Connected,0,,G
+11/08/2020,05:05:12,RS232 Disconnected,0,,G
+11/08/2020,05:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,05:10:12,RS232 Connected,0,,G
+11/08/2020,05:10:12,RS232 Disconnected,0,,G
+11/08/2020,05:15:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,05:15:15,RS232 Connected,0,,G
+11/08/2020,05:15:15,RS232 Disconnected,0,,G
+11/08/2020,05:20:11,RS232 Connected,0,,G
+11/08/2020,05:20:11,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,05:20:14,RS232 Disconnected,0,,G
+11/08/2020,05:25:13,RS232 Connected,0,,G
+11/08/2020,05:25:13,RS232 Disconnected,0,,G
+11/08/2020,05:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,05:30:14,RS232 Connected,0,,G
+11/08/2020,05:30:14,RS232 Disconnected,0,,G
+11/08/2020,05:35:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,05:35:14,RS232 Connected,0,,G
+11/08/2020,05:35:14,RS232 Disconnected,0,,G
+11/08/2020,05:40:13,RS232 Connected,0,,G
+11/08/2020,05:40:14,RS232 Disconnected,0,,G
+11/08/2020,05:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,05:45:15,RS232 Connected,0,,G
+11/08/2020,05:45:15,RS232 Disconnected,0,,G
+11/08/2020,05:50:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,05:50:13,RS232 Connected,0,,G
+11/08/2020,05:50:14,RS232 Disconnected,0,,G
+11/08/2020,05:55:14,RS232 Connected,0,,G
+11/08/2020,05:55:14,RS232 Disconnected,0,,G
+11/08/2020,06:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,06:00:15,RS232 Connected,0,,G
+11/08/2020,06:00:20,RS232 Disconnected,0,,G
+11/08/2020,06:05:14,RS232 Connected,0,,G
+11/08/2020,06:05:14,RS232 Disconnected,0,,G
+11/08/2020,06:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,06:10:14,RS232 Connected,0,,G
+11/08/2020,06:10:14,RS232 Disconnected,0,,G
+11/08/2020,06:15:10,RS232 Connected,0,,G
+11/08/2020,06:15:13,RS232 Disconnected,0,,G
+11/08/2020,06:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,06:20:14,RS232 Connected,0,,G
+11/08/2020,06:20:14,RS232 Disconnected,0,,G
+11/08/2020,06:25:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,06:25:14,RS232 Connected,0,,G
+11/08/2020,06:25:14,RS232 Disconnected,0,,G
+11/08/2020,06:30:14,RS232 Connected,0,,G
+11/08/2020,06:30:14,RS232 Disconnected,0,,G
+11/08/2020,06:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,06:35:14,RS232 Connected,0,,G
+11/08/2020,06:35:14,RS232 Disconnected,0,,G
+11/08/2020,06:40:09,RS232 Connected,0,,G
+11/08/2020,06:40:12,RS232 Disconnected,0,,G
+11/08/2020,06:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,06:45:15,RS232 Connected,0,,G
+11/08/2020,06:45:15,RS232 Disconnected,0,,G
+11/08/2020,06:50:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,06:50:12,RS232 Connected,0,,G
+11/08/2020,06:50:12,RS232 Disconnected,0,,G
+11/08/2020,06:55:12,RS232 Connected,0,,G
+11/08/2020,06:55:12,RS232 Disconnected,0,,G
+11/08/2020,07:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,07:00:13,RS232 Connected,0,,G
+11/08/2020,07:00:19,RS232 Disconnected,0,,G
+11/08/2020,07:05:12,RS232 Connected,0,,G
+11/08/2020,07:05:12,RS232 Disconnected,0,,G
+11/08/2020,07:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,07:10:12,RS232 Connected,0,,G
+11/08/2020,07:10:12,RS232 Disconnected,0,,G
+11/08/2020,07:15:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,07:15:13,RS232 Connected,0,,G
+11/08/2020,07:15:13,RS232 Disconnected,0,,G
+11/08/2020,07:20:12,RS232 Connected,0,,G
+11/08/2020,07:20:12,RS232 Disconnected,0,,G
+11/08/2020,07:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,07:25:12,RS232 Connected,0,,G
+11/08/2020,07:25:12,RS232 Disconnected,0,,G
+11/08/2020,07:30:12,RS232 Connected,0,,G
+11/08/2020,07:30:15,RS232 Disconnected,0,,G
+11/08/2020,07:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,07:35:14,RS232 Connected,0,,G
+11/08/2020,07:35:16,RS232 Disconnected,0,,G
+11/08/2020,07:40:13,RS232 Connected,0,,G
+11/08/2020,07:40:16,RS232 Disconnected,0,,G
+11/08/2020,07:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,07:45:15,RS232 Connected,0,,G
+11/08/2020,07:45:18,RS232 Disconnected,0,,G
+11/08/2020,07:50:12,RS232 Connected,0,,G
+11/08/2020,07:50:15,RS232 Disconnected,0,,G
+11/08/2020,07:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,07:55:13,RS232 Connected,0,,G
+11/08/2020,07:55:16,RS232 Disconnected,0,,G
+11/08/2020,08:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,08:00:12,RS232 Connected,0,,G
+11/08/2020,08:00:18,RS232 Disconnected,0,,G
+11/08/2020,08:05:12,RS232 Connected,0,,G
+11/08/2020,08:05:15,RS232 Disconnected,0,,G
+11/08/2020,08:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,08:10:13,RS232 Connected,0,,G
+11/08/2020,08:10:16,RS232 Disconnected,0,,G
+11/08/2020,08:15:12,RS232 Connected,0,,G
+11/08/2020,08:15:15,RS232 Disconnected,0,,G
+11/08/2020,08:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,08:20:12,RS232 Connected,0,,G
+11/08/2020,08:20:15,RS232 Disconnected,0,,G
+11/08/2020,08:25:13,RS232 Connected,0,,G
+11/08/2020,08:25:16,RS232 Disconnected,0,,G
+11/08/2020,08:30:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,08:30:11,RS232 Connected,0,,G
+11/08/2020,08:30:14,RS232 Disconnected,0,,G
+11/08/2020,08:35:13,RS232 Connected,0,,G
+11/08/2020,08:35:16,RS232 Disconnected,0,,G
+11/08/2020,08:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,08:40:15,RS232 Connected,0,,G
+11/08/2020,08:40:18,RS232 Disconnected,0,,G
+11/08/2020,08:45:13,RS232 Connected,0,,G
+11/08/2020,08:45:16,RS232 Disconnected,0,,G
+11/08/2020,08:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,08:50:14,RS232 Connected,0,,G
+11/08/2020,08:50:16,RS232 Disconnected,0,,G
+11/08/2020,08:55:15,RS232 Connected,0,,G
+11/08/2020,08:55:15,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,08:55:18,RS232 Disconnected,0,,G
+11/08/2020,09:00:13,RS232 Connected,0,,G
+11/08/2020,09:00:19,RS232 Disconnected,0,,G
+11/08/2020,09:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,09:05:14,RS232 Connected,0,,G
+11/08/2020,09:05:17,RS232 Disconnected,0,,G
+11/08/2020,09:10:15,RS232 Connected,0,,G
+11/08/2020,09:10:15,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,09:10:18,RS232 Disconnected,0,,G
+11/08/2020,09:15:14,RS232 Connected,0,,G
+11/08/2020,09:15:17,RS232 Disconnected,0,,G
+11/08/2020,09:20:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,09:20:14,RS232 Connected,0,,G
+11/08/2020,09:20:17,RS232 Disconnected,0,,G
+11/08/2020,09:25:15,RS232 Connected,0,,G
+11/08/2020,09:25:15,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,09:25:18,RS232 Disconnected,0,,G
+11/08/2020,09:30:14,RS232 Connected,0,,G
+11/08/2020,09:30:17,RS232 Disconnected,0,,G
+11/08/2020,09:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,09:35:14,RS232 Connected,0,,G
+11/08/2020,09:35:17,RS232 Disconnected,0,,G
+11/08/2020,09:40:15,RS232 Connected,0,,G
+11/08/2020,09:40:15,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,09:40:18,RS232 Disconnected,0,,G
+11/08/2020,09:45:13,RS232 Connected,0,,G
+11/08/2020,09:45:16,RS232 Disconnected,0,,G
+11/08/2020,09:50:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,09:50:08,RS232 Connected,0,,G
+11/08/2020,09:50:11,RS232 Disconnected,0,,G
+11/08/2020,09:55:15,RS232 Connected,0,,G
+11/08/2020,09:55:15,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,09:55:18,RS232 Disconnected,0,,G
+11/08/2020,10:00:09,RS232 Connected,0,,G
+11/08/2020,10:00:17,RS232 Disconnected,0,,G
+11/08/2020,10:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,10:05:09,RS232 Connected,0,,G
+11/08/2020,10:05:12,RS232 Disconnected,0,,G
+11/08/2020,10:10:09,RS232 Connected,0,,G
+11/08/2020,10:10:12,RS232 Disconnected,0,,G
+11/08/2020,10:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,10:15:09,RS232 Connected,0,,G
+11/08/2020,10:15:12,RS232 Disconnected,0,,G
+11/08/2020,10:20:12,RS232 Connected,0,,G
+11/08/2020,10:20:15,RS232 Disconnected,0,,G
+11/08/2020,10:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,10:25:13,RS232 Connected,0,,G
+11/08/2020,10:25:16,RS232 Disconnected,0,,G
+11/08/2020,10:30:08,RS232 Connected,0,,G
+11/08/2020,10:30:11,RS232 Disconnected,0,,G
+11/08/2020,10:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,10:35:08,RS232 Connected,0,,G
+11/08/2020,10:35:11,RS232 Disconnected,0,,G
+11/08/2020,10:40:09,RS232 Connected,0,,G
+11/08/2020,10:40:12,RS232 Disconnected,0,,G
+11/08/2020,10:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,10:45:08,RS232 Connected,0,,G
+11/08/2020,10:45:11,RS232 Disconnected,0,,G
+11/08/2020,10:50:08,RS232 Connected,0,,G
+11/08/2020,10:50:11,RS232 Disconnected,0,,G
+11/08/2020,10:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,10:55:09,RS232 Connected,0,,G
+11/08/2020,10:55:12,RS232 Disconnected,0,,G
+11/08/2020,11:00:08,RS232 Connected,0,,G
+11/08/2020,11:00:17,RS232 Disconnected,0,,G
+11/08/2020,11:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,11:05:08,RS232 Connected,0,,G
+11/08/2020,11:05:11,RS232 Disconnected,0,,G
+11/08/2020,11:10:09,RS232 Connected,0,,G
+11/08/2020,11:10:12,RS232 Disconnected,0,,G
+11/08/2020,11:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,11:15:08,RS232 Connected,0,,G
+11/08/2020,11:15:11,RS232 Disconnected,0,,G
+11/08/2020,11:20:08,RS232 Connected,0,,G
+11/08/2020,11:20:11,RS232 Disconnected,0,,G
+11/08/2020,11:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,11:25:09,RS232 Connected,0,,G
+11/08/2020,11:25:12,RS232 Disconnected,0,,G
+11/08/2020,11:30:08,RS232 Connected,0,,G
+11/08/2020,11:30:11,RS232 Disconnected,0,,G
+11/08/2020,11:35:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,11:35:08,RS232 Connected,0,,G
+11/08/2020,11:35:11,RS232 Disconnected,0,,G
+11/08/2020,11:40:09,RS232 Connected,0,,G
+11/08/2020,11:40:12,RS232 Disconnected,0,,G
+11/08/2020,11:45:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,11:45:08,RS232 Connected,0,,G
+11/08/2020,11:45:11,RS232 Disconnected,0,,G
+11/08/2020,11:50:08,RS232 Connected,0,,G
+11/08/2020,11:50:11,RS232 Disconnected,0,,G
+11/08/2020,11:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,11:55:09,RS232 Connected,0,,G
+11/08/2020,11:55:12,RS232 Disconnected,0,,G
+11/08/2020,12:00:08,RS232 Connected,0,,G
+11/08/2020,12:00:17,RS232 Disconnected,0,,G
+11/08/2020,12:05:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,12:05:08,RS232 Connected,0,,G
+11/08/2020,12:05:11,RS232 Disconnected,0,,G
+11/08/2020,12:10:09,RS232 Connected,0,,G
+11/08/2020,12:10:12,RS232 Disconnected,0,,G
+11/08/2020,12:15:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,12:15:08,RS232 Connected,0,,G
+11/08/2020,12:15:11,RS232 Disconnected,0,,G
+11/08/2020,12:20:08,RS232 Connected,0,,G
+11/08/2020,12:20:11,RS232 Disconnected,0,,G
+11/08/2020,12:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,12:25:09,RS232 Connected,0,,G
+11/08/2020,12:25:12,RS232 Disconnected,0,,G
+11/08/2020,12:30:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,12:30:12,RS232 Connected,0,,G
+11/08/2020,12:30:13,RS232 Disconnected,0,,G
+11/08/2020,12:35:13,RS232 Connected,0,,G
+11/08/2020,12:35:13,RS232 Disconnected,0,,G
+11/08/2020,12:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,12:40:13,RS232 Connected,0,,G
+11/08/2020,12:40:13,RS232 Disconnected,0,,G
+11/08/2020,12:45:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,12:45:14,RS232 Connected,0,,G
+11/08/2020,12:45:14,RS232 Disconnected,0,,G
+11/08/2020,12:50:13,RS232 Connected,0,,G
+11/08/2020,12:50:13,RS232 Disconnected,0,,G
+11/08/2020,12:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,12:55:13,RS232 Connected,0,,G
+11/08/2020,12:55:14,RS232 Disconnected,0,,G
+11/08/2020,13:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,13:00:13,RS232 Connected,0,,G
+11/08/2020,13:00:19,RS232 Disconnected,0,,G
+11/08/2020,13:05:13,RS232 Connected,0,,G
+11/08/2020,13:05:13,RS232 Disconnected,0,,G
+11/08/2020,13:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,13:10:13,RS232 Connected,0,,G
+11/08/2020,13:10:13,RS232 Disconnected,0,,G
+11/08/2020,13:15:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,13:15:13,RS232 Connected,0,,G
+11/08/2020,13:15:13,RS232 Disconnected,0,,G
+11/08/2020,13:20:14,RS232 Connected,0,,G
+11/08/2020,13:20:14,RS232 Disconnected,0,,G
+11/08/2020,13:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,13:25:15,RS232 Connected,0,,G
+11/08/2020,13:25:15,RS232 Disconnected,0,,G
+11/08/2020,13:30:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,13:30:14,RS232 Connected,0,,G
+11/08/2020,13:30:14,RS232 Disconnected,0,,G
+11/08/2020,13:35:14,RS232 Connected,0,,G
+11/08/2020,13:35:14,RS232 Disconnected,0,,G
+11/08/2020,13:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,13:40:13,RS232 Connected,0,,G
+11/08/2020,13:40:14,RS232 Disconnected,0,,G
+11/08/2020,13:45:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,13:45:12,RS232 Connected,0,,G
+11/08/2020,13:45:13,RS232 Disconnected,0,,G
+11/08/2020,13:50:12,RS232 Connected,0,,G
+11/08/2020,13:50:12,RS232 Disconnected,0,,G
+11/08/2020,13:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,13:55:13,RS232 Connected,0,,G
+11/08/2020,13:55:13,RS232 Disconnected,0,,G
+11/08/2020,14:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,14:00:12,RS232 Connected,0,,G
+11/08/2020,14:00:18,RS232 Disconnected,0,,G
+11/08/2020,14:05:12,RS232 Connected,0,,G
+11/08/2020,14:05:12,RS232 Disconnected,0,,G
+11/08/2020,14:10:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,14:10:13,RS232 Connected,0,,G
+11/08/2020,14:10:13,RS232 Disconnected,0,,G
+11/08/2020,14:15:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,14:15:12,RS232 Connected,0,,G
+11/08/2020,14:15:12,RS232 Disconnected,0,,G
+11/08/2020,14:20:13,RS232 Connected,0,,G
+11/08/2020,14:20:14,RS232 Disconnected,0,,G
+11/08/2020,14:25:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,14:25:15,RS232 Connected,0,,G
+11/08/2020,14:25:15,RS232 Disconnected,0,,G
+11/08/2020,14:30:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,14:30:13,RS232 Connected,0,,G
+11/08/2020,14:30:14,RS232 Disconnected,0,,G
+11/08/2020,14:35:14,RS232 Connected,0,,G
+11/08/2020,14:35:14,RS232 Disconnected,0,,G
+11/08/2020,14:40:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,14:40:15,RS232 Connected,0,,G
+11/08/2020,14:40:15,RS232 Disconnected,0,,G
+11/08/2020,14:45:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,14:45:14,RS232 Connected,0,,G
+11/08/2020,14:45:14,RS232 Disconnected,0,,G
+11/08/2020,14:50:14,RS232 Connected,0,,G
+11/08/2020,14:50:14,RS232 Disconnected,0,,G
+11/08/2020,14:55:06,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,14:55:15,RS232 Connected,0,,G
+11/08/2020,14:55:15,RS232 Disconnected,0,,G
+11/08/2020,15:00:10,System Error: Modbus Sensor Failure,5593,,G
+11/08/2020,15:00:14,RS232 Connected,0,,G
+11/08/2020,15:00:20,RS232 Disconnected,0,,G
+11/08/2020,15:05:14,RS232 Connected,0,,G
+11/08/2020,15:05:14,RS232 Disconnected,0,,G
+11/08/2020,15:05:23,Log Download,0,,G

@@ -1,0 +1,112 @@
+DateTime,Label,Value,Units,Quality
+01/15/2021 12:16:46,Reset Powerup,4,,G
+01/15/2021 12:16:50,Battery,4.59,V,G
+01/15/2021 12:16:50,Internal Temp,27.18,C,G
+01/15/2021 12:16:50,System Error: Battery Low,5508,,G
+01/15/2021 12:16:50,Battery,4.5693,,G
+01/15/2021 12:16:59,USB Cable,1,,G
+01/15/2021 12:16:59,Battery,12.39,V,G
+01/15/2021 12:16:59,Battery,12.39,V,G
+01/15/2021 12:17:09,Setup Change,0,,G
+01/15/2021 12:17:35,RS232 Connected,0,,G
+01/15/2021 12:17:41,RS232 Disconnected,0,,G
+01/15/2021 12:19:59,System Error: Cell SIM Error,5582,,G
+01/15/2021 12:20:02,RS232 Connected,0,,G
+01/15/2021 12:20:02,RS232 Disconnected,0,,G
+01/15/2021 12:25:02,RS232 Connected,0,,G
+01/15/2021 12:25:08,RS232 Disconnected,0,,G
+01/15/2021 12:25:55,System Error: Cell SIM Error,5582,,G
+01/15/2021 12:30:02,RS232 Connected,0,,G
+01/15/2021 12:30:08,RS232 Disconnected,0,,G
+01/15/2021 12:35:02,RS232 Connected,0,,G
+01/15/2021 12:35:08,RS232 Disconnected,0,,G
+01/15/2021 12:35:55,System Error: Cell SIM Error,5582,,G
+01/15/2021 12:37:38,Log Download,0,,G
+01/15/2021 12:38:29,USB Cable,0,,G
+01/15/2021 12:40:02,RS232 Connected,0,,G
+01/15/2021 12:40:08,RS232 Disconnected,0,,G
+01/15/2021 12:45:02,RS232 Connected,0,,G
+01/15/2021 12:45:08,RS232 Disconnected,0,,G
+01/15/2021 12:50:02,RS232 Connected,0,,G
+01/15/2021 12:50:08,RS232 Disconnected,0,,G
+01/15/2021 12:55:02,RS232 Connected,0,,G
+01/15/2021 12:55:08,RS232 Disconnected,0,,G
+01/15/2021 13:00:02,RS232 Connected,0,,G
+01/15/2021 13:00:08,RS232 Disconnected,0,,G
+01/15/2021 13:05:02,RS232 Connected,0,,G
+01/15/2021 13:05:08,RS232 Disconnected,0,,G
+01/15/2021 13:10:02,RS232 Connected,0,,G
+01/15/2021 13:10:08,RS232 Disconnected,0,,G
+01/15/2021 13:15:02,RS232 Connected,0,,G
+01/15/2021 13:15:08,RS232 Disconnected,0,,G
+01/15/2021 13:20:02,RS232 Connected,0,,G
+01/15/2021 13:20:08,RS232 Disconnected,0,,G
+01/15/2021 13:25:02,RS232 Connected,0,,G
+01/15/2021 13:25:08,RS232 Disconnected,0,,G
+01/15/2021 13:30:02,RS232 Connected,0,,G
+01/15/2021 13:30:08,RS232 Disconnected,0,,G
+01/15/2021 13:35:02,RS232 Connected,0,,G
+01/15/2021 13:35:08,RS232 Disconnected,0,,G
+01/15/2021 13:40:02,RS232 Connected,0,,G
+01/15/2021 13:40:08,RS232 Disconnected,0,,G
+01/15/2021 13:45:02,RS232 Connected,0,,G
+01/15/2021 13:45:08,RS232 Disconnected,0,,G
+01/15/2021 13:50:02,RS232 Connected,0,,G
+01/15/2021 13:50:08,RS232 Disconnected,0,,G
+01/15/2021 13:55:02,RS232 Connected,0,,G
+01/15/2021 13:55:08,RS232 Disconnected,0,,G
+01/15/2021 14:00:02,RS232 Connected,0,,G
+01/15/2021 14:00:08,RS232 Disconnected,0,,G
+01/15/2021 14:05:02,RS232 Connected,0,,G
+01/15/2021 14:05:08,RS232 Disconnected,0,,G
+01/15/2021 14:06:53,System Error: Cell SIM Error,5582,,G
+01/15/2021 14:10:02,RS232 Connected,0,,G
+01/15/2021 14:10:08,RS232 Disconnected,0,,G
+01/15/2021 14:15:02,RS232 Connected,0,,G
+01/15/2021 14:15:08,RS232 Disconnected,0,,G
+01/15/2021 14:20:02,RS232 Connected,0,,G
+01/15/2021 14:20:08,RS232 Disconnected,0,,G
+01/15/2021 14:25:02,RS232 Connected,0,,G
+01/15/2021 14:25:08,RS232 Disconnected,0,,G
+01/15/2021 14:30:02,RS232 Connected,0,,G
+01/15/2021 14:30:08,RS232 Disconnected,0,,G
+01/15/2021 14:35:02,RS232 Connected,0,,G
+01/15/2021 14:35:08,RS232 Disconnected,0,,G
+01/15/2021 14:40:02,RS232 Connected,0,,G
+01/15/2021 14:40:08,RS232 Disconnected,0,,G
+01/15/2021 14:45:02,RS232 Connected,0,,G
+01/15/2021 14:45:08,RS232 Disconnected,0,,G
+01/15/2021 14:50:02,RS232 Connected,0,,G
+01/15/2021 14:50:08,RS232 Disconnected,0,,G
+01/15/2021 15:54:43,Reset Powerup,5,,G
+01/15/2021 15:54:47,Battery,12.39,V,G
+01/15/2021 15:54:47,Internal Temp,29.93,C,G
+01/15/2021 15:55:03,RS232 Connected,0,,G
+01/15/2021 15:55:08,RS232 Disconnected,0,,G
+01/15/2021 15:57:44,System Error: Cell SIM Error,5582,,G
+01/15/2021 16:00:02,RS232 Connected,0,,G
+01/15/2021 16:00:08,RS232 Disconnected,0,,G
+01/15/2021 16:05:02,RS232 Connected,0,,G
+01/15/2021 16:05:08,RS232 Disconnected,0,,G
+01/15/2021 16:10:02,RS232 Connected,0,,G
+01/15/2021 16:10:08,RS232 Disconnected,0,,G
+01/15/2021 16:15:02,RS232 Connected,0,,G
+01/15/2021 16:15:08,RS232 Disconnected,0,,G
+01/15/2021 16:20:02,RS232 Connected,0,,G
+01/15/2021 16:20:08,RS232 Disconnected,0,,G
+01/15/2021 16:25:02,RS232 Connected,0,,G
+01/15/2021 16:25:08,RS232 Disconnected,0,,G
+01/15/2021 16:30:02,RS232 Connected,0,,G
+01/15/2021 16:30:08,RS232 Disconnected,0,,G
+01/15/2021 16:35:02,RS232 Connected,0,,G
+01/15/2021 16:35:08,RS232 Disconnected,0,,G
+01/15/2021 16:40:02,RS232 Connected,0,,G
+01/15/2021 16:40:08,RS232 Disconnected,0,,G
+01/15/2021 16:45:02,RS232 Connected,0,,G
+01/15/2021 16:45:08,RS232 Disconnected,0,,G
+01/15/2021 16:50:02,RS232 Connected,0,,G
+01/15/2021 16:50:08,RS232 Disconnected,0,,G
+01/15/2021 16:55:02,RS232 Connected,0,,G
+01/15/2021 16:55:08,RS232 Disconnected,0,,G
+01/15/2021 17:00:02,RS232 Connected,0,,G
+01/15/2021 17:00:08,RS232 Disconnected,0,,G

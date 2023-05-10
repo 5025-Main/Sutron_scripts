@@ -1,0 +1,109 @@
+DateTime,Label,Value,Units,Quality
+01/24/2021 10:34:59,SDI XDT,0,,G
+01/25/2021 07:23:02,Log Download,0,,G
+01/25/2021 07:23:58,Client Conn,3,,G
+01/25/2021 10:39:01,SDI XDT,0,,G
+01/25/2021 12:45:35,SMS Receive,1,,G
+01/25/2021 13:03:12,SMS Receive,2,,G
+01/25/2021 13:15:21,SMS Receive,3,,G
+01/25/2021 13:32:40,SMS Receive,4,,G
+01/26/2021 10:39:59,SDI XDT,0,,G
+01/27/2021 09:50:44,Client Conn,4,,G
+01/27/2021 09:52:42,Client Conn,5,,G
+01/27/2021 10:42:44,SDI XDT,0,,G
+01/13/2021 12:00:00,Trigger Man,1,,G
+01/13/2021 12:00:00,Trigger Man,1,,G
+01/13/2021 12:00:00,Trigger Man,1,,G
+01/27/2021 11:15:55,Client Conn,6,,G
+01/27/2021 11:20:46,Client Conn,7,,G
+01/28/2021 07:16:47,Client Conn,8,,G
+01/28/2021 10:46:50,SDI XDT,0,,G
+01/28/2021 18:07:30,Client Conn,9,,G
+01/28/2021 18:09:42,Client Conn,10,,G
+01/28/2021 18:10:59,Setup Change,0,,G
+01/28/2021 18:16:13,Client Conn,11,,G
+01/28/2021 19:13:34,Client Conn,12,,G
+01/28/2021 19:14:52,Setup Change,0,,G
+01/28/2021 19:15:21,Client Conn,13,,G
+01/29/2021 00:25:34,Setup Change,0,,G
+01/29/2021 00:25:48,Client Conn,14,,G
+01/29/2021 01:12:15,Client Conn,15,,G
+01/29/2021 01:24:09,Log Download,0,,G
+01/29/2021 01:25:13,Client Conn,16,,G
+01/29/2021 01:26:51,Client Conn,17,,G
+01/29/2021 01:30:43,Client Conn,18,,G
+01/29/2021 01:40:00,Alarm In,12,,G
+01/29/2021 01:40:00,Setup Change,0,,G
+01/29/2021 02:06:00,Triggered S,1,,G
+01/29/2021 02:06:00,VolumeTrig,8305.47,,G
+01/29/2021 02:27:00,Triggered S,2,,G
+01/29/2021 02:27:00,VolumeTrig,8268.68,,G
+01/29/2021 02:30:07,Log Download,0,,G
+01/29/2021 02:31:13,Client Conn,19,,G
+01/29/2021 02:48:00,Triggered S,3,,G
+01/29/2021 02:48:00,VolumeTrig,8288.90,,G
+01/29/2021 02:52:08,Client Conn,20,,G
+01/29/2021 02:56:33,Log Download,0,,G
+01/29/2021 02:57:51,Client Conn,21,,G
+01/29/2021 03:17:00,Triggered S,4,,G
+01/29/2021 03:17:00,VolumeTrig,8002.46,,G
+01/29/2021 04:05:00,Triggered S,5,,G
+01/29/2021 04:05:00,VolumeTrig,8226.78,,G
+01/29/2021 04:13:19,Log Download,0,,G
+01/29/2021 04:17:45,Client Conn,22,,G
+01/29/2021 04:25:00,Triggered S,6,,G
+01/29/2021 04:25:00,VolumeTrig,8230.87,,G
+01/29/2021 04:38:00,Triggered S,7,,G
+01/29/2021 04:38:00,VolumeTrig,8355.90,,G
+01/29/2021 04:50:00,Triggered S,8,,G
+01/29/2021 04:50:00,VolumeTrig,8138.22,,G
+01/29/2021 05:10:00,Triggered S,9,,G
+01/29/2021 05:10:00,VolumeTrig,8253.90,,G
+01/29/2021 05:31:36,Log Download,0,,G
+01/29/2021 05:33:40,Client Conn,23,,G
+01/29/2021 05:38:09,Log Download,0,,G
+01/29/2021 05:41:00,Triggered S,10,,G
+01/29/2021 05:41:00,VolumeTrig,8065.30,,G
+01/29/2021 05:43:18,Client Conn,24,,G
+01/29/2021 05:48:59,Client Conn,25,,G
+01/29/2021 06:05:10,Client Conn,26,,G
+01/29/2021 06:07:29,Client Conn,27,,G
+01/29/2021 06:11:20,Client Conn,28,,G
+01/29/2021 06:21:00,Triggered S,11,,G
+01/29/2021 06:21:00,VolumeTrig,8114.21,,G
+01/29/2021 07:32:43,Log Download,0,,G
+01/29/2021 07:33:09,Client Conn,29,,G
+01/29/2021 07:44:00,Triggered S,12,,G
+01/29/2021 07:44:00,VolumeTrig,8012.16,,G
+01/29/2021 10:32:00,Triggered S,13,,G
+01/29/2021 10:32:00,VolumeTrig,8016.88,,G
+01/29/2021 10:48:11,SDI XDT,0,,G
+01/29/2021 10:50:29,Client Conn,30,,G
+01/29/2021 12:01:44,Client Conn,31,,G
+01/29/2021 13:27:06,Log Download,0,,G
+01/29/2021 13:27:28,Client Conn,32,,G
+01/29/2021 15:31:46,Log Download,0,,G
+01/29/2021 15:32:56,Client Conn,33,,G
+01/29/2021 15:33:45,Client Conn,34,,G
+01/29/2021 15:36:00,Triggered S,14,,G
+01/29/2021 15:36:00,VolumeTrig,8042.74,,G
+01/29/2021 16:14:57,Log Download,0,,G
+01/29/2021 16:20:40,Client Conn,35,,G
+01/29/2021 17:15:00,Triggered S,15,,G
+01/29/2021 17:15:00,VolumeTrig,8093.85,,G
+01/29/2021 17:27:24,Log Download,0,,G
+01/29/2021 17:29:08,Client Conn,36,,G
+01/29/2021 17:40:17,Client Conn,37,,G
+01/29/2021 17:48:10,Client Conn,38,,G
+01/29/2021 19:34:00,Triggered S,16,,G
+01/29/2021 19:34:00,VolumeTrig,8004.02,,G
+01/29/2021 21:16:05,Log Download,0,,G
+01/29/2021 21:17:19,Client Conn,39,,G
+01/30/2021 02:49:00,Triggered S,17,,G
+01/30/2021 02:49:00,VolumeTrig,8007.52,,G
+01/30/2021 06:50:36,Log Download,0,,G
+01/30/2021 06:51:25,Setup Change,0,,G
+01/30/2021 06:51:39,Client Conn,40,,G
+01/30/2021 07:45:55,Log Download,0,,G
+01/30/2021 07:47:23,Client Conn,41,,G
+01/30/2021 09:54:22,Wi-Fi Connected,0,,G

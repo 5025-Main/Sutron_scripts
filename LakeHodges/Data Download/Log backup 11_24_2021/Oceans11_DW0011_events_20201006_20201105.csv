@@ -1,0 +1,335 @@
+Date,Time,Label,Value,Units,Quality
+10/06/2020,11:29:59,SDI XDT,0,,G
+10/06/2020,13:03:37,System Error: Cell No Network,5584,,G
+10/06/2020,13:19:47,System Error: Cell No Network,5584,,G
+10/06/2020,23:59:59,Battery,12.35,V,G
+10/06/2020,23:59:59,Internal Temp,22.68,C,G
+10/06/2020,23:59:59,SMS Received Today,0,,G
+10/06/2020,23:59:59,Cell Clients Today,0,,G
+10/06/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/06/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/06/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/07/2020,11:34:59,SDI XDT,0,,G
+10/07/2020,23:59:59,Battery,12.35,V,G
+10/07/2020,23:59:59,Internal Temp,22.42,C,G
+10/07/2020,23:59:59,SMS Received Today,0,,G
+10/07/2020,23:59:59,Cell Clients Today,0,,G
+10/07/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/07/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/07/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/08/2020,11:34:59,SDI XDT,0,,G
+10/08/2020,13:29:26,SMS Receive,4,,G
+10/08/2020,13:30:22,SMS Receive,5,,G
+10/08/2020,23:59:59,Battery,12.34,V,G
+10/08/2020,23:59:59,Internal Temp,20.26,C,G
+10/08/2020,23:59:59,SMS Received Today,2,,G
+10/08/2020,23:59:59,Cell Clients Today,0,,G
+10/08/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/08/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/08/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/09/2020,11:34:59,SDI XDT,0,,G
+10/09/2020,13:42:32,SMS Receive,6,,G
+10/09/2020,13:46:55,SMS Receive,7,,G
+10/09/2020,23:59:59,Battery,12.34,V,G
+10/09/2020,23:59:59,Internal Temp,21.82,C,G
+10/09/2020,23:59:59,SMS Received Today,2,,G
+10/09/2020,23:59:59,Cell Clients Today,0,,G
+10/09/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/09/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/09/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/10/2020,11:39:59,SDI XDT,0,,G
+10/10/2020,23:59:59,Battery,12.34,V,G
+10/10/2020,23:59:59,Internal Temp,20.52,C,G
+10/10/2020,23:59:59,SMS Received Today,0,,G
+10/10/2020,23:59:59,Cell Clients Today,0,,G
+10/10/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/10/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/10/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/11/2020,11:39:59,SDI XDT,0,,G
+10/11/2020,14:08:29,Time Before Change,2938,ms,G
+10/11/2020,14:08:32,Time After Change,2938,ms,G
+10/11/2020,14:08:32,Cell Set Time,0,,G
+10/11/2020,14:08:32,SDI XDT,0,,G
+10/11/2020,15:08:47,System Error: Cell No Network,5584,,G
+10/11/2020,23:59:59,Battery,12.34,V,G
+10/11/2020,23:59:59,Internal Temp,20.78,C,G
+10/11/2020,23:59:59,SMS Received Today,0,,G
+10/11/2020,23:59:59,Cell Clients Today,0,,G
+10/11/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/11/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/11/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/12/2020,14:09:59,SDI XDT,0,,G
+10/12/2020,15:20:05,SMS Receive,8,,G
+10/12/2020,23:59:59,Battery,12.34,V,G
+10/12/2020,23:59:59,Internal Temp,22.68,C,G
+10/12/2020,23:59:59,SMS Received Today,1,,G
+10/12/2020,23:59:59,Cell Clients Today,0,,G
+10/12/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/12/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/12/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/13/2020,14:09:59,SDI XDT,0,,G
+10/13/2020,23:59:59,Battery,12.34,V,G
+10/13/2020,23:59:59,Internal Temp,22.38,C,G
+10/13/2020,23:59:59,SMS Received Today,0,,G
+10/13/2020,23:59:59,Cell Clients Today,0,,G
+10/13/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/13/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/13/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/14/2020,14:09:59,SDI XDT,0,,G
+10/14/2020,23:59:59,Battery,12.33,V,G
+10/14/2020,23:59:59,Internal Temp,22.64,C,G
+10/14/2020,23:59:59,SMS Received Today,0,,G
+10/14/2020,23:59:59,Cell Clients Today,0,,G
+10/14/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/14/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/14/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/15/2020,14:14:59,SDI XDT,0,,G
+10/15/2020,23:59:59,Battery,12.32,V,G
+10/15/2020,23:59:59,Internal Temp,22.42,C,G
+10/15/2020,23:59:59,SMS Received Today,0,,G
+10/15/2020,23:59:59,Cell Clients Today,0,,G
+10/15/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/15/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/15/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/16/2020,14:14:59,SDI XDT,0,,G
+10/16/2020,23:59:59,Battery,12.32,V,G
+10/16/2020,23:59:59,Internal Temp,22.42,C,G
+10/16/2020,23:59:59,SMS Received Today,0,,G
+10/16/2020,23:59:59,Cell Clients Today,0,,G
+10/16/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/16/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/16/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/17/2020,14:19:59,SDI XDT,0,,G
+10/17/2020,23:59:59,Battery,12.31,V,G
+10/17/2020,23:59:59,Internal Temp,21.30,C,G
+10/17/2020,23:59:59,SMS Received Today,0,,G
+10/17/2020,23:59:59,Cell Clients Today,0,,G
+10/17/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/17/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/17/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/18/2020,14:24:59,SDI XDT,0,,G
+10/18/2020,16:00:07,Time Before Change,2942,ms,G
+10/18/2020,16:00:10,Time After Change,2942,ms,G
+10/18/2020,16:00:10,Cell Set Time,0,,G
+10/18/2020,16:00:10,SDI XDT,0,,G
+10/18/2020,23:59:59,Battery,12.31,V,G
+10/18/2020,23:59:59,Internal Temp,20.67,C,G
+10/18/2020,23:59:59,SMS Received Today,0,,G
+10/18/2020,23:59:59,Cell Clients Today,0,,G
+10/18/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/18/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/18/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/19/2020,16:04:59,SDI XDT,0,,G
+10/19/2020,23:59:59,Battery,12.31,V,G
+10/19/2020,23:59:59,Internal Temp,20.11,C,G
+10/19/2020,23:59:59,SMS Received Today,0,,G
+10/19/2020,23:59:59,Cell Clients Today,0,,G
+10/19/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/19/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/19/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/20/2020,16:04:59,SDI XDT,0,,G
+10/20/2020,23:59:59,Battery,12.31,V,G
+10/20/2020,23:59:59,Internal Temp,20.26,C,G
+10/20/2020,23:59:59,SMS Received Today,0,,G
+10/20/2020,23:59:59,Cell Clients Today,0,,G
+10/20/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/20/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/20/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/21/2020,16:04:59,SDI XDT,0,,G
+10/21/2020,23:59:59,Battery,12.31,V,G
+10/21/2020,23:59:59,Internal Temp,21.04,C,G
+10/21/2020,23:59:59,SMS Received Today,0,,G
+10/21/2020,23:59:59,Cell Clients Today,0,,G
+10/21/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/21/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/21/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/22/2020,16:09:59,SDI XDT,0,,G
+10/22/2020,23:59:59,Battery,12.30,V,G
+10/22/2020,23:59:59,Internal Temp,20.70,C,G
+10/22/2020,23:59:59,SMS Received Today,0,,G
+10/22/2020,23:59:59,Cell Clients Today,0,,G
+10/22/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/22/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/22/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/23/2020,16:14:59,SDI XDT,0,,G
+10/23/2020,23:59:59,Battery,12.30,V,G
+10/23/2020,23:59:59,Internal Temp,20.48,C,G
+10/23/2020,23:59:59,SMS Received Today,0,,G
+10/23/2020,23:59:59,Cell Clients Today,0,,G
+10/23/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/23/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/23/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/24/2020,16:14:59,SDI XDT,0,,G
+10/24/2020,23:59:59,Battery,12.30,V,G
+10/24/2020,23:59:59,Internal Temp,20.56,C,G
+10/24/2020,23:59:59,SMS Received Today,0,,G
+10/24/2020,23:59:59,Cell Clients Today,0,,G
+10/24/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/24/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/24/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/25/2020,16:19:59,SDI XDT,0,,G
+10/25/2020,17:46:15,System Error: Cell No Network,5584,,G
+10/25/2020,17:56:05,Time Before Change,2939,ms,G
+10/25/2020,17:56:08,Time After Change,2939,ms,G
+10/25/2020,17:56:08,Cell Set Time,0,,G
+10/25/2020,17:56:09,SDI XDT,0,,G
+10/25/2020,23:59:59,Battery,12.29,V,G
+10/25/2020,23:59:59,Internal Temp,19.35,C,G
+10/25/2020,23:59:59,SMS Received Today,0,,G
+10/25/2020,23:59:59,Cell Clients Today,0,,G
+10/25/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/25/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/25/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/26/2020,12:07:00,SMS Receive,9,,G
+10/26/2020,12:07:40,SMS Receive,10,,G
+10/26/2020,12:07:50,Wi-Fi Connected,0,,G
+10/26/2020,12:07:51,Wi-Fi Disconnected,0,,G
+10/26/2020,12:07:57,Wi-Fi Connected,0,,G
+10/26/2020,12:09:18,Upgrade Start,8.32,,G
+10/26/2020,12:09:18,Rev Start,3239,,G
+10/26/2020,12:09:18,Wi-Fi Disconnected,0,,G
+10/26/2020,12:09:33,Reset Soft,2,,G
+10/26/2020,12:09:33,Upgrade Complete,8.35,,G
+10/26/2020,12:09:33,Rev Complet,3369,,G
+10/26/2020,12:09:36,SDI XDT,0,,G
+10/26/2020,12:09:36,Battery,12.24,V,G
+10/26/2020,12:09:36,Internal Temp,19.43,C,G
+10/26/2020,12:10:09,Time Before Change,-54,ms,G
+10/26/2020,12:10:09,Time After Change,-54,ms,G
+10/26/2020,12:10:20,Wi-Fi Connected,0,,G
+10/26/2020,12:10:33,StatusClear,0,,G
+10/26/2020,12:10:52,Setup Change,0,,G
+10/26/2020,12:11:04,Log Download,0,,G
+10/26/2020,12:11:27,Wi-Fi Disconnected,0,,G
+10/26/2020,12:12:57,Wi-Fi Connected,0,,G
+10/26/2020,12:13:08,Log Download,0,,G
+10/26/2020,12:14:09,Wi-Fi Disconnected,0,,G
+10/26/2020,19:56:41,System Error: Cell No Network,5584,,G
+10/26/2020,20:12:20,System Error: Cell No Network,5584,,G
+10/26/2020,23:59:59,Battery,12.24,V,G
+10/26/2020,23:59:59,Internal Temp,15.75,C,G
+10/26/2020,23:59:59,SMS Received Today,0,,G
+10/26/2020,23:59:59,Cell Clients Today,0,,G
+10/26/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/26/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/26/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/27/2020,12:09:59,SDI XDT,0,,G
+10/27/2020,14:52:18,Log Download,0,,G
+10/27/2020,15:03:37,Client Conn,1,,G
+10/27/2020,19:33:42,System Error: Cell No Network,5584,,G
+10/27/2020,19:42:24,System Error: Cell No Network,5584,,G
+10/27/2020,19:51:02,System Error: Cell No Network,5584,,G
+10/27/2020,23:59:59,Battery,12.21,V,G
+10/27/2020,23:59:59,Internal Temp,15.52,C,G
+10/27/2020,23:59:59,SMS Received Today,0,,G
+10/27/2020,23:59:59,Cell Clients Today,1,,G
+10/27/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/27/2020,23:59:59,Cell Bytes Tx Today,318074,,G
+10/27/2020,23:59:59,Cell Bytes Rx Today,329,,G
+10/28/2020,12:09:59,SDI XDT,0,,G
+10/28/2020,19:07:20,System Error: Cell No Network,5584,,G
+10/28/2020,19:22:58,System Error: Cell No Network,5584,,G
+10/28/2020,23:59:59,Battery,12.24,V,G
+10/28/2020,23:59:59,Internal Temp,15.17,C,G
+10/28/2020,23:59:59,SMS Received Today,0,,G
+10/28/2020,23:59:59,Cell Clients Today,0,,G
+10/28/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/28/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/28/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/29/2020,12:14:59,SDI XDT,0,,G
+10/29/2020,20:02:03,System Error: Cell No Network,5584,,G
+10/29/2020,20:17:41,System Error: Cell No Network,5584,,G
+10/29/2020,23:59:59,Battery,12.22,V,G
+10/29/2020,23:59:59,Internal Temp,16.43,C,G
+10/29/2020,23:59:59,SMS Received Today,0,,G
+10/29/2020,23:59:59,Cell Clients Today,0,,G
+10/29/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/29/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/29/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/30/2020,12:19:59,SDI XDT,0,,G
+10/30/2020,19:27:09,System Error: Cell No Network,5584,,G
+10/30/2020,19:35:57,System Error: Cell No Network,5584,,G
+10/30/2020,19:44:38,System Error: Cell No Network,5584,,G
+10/30/2020,23:59:59,Battery,12.21,V,G
+10/30/2020,23:59:59,Internal Temp,16.85,C,G
+10/30/2020,23:59:59,SMS Received Today,0,,G
+10/30/2020,23:59:59,Cell Clients Today,0,,G
+10/30/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/30/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/30/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/31/2020,12:19:59,SDI XDT,0,,G
+10/31/2020,20:20:00,System Error: Cell No Network,5584,,G
+10/31/2020,20:35:38,System Error: Cell No Network,5584,,G
+10/31/2020,23:59:59,Battery,12.22,V,G
+10/31/2020,23:59:59,Internal Temp,15.97,C,G
+10/31/2020,23:59:59,SMS Received Today,0,,G
+10/31/2020,23:59:59,Cell Clients Today,0,,G
+10/31/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/31/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/31/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/01/2020,12:24:59,SDI XDT,0,,G
+11/01/2020,20:55:52,System Error: Cell No Network,5584,,G
+11/01/2020,21:11:30,System Error: Cell No Network,5584,,G
+11/01/2020,23:59:59,Battery,12.21,V,G
+11/01/2020,23:59:59,Internal Temp,17.54,C,G
+11/01/2020,23:59:59,SMS Received Today,0,,G
+11/01/2020,23:59:59,Cell Clients Today,0,,G
+11/01/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/01/2020,23:59:59,Cell Bytes Tx Today,0,,G
+11/01/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/02/2020,12:24:59,SDI XDT,0,,G
+11/02/2020,14:01:25,SMS Receive,1,,G
+11/02/2020,14:23:58,Wi-Fi Connected,0,,G
+11/02/2020,14:24:02,Log Download,0,,G
+11/02/2020,14:24:05,Wi-Fi Disconnected,0,,G
+11/02/2020,14:24:56,Wi-Fi Connected,0,,G
+11/02/2020,14:25:00,Log Download,0,,G
+11/02/2020,14:25:19,Log Download,0,,G
+11/02/2020,14:26:18,Wi-Fi Disconnected,0,,G
+11/02/2020,19:05:25,System Error: Cell No Network,5584,,G
+11/02/2020,19:14:11,System Error: Cell No Network,5584,,G
+11/02/2020,19:23:00,System Error: Cell No Network,5584,,G
+11/02/2020,23:59:59,Battery,12.20,V,G
+11/02/2020,23:59:59,Internal Temp,18.07,C,G
+11/02/2020,23:59:59,SMS Received Today,1,,G
+11/02/2020,23:59:59,Cell Clients Today,0,,G
+11/02/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/02/2020,23:59:59,Cell Bytes Tx Today,0,,G
+11/02/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/03/2020,10:03:36,System Error: Cell No Data Service,5585,,G
+11/03/2020,10:19:23,System Error: Cell No Network,5584,,G
+11/03/2020,12:03:07,System Error: Cell No Network,5584,,G
+11/03/2020,12:11:52,System Error: Cell No Network,5584,,G
+11/03/2020,12:20:28,System Error: Cell No Network,5584,,G
+11/03/2020,12:25:33,SDI XDT,0,,G
+11/03/2020,19:07:49,System Error: Cell No Network,5584,,G
+11/03/2020,19:16:26,System Error: Cell No Network,5584,,G
+11/03/2020,19:25:02,System Error: Cell No Network,5584,,G
+11/03/2020,23:59:59,Battery,12.18,V,G
+11/03/2020,23:59:59,Internal Temp,17.27,C,G
+11/03/2020,23:59:59,SMS Received Today,0,,G
+11/03/2020,23:59:59,Cell Clients Today,0,,G
+11/03/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/03/2020,23:59:59,Cell Bytes Tx Today,0,,G
+11/03/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/04/2020,12:29:59,SDI XDT,0,,G
+11/04/2020,14:11:11,Time Before Change,3940,ms,G
+11/04/2020,14:11:15,Time After Change,3940,ms,G
+11/04/2020,14:11:15,Cell Set Time,0,,G
+11/04/2020,14:11:15,SDI XDT,0,,G
+11/04/2020,20:32:13,System Error: Cell No Network,5584,,G
+11/04/2020,20:47:52,System Error: Cell No Network,5584,,G
+11/04/2020,23:59:59,Battery,12.17,V,G
+11/04/2020,23:59:59,Internal Temp,17.27,C,G
+11/04/2020,23:59:59,SMS Received Today,0,,G
+11/04/2020,23:59:59,Cell Clients Today,0,,G
+11/04/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/04/2020,23:59:59,Cell Bytes Tx Today,0,,G
+11/04/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/05/2020,14:14:59,SDI XDT,0,,G
+11/05/2020,17:27:31,SMS Receive,2,,G
+11/05/2020,17:29:19,Wi-Fi Connected,0,,G
+11/05/2020,17:29:54,Wi-Fi Disconnected,0,,G
+11/05/2020,17:30:14,Wi-Fi Connected,0,,G
+11/05/2020,17:31:54,USB Cable,1,,G
+11/05/2020,17:32:13,Log Download,0,,G

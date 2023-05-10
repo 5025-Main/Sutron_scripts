@@ -1,0 +1,132 @@
+DateTime,Label,Value,Units,Quality
+12/21/2020 16:07:45,Reset Powerup,12,,G
+12/21/2020 16:07:48,Battery,4.59,V,G
+12/21/2020 16:07:48,Internal Temp,16.36,C,G
+12/21/2020 16:07:48,System Error: Battery Low,5508,,G
+12/21/2020 16:07:48,Battery,4.5693,,G
+12/21/2020 16:11:19,USB Cable,1,,G
+12/21/2020 16:15:48,Setup Change,0,,G
+12/21/2020 16:15:50,Time Before Change,-28800000,ms,G
+12/21/2020 08:15:50,Time After Change,-28800000,ms,G
+12/21/2020 08:15:50,Local Time Offset Change,0,,G
+12/21/2020 08:22:30,Setup Change,0,,G
+12/21/2020 08:25:55,Setup Change,0,,G
+12/21/2020 08:29:36,Setup Change,0,,G
+12/21/2020 08:36:23,Setup Change,0,,G
+12/21/2020 08:37:07,Setup Change,0,,G
+12/21/2020 08:37:07,Recording,0,,G
+12/21/2020 08:37:07,Time Before Change,28800000,ms,G
+12/21/2020 16:37:07,Time After Change,28800000,ms,G
+12/21/2020 16:37:07,Local Time Offset Change,0,,G
+12/21/2020 16:37:10,Time Before Change,-28800000,ms,G
+12/21/2020 08:37:10,Time After Change,-28800000,ms,G
+12/21/2020 08:37:10,Local Time Offset Change,0,,G
+12/21/2020 08:37:22,Recording,1,,G
+12/21/2020 08:38:16,Setup Change,0,,G
+12/21/2020 08:41:11,Setup Change,0,,G
+12/21/2020 08:42:12,Setup Change,0,,G
+12/21/2020 08:43:13,Setup Change,0,,G
+12/21/2020 08:48:19,Setup Change,0,,G
+12/21/2020 08:58:56,Triggered S,1,,G
+12/21/2020 08:58:56,TimeTrig,19.00,,G
+12/21/2020 08:59:01,Setup Change,0,,G
+12/21/2020 10:31:16,USB Cable,0,,G
+12/21/2020 11:55:35,USB Cable,1,,G
+12/21/2020 11:55:37,USB Cable,0,,G
+12/21/2020 11:56:13,USB Cable,1,,G
+12/21/2020 11:56:15,Triggered S,1,,G
+12/21/2020 11:56:15,TimeTrig,19.00,,G
+12/21/2020 11:56:26,Setup Change,0,,G
+12/21/2020 11:56:29,USB Cable,0,,G
+12/21/2020 12:03:06,USB Cable,1,,G
+12/21/2020 12:03:19,Setup Change,0,,G
+12/21/2020 12:04:24,Setup Change,0,,G
+12/21/2020 12:04:31,Recording,0,,G
+12/21/2020 12:04:31,Time Before Change,28800000,ms,G
+12/21/2020 20:04:31,Time After Change,28800000,ms,G
+12/21/2020 20:04:31,Local Time Offset Change,0,,G
+12/21/2020 20:04:34,Time Before Change,-28800000,ms,G
+12/21/2020 12:04:34,Time After Change,-28800000,ms,G
+12/21/2020 12:04:34,Local Time Offset Change,0,,G
+12/21/2020 12:04:46,Recording,1,,G
+12/21/2020 12:06:01,Setup Change,0,,G
+12/21/2020 12:14:38,Triggered S,1,,G
+12/21/2020 12:14:38,TimeTrig,19.00,,G
+12/21/2020 12:14:46,Setup Change,0,,G
+12/21/2020 12:18:06,Setup Change,0,,G
+12/21/2020 12:18:47,USB Cable,0,,G
+12/21/2020 14:16:43,Reset Powerup,15,,G
+12/21/2020 14:16:46,SDI XDT,0,,G
+12/21/2020 14:16:46,Battery,12.44,V,G
+12/21/2020 14:16:46,Internal Temp,24.36,C,G
+12/21/2020 14:19:43,System Error: Cell SIM Error,5582,,G
+12/21/2020 14:20:00,System Error: SDI-12 no reply,5618,,G
+12/21/2020 14:20:01,System Error: Script Function Not Found,5599,,G
+12/21/2020 14:20:04,RS232 Connected,0,,G
+12/21/2020 14:20:14,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 14:20:16,RS232 Disconnected,0,,G
+12/21/2020 14:22:39,USB Cable,1,,G
+12/21/2020 14:25:01,System Error: SDI-12 no reply,5618,,G
+12/21/2020 14:25:04,RS232 Connected,0,,G
+12/21/2020 14:25:16,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 14:25:16,RS232 Disconnected,0,,G
+12/21/2020 14:25:39,Setup Change,0,,G
+12/21/2020 14:25:57,System Error: Cell SIM Error,5582,,G
+12/21/2020 14:26:45,System Error: Script Function Not Found,5599,,G
+12/21/2020 14:26:49,RS232 Connected,0,,G
+12/21/2020 14:27:02,RS232 Disconnected,0,,G
+12/21/2020 14:27:19,StatusClear,0,,G
+12/21/2020 14:29:40,Setup Change,0,,G
+12/21/2020 14:29:45,RS232 Connected,0,,G
+12/21/2020 14:29:46,RS232 Disconnected,0,,G
+12/21/2020 14:30:04,RS232 Connected,0,,G
+12/21/2020 14:30:04,RS232 Disconnected,0,,G
+12/21/2020 14:30:33,RS232 Connected,0,,G
+12/21/2020 14:30:33,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 14:30:33,RS232 Disconnected,0,,G
+12/21/2020 14:30:59,RS232 Connected,0,,G
+12/21/2020 14:30:59,RS232 Disconnected,0,,G
+12/21/2020 14:31:04,Setup Change,0,,G
+12/21/2020 14:31:52,System Error: Cell SIM Error,5582,,G
+12/21/2020 14:32:13,System Error: Script Function Not Found,5599,,G
+12/21/2020 14:32:39,Setup Change,0,,G
+12/21/2020 14:33:12,RS232 Connected,0,,G
+12/21/2020 14:33:25,RS232 Disconnected,0,,G
+12/21/2020 14:34:20,RS232 Connected,0,,G
+12/21/2020 14:34:20,RS232 Disconnected,0,,G
+12/21/2020 14:35:00,Alarm In,1,,G
+12/21/2020 14:35:00,Setup Change,0,,G
+12/21/2020 14:35:04,RS232 Connected,0,,G
+12/21/2020 14:35:17,RS232 Disconnected,0,,G
+12/21/2020 14:35:19,BottleChang,1,,G
+12/21/2020 14:35:31,RS232 Connected,0,,G
+12/21/2020 14:35:31,RS232 Disconnected,0,,G
+12/21/2020 14:35:33,Setup Change,0,,G
+12/21/2020 14:35:33,RS232 Connected,0,,G
+12/21/2020 14:35:33,Recording,0,,G
+12/21/2020 14:35:34,Time Before Change,28800000,ms,G
+12/21/2020 22:35:34,Time After Change,28800000,ms,G
+12/21/2020 22:35:34,Local Time Offset Change,0,,G
+12/21/2020 22:35:37,Time Before Change,-28800000,ms,G
+12/21/2020 14:35:37,Time After Change,-28800000,ms,G
+12/21/2020 14:35:37,Local Time Offset Change,0,,G
+12/21/2020 14:35:53,Recording,1,,G
+12/21/2020 14:35:55,SDI XDT,0,,G
+12/21/2020 14:36:44,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 14:37:09,System Error: Cell SIM Error,5582,,G
+12/21/2020 14:39:18,Setup Change,0,,G
+12/21/2020 14:39:23,StatusClear,0,,G
+12/21/2020 14:40:00,Alarm In,1,,G
+12/21/2020 14:40:00,Setup Change,0,,G
+12/21/2020 14:40:30,Setup Change,0,,G
+12/21/2020 14:41:06,Setup Change,0,,G
+12/21/2020 14:42:25,Setup Change,0,,G
+12/21/2020 14:43:34,Setup Change,0,,G
+12/21/2020 14:44:57,System Error: Modbus Sensor Failure,5593,,G
+12/21/2020 14:45:44,Setup Change,0,,G
+12/21/2020 14:46:18,Setup Change,0,,G
+12/21/2020 14:46:41,StatusClear,0,,G
+12/21/2020 14:47:12,Setup Change,0,,G
+12/21/2020 14:51:02,System Error: Cell SIM Error,5582,,G
+12/21/2020 14:53:35,Setup Change,0,,G
+12/21/2020 15:01:15,Log Download,0,,G

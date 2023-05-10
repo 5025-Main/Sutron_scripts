@@ -562,7 +562,7 @@ def number_of_aliquots(input):
 @TASK
 def turn_on_sampling():
     print("Started sampling!")
-    for i in [i for i in range(5,14,1)]:
+    for i in [i for i in range(5,31,1)]:
         setup_write("!M"+str(i)+" meas interval", "00:01:00")
     # Start sampling when level triggered
     gp_write_value_by_label("sampling_on", 1)  # 1=True
@@ -584,6 +584,8 @@ def turn_on_sampling():
         g_running_total = 0.0  # start at 0 and count up to pacing
     if pacing_weighting == "TIME":
         g_running_total = sample_pacing  # start at time pacing and count down
+        ## Trigger a sample immediately when sampling is started (only in time-weighted program)
+        trigger_sampler()
     bottle_num = float(setup_read("M2 Offset"))
     aliquots_in_bottle = 0
     vol_in_bottle = 0

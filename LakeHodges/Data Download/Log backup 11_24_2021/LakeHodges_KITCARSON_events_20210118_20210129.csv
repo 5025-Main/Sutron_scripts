@@ -1,0 +1,47 @@
+DateTime,Label,Value,Units,Quality
+01/18/2021 13:05:39,Log Download,0,,G
+01/18/2021 13:07:34,USB Cable,0,,G
+01/18/2021 13:07:47,USB Cable,1,,G
+01/18/2021 13:08:38,Log Download,0,,G
+01/18/2021 13:11:18,Setup Change,0,,G
+01/18/2021 13:11:22,System Error: Script Function Not Found,5599,,G
+01/18/2021 13:11:50,StatusClear,0,,G
+01/18/2021 13:13:17,Trigger Man,1,,G
+01/18/2021 13:13:17,Setup Change,0,,G
+01/18/2021 13:13:50,StatusClear,0,,G
+01/18/2021 13:14:25,Setup Change,0,,G
+01/18/2021 13:14:32,System Error: Modbus Sensor Failure,5593,,G
+01/18/2021 13:15:23,USB Cable,0,,G
+01/18/2021 17:34:38,SDI XDT,0,,G
+01/19/2021 17:34:59,SDI XDT,0,,G
+01/20/2021 17:34:59,SDI XDT,0,,G
+01/21/2021 17:39:59,SDI XDT,0,,G
+01/22/2021 17:07:24,Time Before Change,-2061,ms,G
+01/22/2021 17:07:22,Time After Change,-2061,ms,G
+01/22/2021 17:07:22,Cell Set Time,0,,G
+01/22/2021 17:07:22,SDI XDT,0,,G
+01/23/2021 17:09:59,SDI XDT,0,,G
+01/24/2021 17:14:59,SDI XDT,0,,G
+01/25/2021 07:25:56,Log Download,0,,G
+01/25/2021 07:26:47,Client Conn,1,,G
+01/25/2021 08:14:49,Client Conn,2,,G
+01/25/2021 08:15:08,SMS Receive,1,,G
+01/25/2021 08:15:26,SMS Receive,2,,G
+01/25/2021 08:29:28,SMS Receive,3,,G
+01/25/2021 08:57:39,SMS Receive,4,,G
+01/25/2021 09:37:32,SMS Receive,5,,G
+01/25/2021 10:11:30,SMS Receive,6,,G
+01/25/2021 17:16:33,SDI XDT,0,,G
+01/26/2021 16:15:01,Wi-Fi Connected,0,,G
+01/18/2021 16:00:00,Trigger Man,1,,G
+01/18/2021 16:00:00,Trigger Man,1,,G
+01/26/2021 16:19:47,Wi-Fi Disconnected,0,,G
+01/26/2021 17:19:52,SDI XDT,0,,G
+01/27/2021 09:54:04,Client Conn,3,,G
+01/27/2021 17:24:06,SDI XDT,0,,G
+01/28/2021 17:24:59,SDI XDT,0,,G
+01/28/2021 19:19:14,Setup Change,0,,G
+01/28/2021 19:20:17,Client Conn,4,,G
+01/28/2021 20:24:36,Client Conn,5,,G
+01/29/2021 00:50:00,Alarm In,12,,G
+01/29/2021 00:50:00,Setup Change,0,,G

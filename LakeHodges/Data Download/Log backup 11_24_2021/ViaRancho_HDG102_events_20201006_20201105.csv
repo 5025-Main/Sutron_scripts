@@ -1,0 +1,302 @@
+Date,Time,Label,Value,Units,Quality
+10/06/2020,12:39:59,SDI XDT,0,,G
+10/06/2020,13:37:01,SMS Receive,5,,G
+10/06/2020,13:37:47,SMS Receive,6,,G
+10/06/2020,23:59:59,Battery,12.87,V,G
+10/06/2020,23:59:59,Internal Temp,23.15,C,G
+10/06/2020,23:59:59,SMS Received Today,2,,G
+10/06/2020,23:59:59,Cell Clients Today,0,,G
+10/06/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/06/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/06/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/07/2020,12:44:59,SDI XDT,0,,G
+10/07/2020,23:59:59,Battery,12.86,V,G
+10/07/2020,23:59:59,Internal Temp,22.79,C,G
+10/07/2020,23:59:59,SMS Received Today,0,,G
+10/07/2020,23:59:59,Cell Clients Today,0,,G
+10/07/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/07/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/07/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/08/2020,12:44:59,SDI XDT,0,,G
+10/08/2020,13:54:33,SMS Receive,7,,G
+10/08/2020,13:55:54,SMS Receive,8,,G
+10/08/2020,23:59:59,Battery,12.87,V,G
+10/08/2020,23:59:59,Internal Temp,19.35,C,G
+10/08/2020,23:59:59,SMS Received Today,2,,G
+10/08/2020,23:59:59,Cell Clients Today,0,,G
+10/08/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/08/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/08/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/09/2020,12:49:59,SDI XDT,0,,G
+10/09/2020,14:07:01,SMS Receive,9,,G
+10/09/2020,14:07:30,SMS Receive,10,,G
+10/09/2020,14:10:11,SMS Receive,11,,G
+10/09/2020,14:11:48,Client Conn,4,,G
+10/09/2020,14:12:49,Wi-Fi Connected,0,,G
+10/09/2020,14:13:34,Upgrade Start,8.32,,G
+10/09/2020,14:13:34,Rev Start,3239,,G
+10/09/2020,14:13:34,Wi-Fi Disconnected,0,,G
+10/09/2020,14:13:51,Reset Soft,4,,G
+10/09/2020,14:13:51,Upgrade Complete,8.35,,G
+10/09/2020,14:13:51,Rev Complet,3369,,G
+10/09/2020,14:13:53,SDI XDT,0,,G
+10/09/2020,14:13:54,Battery,13.49,V,G
+10/09/2020,14:13:54,Internal Temp,24.91,C,G
+10/09/2020,14:14:26,Time Before Change,1944,ms,G
+10/09/2020,14:14:28,Time After Change,1944,ms,G
+10/09/2020,14:14:28,Cell Set Time,0,,G
+10/09/2020,14:14:30,SDI XDT,0,,G
+10/09/2020,14:16:53,Wi-Fi Connected,0,,G
+10/09/2020,14:17:19,Setup Change,0,,G
+10/09/2020,14:17:25,Wi-Fi Disconnected,0,,G
+10/09/2020,14:18:12,Wi-Fi Connected,0,,G
+10/09/2020,14:18:27,Reset Soft,5,,G
+10/09/2020,14:18:29,SDI XDT,0,,G
+10/09/2020,14:18:30,Battery,13.41,V,G
+10/09/2020,14:18:30,Internal Temp,24.98,C,G
+10/09/2020,14:18:40,Wi-Fi Connected,0,,G
+10/09/2020,14:18:40,Wi-Fi Disconnected,0,,G
+10/09/2020,14:19:02,Time Before Change,-1056,ms,G
+10/09/2020,14:19:01,Time After Change,-1056,ms,G
+10/09/2020,14:19:01,Cell Set Time,0,,G
+10/09/2020,14:19:03,SDI XDT,0,,G
+10/09/2020,14:20:17,Wi-Fi Connected,0,,G
+10/09/2020,14:20:40,Wi-Fi Disconnected,0,,G
+10/09/2020,14:22:34,Client Conn,5,,G
+10/09/2020,18:11:06,Client Conn,6,,G
+10/09/2020,23:59:59,Battery,12.85,V,G
+10/09/2020,23:59:59,Internal Temp,22.16,C,G
+10/09/2020,23:59:59,SMS Received Today,3,,G
+10/09/2020,23:59:59,Cell Clients Today,3,,G
+10/09/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/09/2020,23:59:59,Cell Bytes Tx Today,6362,,G
+10/09/2020,23:59:59,Cell Bytes Rx Today,328,,G
+10/10/2020,14:19:59,SDI XDT,0,,G
+10/10/2020,23:59:59,Battery,12.85,V,G
+10/10/2020,23:59:59,Internal Temp,20.41,C,G
+10/10/2020,23:59:59,SMS Received Today,0,,G
+10/10/2020,23:59:59,Cell Clients Today,0,,G
+10/10/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/10/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/10/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/11/2020,14:24:59,SDI XDT,0,,G
+10/11/2020,23:59:59,Battery,12.84,V,G
+10/11/2020,23:59:59,Internal Temp,20.82,C,G
+10/11/2020,23:59:59,SMS Received Today,0,,G
+10/11/2020,23:59:59,Cell Clients Today,0,,G
+10/11/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/11/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/11/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/12/2020,05:44:57,SMS Receive,12,,G
+10/12/2020,05:47:30,Client Conn,7,,G
+10/12/2020,05:51:13,Client Conn,8,,G
+10/12/2020,08:48:19,Client Conn,9,,G
+10/12/2020,14:20:39,Time Before Change,3939,ms,G
+10/12/2020,14:20:43,Time After Change,3939,ms,G
+10/12/2020,14:20:43,Cell Set Time,0,,G
+10/12/2020,14:20:43,SDI XDT,0,,G
+10/12/2020,23:59:59,Battery,12.85,V,G
+10/12/2020,23:59:59,Internal Temp,23.82,C,G
+10/12/2020,23:59:59,SMS Received Today,1,,G
+10/12/2020,23:59:59,Cell Clients Today,3,,G
+10/12/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/12/2020,23:59:59,Cell Bytes Tx Today,13980,,G
+10/12/2020,23:59:59,Cell Bytes Rx Today,532,,G
+10/13/2020,13:23:05,Log Download,0,,G
+10/13/2020,13:23:32,Log Download,0,,G
+10/13/2020,13:23:45,Log Download,0,,G
+10/13/2020,13:24:38,Client Conn,10,,G
+10/13/2020,14:24:40,SDI XDT,0,,G
+10/13/2020,23:59:59,Battery,12.85,V,G
+10/13/2020,23:59:59,Internal Temp,23.63,C,G
+10/13/2020,23:59:59,SMS Received Today,0,,G
+10/13/2020,23:59:59,Cell Clients Today,1,,G
+10/13/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/13/2020,23:59:59,Cell Bytes Tx Today,766699,,G
+10/13/2020,23:59:59,Cell Bytes Rx Today,354,,G
+10/14/2020,14:24:59,SDI XDT,0,,G
+10/14/2020,23:59:59,Battery,12.85,V,G
+10/14/2020,23:59:59,Internal Temp,23.23,C,G
+10/14/2020,23:59:59,SMS Received Today,0,,G
+10/14/2020,23:59:59,Cell Clients Today,0,,G
+10/14/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/14/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/14/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/15/2020,14:29:59,SDI XDT,0,,G
+10/15/2020,23:59:59,Battery,12.86,V,G
+10/15/2020,23:59:59,Internal Temp,23.34,C,G
+10/15/2020,23:59:59,SMS Received Today,0,,G
+10/15/2020,23:59:59,Cell Clients Today,0,,G
+10/15/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/15/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/15/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/16/2020,14:34:59,SDI XDT,0,,G
+10/16/2020,23:59:59,Battery,12.86,V,G
+10/16/2020,23:59:59,Internal Temp,23.74,C,G
+10/16/2020,23:59:59,SMS Received Today,0,,G
+10/16/2020,23:59:59,Cell Clients Today,0,,G
+10/16/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/16/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/16/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/17/2020,14:34:59,SDI XDT,0,,G
+10/17/2020,23:59:59,Battery,12.85,V,G
+10/17/2020,23:59:59,Internal Temp,22.45,C,G
+10/17/2020,23:59:59,SMS Received Today,0,,G
+10/17/2020,23:59:59,Cell Clients Today,0,,G
+10/17/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/17/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/17/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/18/2020,14:39:59,SDI XDT,0,,G
+10/18/2020,23:59:59,Battery,12.85,V,G
+10/18/2020,23:59:59,Internal Temp,21.30,C,G
+10/18/2020,23:59:59,SMS Received Today,0,,G
+10/18/2020,23:59:59,Cell Clients Today,0,,G
+10/18/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/18/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/18/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/19/2020,14:39:59,SDI XDT,0,,G
+10/19/2020,23:59:59,Battery,12.84,V,G
+10/19/2020,23:59:59,Internal Temp,20.29,C,G
+10/19/2020,23:59:59,SMS Received Today,0,,G
+10/19/2020,23:59:59,Cell Clients Today,0,,G
+10/19/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/19/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/19/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/20/2020,14:44:59,SDI XDT,0,,G
+10/20/2020,23:59:59,Battery,12.82,V,G
+10/20/2020,23:59:59,Internal Temp,20.56,C,G
+10/20/2020,23:59:59,SMS Received Today,0,,G
+10/20/2020,23:59:59,Cell Clients Today,0,,G
+10/20/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/20/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/20/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/21/2020,14:49:59,SDI XDT,0,,G
+10/21/2020,23:59:59,Battery,12.82,V,G
+10/21/2020,23:59:59,Internal Temp,21.26,C,G
+10/21/2020,23:59:59,SMS Received Today,0,,G
+10/21/2020,23:59:59,Cell Clients Today,0,,G
+10/21/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/21/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/21/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/22/2020,14:54:59,SDI XDT,0,,G
+10/22/2020,23:59:59,Battery,12.83,V,G
+10/22/2020,23:59:59,Internal Temp,20.70,C,G
+10/22/2020,23:59:59,SMS Received Today,0,,G
+10/22/2020,23:59:59,Cell Clients Today,0,,G
+10/22/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/22/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/22/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/23/2020,14:54:59,SDI XDT,0,,G
+10/23/2020,23:59:59,Battery,12.84,V,G
+10/23/2020,23:59:59,Internal Temp,20.70,C,G
+10/23/2020,23:59:59,SMS Received Today,0,,G
+10/23/2020,23:59:59,Cell Clients Today,0,,G
+10/23/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/23/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/23/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/24/2020,14:59:59,SDI XDT,0,,G
+10/24/2020,23:59:59,Battery,12.85,V,G
+10/24/2020,23:59:59,Internal Temp,21.30,C,G
+10/24/2020,23:59:59,SMS Received Today,0,,G
+10/24/2020,23:59:59,Cell Clients Today,0,,G
+10/24/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/24/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/24/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/25/2020,14:59:59,SDI XDT,0,,G
+10/25/2020,23:59:59,Battery,12.85,V,G
+10/25/2020,23:59:59,Internal Temp,19.24,C,G
+10/25/2020,23:59:59,SMS Received Today,0,,G
+10/25/2020,23:59:59,Cell Clients Today,0,,G
+10/25/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/25/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/25/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/26/2020,10:50:00,Client Conn,11,,G
+10/26/2020,10:55:09,Client Conn,12,,G
+10/26/2020,12:30:10,Client Conn,13,,G
+10/26/2020,15:00:12,SDI XDT,0,,G
+10/26/2020,23:59:59,Battery,12.84,V,G
+10/26/2020,23:59:59,Internal Temp,13.83,C,G
+10/26/2020,23:59:59,SMS Received Today,0,,G
+10/26/2020,23:59:59,Cell Clients Today,3,,G
+10/26/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/26/2020,23:59:59,Cell Bytes Tx Today,7329,,G
+10/26/2020,23:59:59,Cell Bytes Rx Today,336,,G
+10/27/2020,14:23:56,Time Before Change,2937,ms,G
+10/27/2020,14:23:59,Time After Change,2937,ms,G
+10/27/2020,14:23:59,Cell Set Time,0,,G
+10/27/2020,14:23:59,SDI XDT,0,,G
+10/27/2020,23:59:59,Battery,12.84,V,G
+10/27/2020,23:59:59,Internal Temp,14.75,C,G
+10/27/2020,23:59:59,SMS Received Today,0,,G
+10/27/2020,23:59:59,Cell Clients Today,0,,G
+10/27/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/27/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/27/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/28/2020,14:24:59,SDI XDT,0,,G
+10/28/2020,23:59:59,Battery,12.84,V,G
+10/28/2020,23:59:59,Internal Temp,15.52,C,G
+10/28/2020,23:59:59,SMS Received Today,0,,G
+10/28/2020,23:59:59,Cell Clients Today,0,,G
+10/28/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/28/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/28/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/29/2020,14:29:59,SDI XDT,0,,G
+10/29/2020,23:59:59,Battery,12.84,V,G
+10/29/2020,23:59:59,Internal Temp,16.78,C,G
+10/29/2020,23:59:59,SMS Received Today,0,,G
+10/29/2020,23:59:59,Cell Clients Today,0,,G
+10/29/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/29/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/29/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/30/2020,14:29:59,SDI XDT,0,,G
+10/30/2020,23:59:59,Battery,12.84,V,G
+10/30/2020,23:59:59,Internal Temp,17.23,C,G
+10/30/2020,23:59:59,SMS Received Today,0,,G
+10/30/2020,23:59:59,Cell Clients Today,0,,G
+10/30/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/30/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/30/2020,23:59:59,Cell Bytes Rx Today,0,,G
+10/31/2020,14:34:59,SDI XDT,0,,G
+10/31/2020,23:59:59,Battery,12.85,V,G
+10/31/2020,23:59:59,Internal Temp,17.65,C,G
+10/31/2020,23:59:59,SMS Received Today,0,,G
+10/31/2020,23:59:59,Cell Clients Today,0,,G
+10/31/2020,23:59:59,Cell Clients Blocked Today,0,,G
+10/31/2020,23:59:59,Cell Bytes Tx Today,0,,G
+10/31/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/01/2020,14:34:59,SDI XDT,0,,G
+11/01/2020,23:59:59,Battery,12.84,V,G
+11/01/2020,23:59:59,Internal Temp,18.45,C,G
+11/01/2020,23:59:59,SMS Received Today,0,,G
+11/01/2020,23:59:59,Cell Clients Today,0,,G
+11/01/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/01/2020,23:59:59,Cell Bytes Tx Today,0,,G
+11/01/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/02/2020,12:40:32,Log Download,0,,G
+11/02/2020,12:45:26,Client Conn,14,,G
+11/02/2020,14:35:28,SDI XDT,0,,G
+11/02/2020,23:59:59,Battery,12.83,V,G
+11/02/2020,23:59:59,Internal Temp,18.18,C,G
+11/02/2020,23:59:59,SMS Received Today,0,,G
+11/02/2020,23:59:59,Cell Clients Today,1,,G
+11/02/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/02/2020,23:59:59,Cell Bytes Tx Today,379647,,G
+11/02/2020,23:59:59,Cell Bytes Rx Today,162,,G
+11/03/2020,14:39:59,SDI XDT,0,,G
+11/03/2020,23:59:59,Battery,12.84,V,G
+11/03/2020,23:59:59,Internal Temp,17.99,C,G
+11/03/2020,23:59:59,SMS Received Today,0,,G
+11/03/2020,23:59:59,Cell Clients Today,0,,G
+11/03/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/03/2020,23:59:59,Cell Bytes Tx Today,0,,G
+11/03/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/04/2020,14:44:59,SDI XDT,0,,G
+11/04/2020,23:59:59,Battery,12.84,V,G
+11/04/2020,23:59:59,Internal Temp,18.60,C,G
+11/04/2020,23:59:59,SMS Received Today,0,,G
+11/04/2020,23:59:59,Cell Clients Today,0,,G
+11/04/2020,23:59:59,Cell Clients Blocked Today,0,,G
+11/04/2020,23:59:59,Cell Bytes Tx Today,0,,G
+11/04/2020,23:59:59,Cell Bytes Rx Today,0,,G
+11/05/2020,14:49:59,SDI XDT,0,,G
+11/05/2020,16:32:12,Wi-Fi Connected,0,,G

@@ -1,0 +1,17 @@
+DateTime,Label,Value,Units,Quality
+03/03/2021 22:07:22,Client Conn,85,,G
+03/03/2021 22:08:00,Log Download,0,,G
+03/03/2021 22:08:25,Client Conn,86,,G
+03/03/2021 22:10:00,Triggered S,12,,G
+03/03/2021 22:10:00,VolumeTrig,514.86,,G
+03/03/2021 22:22:00,Triggered S,13,,G
+03/03/2021 22:22:00,VolumeTrig,501.55,,G
+03/03/2021 22:35:00,Triggered S,14,,G
+03/03/2021 22:35:00,VolumeTrig,502.51,,G
+03/03/2021 22:49:00,Triggered S,15,,G
+03/03/2021 22:49:00,VolumeTrig,504.74,,G
+03/03/2021 23:04:00,Triggered S,16,,G
+03/03/2021 23:04:00,VolumeTrig,514.02,,G
+03/03/2021 23:20:00,Triggered S,17,,G
+03/03/2021 23:20:00,VolumeTrig,520.59,,G
+03/03/2021 23:30:22,Log Download,0,,G

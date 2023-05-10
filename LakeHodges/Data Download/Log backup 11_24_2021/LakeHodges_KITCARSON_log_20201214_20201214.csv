@@ -1,0 +1,5 @@
+Station Name,model and version,XL2 S/N
+LakeHodges_KITCARSON,Sutron XLink 500 Version 8.35 Build 17:45:51 09/23/2020 revision 3369,1911373
+Label,Meas Type,Slope,Offset,Equation
+PT Level,SDI-12,1.000000,0.000000,Off
+Flow_cfs,Meta,1.000000,0.000000,Off

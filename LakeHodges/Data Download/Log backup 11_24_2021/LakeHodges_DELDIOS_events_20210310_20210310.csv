@@ -1,0 +1,41 @@
+DateTime,Label,Value,Units,Quality
+03/10/2021 00:02:51,Client Conn,98,,G
+03/10/2021 04:05:00,Alarm In,12,,G
+03/10/2021 04:05:00,Setup Change,0,,G
+03/10/2021 04:11:18,Client Conn,99,,G
+03/10/2021 04:41:10,Client Conn,100,,G
+03/10/2021 04:55:00,Triggered S,1,,G
+03/10/2021 04:55:00,VolumeTrig,1526.29,,G
+03/10/2021 05:20:18,Client Conn,101,,G
+03/10/2021 05:54:00,Triggered S,2,,G
+03/10/2021 05:54:00,VolumeTrig,1504.43,,G
+03/10/2021 06:13:59,Client Conn,102,,G
+03/10/2021 06:29:22,Client Conn,103,,G
+03/10/2021 06:41:00,Triggered S,3,,G
+03/10/2021 06:41:00,VolumeTrig,1507.05,,G
+03/10/2021 07:34:00,Triggered S,4,,G
+03/10/2021 07:34:00,VolumeTrig,1516.75,,G
+03/10/2021 07:46:26,Client Conn,104,,G
+03/10/2021 08:26:24,Client Conn,105,,G
+03/10/2021 08:27:08,Log Download,0,,G
+03/10/2021 08:27:31,Client Conn,106,,G
+03/10/2021 08:29:00,Triggered S,5,,G
+03/10/2021 08:29:00,VolumeTrig,1518.17,,G
+03/10/2021 09:35:00,Triggered S,6,,G
+03/10/2021 09:35:00,VolumeTrig,1500.03,,G
+03/10/2021 10:22:33,SDI XDT,0,,G
+03/10/2021 10:42:00,Triggered S,7,,G
+03/10/2021 10:42:00,VolumeTrig,1520.89,,G
+03/10/2021 11:20:52,Client Conn,107,,G
+03/10/2021 11:44:00,Triggered S,8,,G
+03/10/2021 11:44:00,VolumeTrig,1512.17,,G
+03/10/2021 12:25:05,Log Download,0,,G
+03/10/2021 12:25:21,Client Conn,108,,G
+03/10/2021 12:50:00,Triggered S,9,,G
+03/10/2021 12:50:00,VolumeTrig,1510.89,,G
+03/10/2021 14:03:00,Triggered S,10,,G
+03/10/2021 14:03:00,VolumeTrig,1516.32,,G
+03/10/2021 15:31:00,Triggered S,11,,G
+03/10/2021 15:31:00,VolumeTrig,1506.55,,G
+03/10/2021 16:09:17,Client Conn,109,,G
+03/10/2021 16:13:41,Log Download,0,,G
